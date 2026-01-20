@@ -15,7 +15,7 @@ df = pd.read_csv('comma-survey.csv')
 # In[3]:
 
 
-df.head()
+#df.head()
 df.columns
 
 
