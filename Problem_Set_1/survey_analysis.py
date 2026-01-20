@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the CSV file into a DataFrame
-df = pd.read_csv('/Users/tadcarney/Desktop/plsc_2253/s&ds_3350/comma-survey.csv')
+df = pd.read_csv('comma-survey.csv')
 
 
 # In[3]:
