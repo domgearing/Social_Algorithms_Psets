@@ -6,42 +6,147 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# In[2]:
+# Load data
 df_raw = pd.read_csv('comma-survey.csv')
 df_gpt = pd.read_csv('gpt_comma_survey.csv')
 
+# Rename columns for both datasets
+column_mapping = {
+    'RespondentID': 'id',
+    'In your opinion, which sentence is more gramatically correct?': 'comma_preference',
+    'Prior to reading about it above, had you heard of the serial (or Oxford) comma?': 'heard_of_comma',
+    'How much, if at all, do you care about the use (or lack thereof) of the serial (or Oxford) comma in grammar?': 'care_oxford_comma',
+    'How would you write the following sentence?': 'sentence_preference',
+    'When faced with using the word "data", have you ever spent time considering if the word was a singular or plural noun?': 'data_singular_plural_consideration',
+    'How much, if at all, do you care about the debate over the use of the word "data" as a singluar or plural noun?': 'care_data_debate',
+    'In your opinion, how important or unimportant is proper use of grammar?': 'grammar_importance'
+}
 
-# In[3]:
-def plot_distributions(df, columns, title_prefix="Distribution of"):
+df_raw.rename(columns=column_mapping, inplace=True)
+df_gpt.rename(columns=column_mapping, inplace=True)
+
+
+
+question_cols = [
+    'comma_preference', 
+    'heard_of_comma', 
+    'care_oxford_comma', 
+    'sentence_preference',
+    'data_singular_plural_consideration',
+    'care_data_debate',
+    'grammar_importance'
+]
+
+
+# In[2]:
+# Define valid responses for each question -- GPT gave some slightly off answers, 
+# so we used AI to generate this code that matches based on key distinguishing content.
+
+valid_responses = {
+    'comma_preference': [
+        "It's important for a person to be honest, kind and loyal.",
+        "It's important for a person to be honest, kind, and loyal."
+    ],
+    'heard_of_comma': ["Yes", "No"],
+    'care_oxford_comma': ["A lot", "Some", "Not much", "Not at all"],
+    'sentence_preference': [
+        "Some experts say it's important to drink milk, but the data are inconclusive.",
+        "Some experts say it's important to drink milk, but the data is inconclusive."
+    ],
+    'data_singular_plural_consideration': ["Yes", "No"],
+    'care_data_debate': ["A lot", "Some", "Not much", "Not at all"],
+    'grammar_importance': ["Very important", "Somewhat important", "Somewhat unimportant", "Very unimportant"]
+}
+
+def match_to_valid_fuzzy(response, valid_options, col):
     """
-    Helper function to plot bar charts for categorical columns.
+    Match based on key distinguishing content.
+    """
+    if pd.isna(response):
+        return response
+    
+    cleaned = response.lower()
+    
+    # For comma_preference - check if "kind, and" (with comma) or "kind and" (without)
+    if col == 'comma_preference':
+        if 'kind, and' in cleaned:
+            return "It's important for a person to be honest, kind, and loyal."
+        elif 'kind and' in cleaned:
+            return "It's important for a person to be honest, kind and loyal."
+    
+    # For sentence_preference - check "data are" vs "data is"
+    if col == 'sentence_preference':
+        if 'data are' in cleaned:
+            return "Some experts say it's important to drink milk, but the data are inconclusive."
+        elif 'data is' in cleaned:
+            return "Some experts say it's important to drink milk, but the data is inconclusive."
+    
+    # For simple yes/no or short answers - strip quotes and periods, then match
+    cleaned_simple = cleaned.strip().strip('"').strip("'").strip('.').strip()
+    for valid in valid_options:
+        if valid.lower() == cleaned_simple:
+            return valid
+    
+    print(f"No match found for: {repr(response)}")
+    return response
+
+# Apply the mapping to each column
+for col in question_cols:
+    df_gpt[col] = df_gpt[col].apply(
+        lambda x: match_to_valid_fuzzy(x, valid_responses[col], col)
+    )
+
+
+
+# In[2]:
+def plot_comparison(df_human, df_gpt, columns):
+    """
+    Plot side-by-side comparison of response distributions for human vs GPT data.
     """
     for col in columns:
-        if col not in df.columns:
+        if col not in df_human.columns or col not in df_gpt.columns:
             continue
-        plt.figure(figsize=(10, 6))
         
-        # Calculate percentages
-        percentages = df[col].value_counts(normalize=True) * 100
+        # Calculate percentages for both datasets
+        human_pct = df_human[col].value_counts(normalize=True) * 100
+        gpt_pct = df_gpt[col].value_counts(normalize=True) * 100
         
-        # Create bar plot with percentages
-        ax = sns.barplot(y=percentages.index, x=percentages.values, palette="viridis")
-        plt.title(f'{title_prefix}: {col.replace("_", " ").title()}')
+        # Get all unique responses from both datasets
+        all_responses = list(set(human_pct.index) | set(gpt_pct.index))
+        
+        # Create a combined dataframe for plotting
+        comparison_df = pd.DataFrame({
+            'Response': all_responses * 2,
+            'Percentage': [human_pct.get(r, 0) for r in all_responses] + [gpt_pct.get(r, 0) for r in all_responses],
+            'Source': ['Human'] * len(all_responses) + ['GPT'] * len(all_responses)
+        })
+        
+        # Plot
+        plt.figure(figsize=(12, 6))
+        ax = sns.barplot(data=comparison_df, y='Response', x='Percentage', hue='Source', palette=['steelblue', 'coral'])
+        plt.title(f'Human vs GPT: {col.replace("_", " ").title()}')
         plt.xlabel('Percentage (%)')
         plt.ylabel('')
         
-        # Add percentage labels to the end of bars
+        # Add percentage labels
         for container in ax.containers:
             ax.bar_label(container, fmt='%.1f%%')
         
+        plt.legend(title='Source')
         plt.tight_layout()
         plt.show()
+        
+        # Print the raw numbers for the report
+        print(f"\n--- {col} ---")
+        print("Human responses:")
+        print(human_pct.round(1))
+        print("\nGPT responses:")
+        print(gpt_pct.round(1))
+        print()
+
+# Run the comparison
+plot_comparison(df_raw, df_gpt, question_cols)
+# %%
+
 
 # %%
-demo_cols = ['Gender', 'Age', 'Household Income', 'Education', 'Location (Census Region)']
-print("--- Plotting Demographics of raw data ---")
-plot_distributions(df_raw, demo_cols, title_prefix="Demographic")
-print("--- Plotting Demographics of GPT data ---")
-plot_distributions(df_gpt, demo_cols, title_prefix="Demographic (GPT)")
-
-## We do not notice a significant difference in demographics between the two datasets.
