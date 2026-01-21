@@ -72,11 +72,15 @@ model6_survey = lr.fit(X_encoded, y6_survey)
 model7_survey = lr.fit(X_encoded, y7_survey)
 # In[5]:
 
-
-
 # Now repeat for gpt_comma_survey.csv
 df_gpt = pd.read_csv('gpt_comma_survey.csv')
 df_gpt.rename(columns=column_mapping, inplace=True)
+
+
+for col in question_cols:
+    df_gpt[col] = df_gpt[col].str.strip('"')
+
+
 df_gpt_clean = df_gpt.dropna(subset=demo_cols + question_cols)
 print(f"GPT Original rows: {len(df_gpt)}")
 print(f"GPT After dropping missing: {len(df_gpt_clean)}")
@@ -103,6 +107,3 @@ model5_gpt = lr.fit(X_gpt_encoded, y5_gpt)
 model6_gpt = lr.fit(X_gpt_encoded, y6_gpt)
 model7_gpt = lr.fit(X_gpt_encoded, y7_gpt)
 
-# In[6]:
-print(df_gpt_clean['comma_preference'].value_counts())
-# %%

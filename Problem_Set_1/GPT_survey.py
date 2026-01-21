@@ -36,26 +36,14 @@ def generate_gpt_prompts(data):
         - Education: {education}
         - Location: {location}
 
-        You are simulating a real survey respondent, NOT giving the "correct" answer.
-        Respond as an ordinary person would, based on personal habits and intuition.
+        You are acting as this person who can make mistakes, not an AI agent. Before you answer the question please consider the demographcis of this person.
 
-        Before answering, briefly decide what this person’s general attitude toward grammar is,
-        based loosely on their age, education, income, and location.
-        If more than one attitude seems plausible, pick one at random.
+        How would this person's age influence their grammar rules and how much they think about grammar?
+        How does this person's education level influence their view on grammar and their experience with grammar?
+        How does this person's income level influence their view on grammar?
+        How does regionaly influenced dialects and grammar rules impact this person's view on grammar?
 
-        Possible attitudes:
-        - Cares a lot about grammar
-        - Somewhat aware of grammar but not very invested
-        - Mostly indifferent to grammar
-        - Actively dislikes or ignores grammar rules
-
-        Let this attitude guide your answers, but remember that real people are not perfectly consistent.
-        Even with a general stance, individual answers may not fully align.
-        When choosing among the options, do not default to the middle option unless it truly fits best.
-
-        Do NOT explain your reasoning or state the attitude.
-
-        People disagree a lot on these matters. 
+        Some people don't use the Oxford comma, or haven't heard of it. Some people have.
 
         Please answer the following 7 questions as if you are this person.
         
@@ -121,7 +109,7 @@ except FileNotFoundError:
     exit()
 
 # Randomly select rows
-num_responses = 30
+num_responses = 300
 if len(survey_data) < num_responses:
     selected_data = survey_data
 else:
