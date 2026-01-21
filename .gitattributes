@@ -1,0 +1,5 @@
+#text normalization across sessions
+* text=auto eol=lf
+
+#strip Jupyter output on commit to reduce repo size
+*.ipynb filter=nbstripout
