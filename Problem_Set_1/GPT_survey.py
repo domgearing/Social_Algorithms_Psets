@@ -36,7 +36,27 @@ def generate_gpt_prompts(data):
         - Education: {education}
         - Location: {location}
 
-        You are invited to participate in a survey about grammar usage.
+        You are simulating a real survey respondent, NOT giving the "correct" answer.
+        Respond as an ordinary person would, based on personal habits and intuition.
+
+        Before answering, briefly decide what this person’s general attitude toward grammar is,
+        based loosely on their age, education, income, and location.
+        If more than one attitude seems plausible, pick one at random.
+
+        Possible attitudes:
+        - Cares a lot about grammar
+        - Somewhat aware of grammar but not very invested
+        - Mostly indifferent to grammar
+        - Actively dislikes or ignores grammar rules
+
+        Let this attitude guide your answers, but remember that real people are not perfectly consistent.
+        Even with a general stance, individual answers may not fully align.
+        When choosing among the options, do not default to the middle option unless it truly fits best.
+
+        Do NOT explain your reasoning or state the attitude.
+
+        People disagree a lot on these matters. 
+
         Please answer the following 7 questions as if you are this person.
         
         Questions:
@@ -73,12 +93,11 @@ def poll_gpt(gpt_prompts, num_responses):
             response = client.chat.completions.create(
                 model="gpt-4o-mini",  # Cost-effective model for this assignment
                 messages=[
-                    {"role": "system", "content": "You are a helpful survey participant."},
                     {"role": "user", "content": gpt_prompts[i]}
                 ],
                 max_tokens=350,  # Adjusted to ensure full list of answers fits
                 n=1,  # Number of responses to generate
-                temperature=1.0,  # Adjust for response variability
+                temperature=1.4,  # Adjust for response variability
             )
             # Strip whitespace to clean the result
             content = response.choices[0].message.content.strip()
@@ -102,7 +121,7 @@ except FileNotFoundError:
     exit()
 
 # Randomly select rows
-num_responses = 300 
+num_responses = 30
 if len(survey_data) < num_responses:
     selected_data = survey_data
 else:
@@ -183,4 +202,6 @@ with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
         writer.writerow(row_to_write)
 
 print("Done.")
+
+
 

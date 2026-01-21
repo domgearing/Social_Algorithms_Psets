@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import OneHotEncoder
+from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 
 
 # In[2]:
@@ -36,3 +36,73 @@ question_cols = [
             'care_data_debate',
             'grammar_importance'
         ]
+
+df_clean = df.dropna(subset=demo_cols + question_cols)
+
+print(f"Original rows: {len(df)}")
+print(f"After dropping missing: {len(df_clean)}")
+
+# In[4]:
+X = df_clean[demo_cols]
+
+# One-hot encode the demographic variables
+encoder = OneHotEncoder(sparse_output=False, handle_unknown='ignore')
+X_encoded = encoder.fit_transform(X)
+
+
+# %%
+label_encoder = LabelEncoder()
+y1_survey = label_encoder.fit_transform(df_clean['comma_preference'])
+y2_survey = label_encoder.fit_transform(df_clean['heard_of_comma'])
+y3_survey = label_encoder.fit_transform(df_clean['care_oxford_comma'])
+y4_survey = label_encoder.fit_transform(df_clean['sentence_preference'])
+y5_survey = label_encoder.fit_transform(df_clean['data_singular_plural_consideration'])
+y6_survey = label_encoder.fit_transform(df_clean['care_data_debate'])
+y7_survey = label_encoder.fit_transform(df_clean['grammar_importance'])
+
+# %%
+# fitting the multinomial logistic regression models
+lr = LogisticRegression(solver='lbfgs', max_iter=1000)
+model1_survey = lr.fit(X_encoded, y1_survey)
+model2_survey = lr.fit(X_encoded, y2_survey)
+model3_survey = lr.fit(X_encoded, y3_survey)
+model4_survey = lr.fit(X_encoded, y4_survey)
+model5_survey = lr.fit(X_encoded, y5_survey)
+model6_survey = lr.fit(X_encoded, y6_survey)
+model7_survey = lr.fit(X_encoded, y7_survey)
+# In[5]:
+
+
+
+# Now repeat for gpt_comma_survey.csv
+df_gpt = pd.read_csv('gpt_comma_survey.csv')
+df_gpt.rename(columns=column_mapping, inplace=True)
+df_gpt_clean = df_gpt.dropna(subset=demo_cols + question_cols)
+print(f"GPT Original rows: {len(df_gpt)}")
+print(f"GPT After dropping missing: {len(df_gpt_clean)}")
+
+
+# %%
+X_gpt = df_gpt_clean[demo_cols]
+# One-hot encode the demographic variables
+X_gpt_encoded = encoder.transform(X_gpt)
+y1_gpt = label_encoder.fit_transform(df_gpt_clean['comma_preference'])
+y2_gpt = label_encoder.fit_transform(df_gpt_clean['heard_of_comma'])
+y3_gpt = label_encoder.fit_transform(df_gpt_clean['care_oxford_comma'])
+y4_gpt = label_encoder.fit_transform(df_gpt_clean['sentence_preference'])
+y5_gpt = label_encoder.fit_transform(df_gpt_clean['data_singular_plural_consideration'])
+y6_gpt = label_encoder.fit_transform(df_gpt_clean['care_data_debate'])
+y7_gpt = label_encoder.fit_transform(df_gpt_clean['grammar_importance'])
+# %%
+# fitting the multinomial logistic regression models
+model1_gpt = lr.fit(X_gpt_encoded, y1_gpt)
+model2_gpt = lr.fit(X_gpt_encoded, y2_gpt)
+model3_gpt = lr.fit(X_gpt_encoded, y3_gpt)
+model4_gpt = lr.fit(X_gpt_encoded, y4_gpt)
+model5_gpt = lr.fit(X_gpt_encoded, y5_gpt)
+model6_gpt = lr.fit(X_gpt_encoded, y6_gpt)
+model7_gpt = lr.fit(X_gpt_encoded, y7_gpt)
+
+# In[6]:
+print(df_gpt_clean['comma_preference'].value_counts())
+# %%
