@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # In[1]:
 import pandas as pd
 import numpy as np
@@ -70,21 +73,77 @@ model4_survey = lr.fit(X_encoded, y4_survey)
 model5_survey = lr.fit(X_encoded, y5_survey)
 model6_survey = lr.fit(X_encoded, y6_survey)
 model7_survey = lr.fit(X_encoded, y7_survey)
-# In[5]:
 
+
+
+
+
+# In[5]:
 # Now repeat for gpt_comma_survey.csv
 df_gpt = pd.read_csv('gpt_comma_survey.csv')
 df_gpt.rename(columns=column_mapping, inplace=True)
-
-
-for col in question_cols:
-    df_gpt[col] = df_gpt[col].str.strip('"')
 
 
 df_gpt_clean = df_gpt.dropna(subset=demo_cols + question_cols)
 print(f"GPT Original rows: {len(df_gpt)}")
 print(f"GPT After dropping missing: {len(df_gpt_clean)}")
 
+# Define valid responses for each question -- GPT gave some slightly off answers, 
+# so we used AI to generate this code that matches based on key distinguishing content.
+
+valid_responses = {
+    'comma_preference': [
+        "It's important for a person to be honest, kind and loyal.",
+        "It's important for a person to be honest, kind, and loyal."
+    ],
+    'heard_of_comma': ["Yes", "No"],
+    'care_oxford_comma': ["A lot", "Some", "Not much", "Not at all"],
+    'sentence_preference': [
+        "Some experts say it's important to drink milk, but the data are inconclusive.",
+        "Some experts say it's important to drink milk, but the data is inconclusive."
+    ],
+    'data_singular_plural_consideration': ["Yes", "No"],
+    'care_data_debate': ["A lot", "Some", "Not much", "Not at all"],
+    'grammar_importance': ["Very important", "Somewhat important", "Somewhat unimportant", "Very unimportant"]
+}
+
+def match_to_valid_fuzzy(response, valid_options, col):
+    """
+    Match based on key distinguishing content.
+    """
+    if pd.isna(response):
+        return response
+    
+    cleaned = response.lower()
+    
+    # For comma_preference - check if "kind, and" (with comma) or "kind and" (without)
+    if col == 'comma_preference':
+        if 'kind, and' in cleaned:
+            return "It's important for a person to be honest, kind, and loyal."
+        elif 'kind and' in cleaned:
+            return "It's important for a person to be honest, kind and loyal."
+    
+    # For sentence_preference - check "data are" vs "data is"
+    if col == 'sentence_preference':
+        if 'data are' in cleaned:
+            return "Some experts say it's important to drink milk, but the data are inconclusive."
+        elif 'data is' in cleaned:
+            return "Some experts say it's important to drink milk, but the data is inconclusive."
+    
+    # For simple yes/no or short answers - strip quotes and periods, then match
+    cleaned_simple = cleaned.strip().strip('"').strip('.').strip()
+    for valid in valid_options:
+        if valid.lower() == cleaned_simple:
+            return valid
+    
+    print(f"No match found for: {repr(response)}")
+    return response
+
+# Apply the mapping to each column
+for col in question_cols:
+    df_gpt_clean[col] = df_gpt_clean[col].apply(
+        lambda x: match_to_valid_fuzzy(x, valid_responses[col], col)
+    )
 
 # %%
 X_gpt = df_gpt_clean[demo_cols]
@@ -107,3 +166,4 @@ model5_gpt = lr.fit(X_gpt_encoded, y5_gpt)
 model6_gpt = lr.fit(X_gpt_encoded, y6_gpt)
 model7_gpt = lr.fit(X_gpt_encoded, y7_gpt)
 
+# %%
