@@ -1,0 +1,27 @@
+[project]
+name = "social-algorithms-psets"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "matplotlib",
+  "jupyter",
+  "ipykernel",
+  "pytest",
+  "ruff",
+  "black",
+  "isort",
+
+  # PyTorch CPU build (good default for Codespaces)
+  "torch",
+  "torchvision",
+  "torchaudio"
+]
+
+[tool.ruff]
+line-length = 88
+
+[tool.black]
+line-length = 88
