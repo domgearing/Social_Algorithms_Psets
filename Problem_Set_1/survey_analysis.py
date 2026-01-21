@@ -110,7 +110,10 @@ question_cols = [
             'comma_preference', 
             'heard_of_comma', 
             'care_oxford_comma', 
-            'grammar_importance'
+            'grammar_importance',
+            'data_singular_plural_consideration',
+            'care_data_debate',
+            'sentence_preference'
         ]
 print("--- Plotting Substantive Answers ---")
 plot_distributions(df, question_cols, title_prefix="Response")
