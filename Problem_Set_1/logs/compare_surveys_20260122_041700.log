@@ -1,0 +1,30 @@
+Script started at 2026-01-22 04:17:00
+Enter path to first survey CSV: Enter path to second survey CSV: Enter name for first survey (e.g., 'Human'): Enter name for second survey (e.g., 'GPT'): 
+Loading comma-survey.csv...
+Loaded 1129 rows
+Loading gpt_comma_essay.csv...
+Traceback (most recent call last):
+  File "/workspaces/Social_Algorithms_Psets/Problem_Set_1/compare_surveys.py", line 204, in <module>
+    main()
+  File "/workspaces/Social_Algorithms_Psets/Problem_Set_1/compare_surveys.py", line 187, in main
+    df2 = load_and_prepare_data(file2)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/Social_Algorithms_Psets/Problem_Set_1/compare_surveys.py", line 27, in load_and_prepare_data
+    df = pd.read_csv(filepath)
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 873, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 300, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1645, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/pandas/io/parsers/readers.py", line 1904, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "/home/vscode/.local/lib/python3.11/site-packages/pandas/io/common.py", line 926, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'gpt_comma_essay.csv'

@@ -7,9 +7,41 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+import sys
+from datetime import datetime
 
-# Load the CSV file into a DataFrame
+#make viz folder
+os.makedirs('viz', exist_ok=True)
+#make logs folder
+os.makedirs('logs', exist_ok=True)
+
+#setup logging to capture all output
+log_filename = f"logs/survey_analysis_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+log_file = open(log_filename, 'w')
+
+#redirect output to both console and log file simultaneously 
+class Tee:
+    def __init__(self, *files):
+        self.files = files
+    def write(self, data):
+        for f in self.files:
+            f.write(data)
+            f.flush()
+    def flush(self):
+        for f in self.files:
+            f.flush()
+
+sys.stdout = Tee(sys.stdout, log_file)
+sys.stderr = Tee(sys.stderr, log_file)
+
+print(f"Script started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+
+#load CSV file into DF
 df = pd.read_csv('comma-survey.csv')
+
+#To run on GPT survey results:
+#df = pd.read_csv('gpt_comma_survey.csv')
 
 
 # In[3]:
@@ -51,31 +83,29 @@ def analyze_missingness(df):
     print("\n")
 
     # Visualizing Missingness Pattern
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(16, 4))
     sns.heatmap(df.isnull(), cbar=False, cmap='viridis', yticklabels=False)
     plt.title('Missing Data Heatmap (Yellow = Missing)')
     plt.tight_layout()
-    plt.show()
+    plt.savefig('viz/01_missing_data_heatmap.png', dpi=300, bbox_inches='tight')
+    plt.close()
 
 
 # In[6]:
 
 
-def plot_distributions(df, columns, title_prefix="Distribution of"):
+def plot_distributions(df, columns, title_prefix="Distribution of", filename_prefix=""):
     """
     Helper function to plot bar charts for categorical columns.
     """
-    for col in columns:
+    for idx, col in enumerate(columns):
         if col not in df.columns:
             continue
             
         plt.figure(figsize=(10, 6))
         
-        # Calculate value counts and percentages
-        counts = df[col].value_counts(normalize=True).sort_index()
-        
         # Create bar plot
-        ax = sns.countplot(y=col, data=df, order=df[col].value_counts().index, palette="viridis")
+        ax = sns.countplot(y=col, hue=col, data=df, order=df[col].value_counts().index, palette="viridis", legend=False)
         
         plt.title(f'{title_prefix}: {col.replace("_", " ").title()}')
         plt.xlabel('Count')
@@ -86,7 +116,11 @@ def plot_distributions(df, columns, title_prefix="Distribution of"):
             ax.bar_label(container)
             
         plt.tight_layout()
-        plt.show()
+        # Save with filename
+        sanitized_col_name = col.replace(" ", "_").replace("(", "").replace(")", "").lower()
+        filename = f'viz/{filename_prefix}{idx+1:02d}_{sanitized_col_name}.png'
+        plt.savefig(filename, dpi=300, bbox_inches='tight')
+        plt.close()
 
 
 # In[7]:
@@ -100,7 +134,7 @@ analyze_missingness(df)
 
 demo_cols = ['Gender', 'Age', 'Household Income', 'Education', 'Location (Census Region)']
 print("--- Plotting Demographics ---")
-plot_distributions(df, demo_cols, title_prefix="Demographic")
+plot_distributions(df, demo_cols, title_prefix="Demographic", filename_prefix="demo_")
 
 
 # In[12]:
@@ -116,7 +150,7 @@ question_cols = [
             'sentence_preference'
         ]
 print("--- Plotting Substantive Answers ---")
-plot_distributions(df, question_cols, title_prefix="Response")
+plot_distributions(df, question_cols, title_prefix="Response", filename_prefix="response_")
         
 # Specific print out for the main Oxford Comma question
 if 'comma_preference' in df.columns:

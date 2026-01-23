@@ -1,0 +1,25 @@
+Script started at 2026-01-22 03:53:08
+--- Missingness Analysis ---
+                                    Missing Count  Missing %
+comma_preference                                1   0.333333
+heard_of_comma                                  1   0.333333
+care_oxford_comma                               1   0.333333
+sentence_preference                             1   0.333333
+data_singular_plural_consideration              1   0.333333
+care_data_debate                                1   0.333333
+grammar_importance                              1   0.333333
+Gender                                         27   9.000000
+Age                                            27   9.000000
+Household Income                               77  25.666667
+Education                                      30  10.000000
+Location (Census Region)                       30  10.000000
+
+
+--- Plotting Demographics ---
+--- Plotting Substantive Answers ---
+--- Oxford Comma Preference Breakdown ---
+comma_preference
+It's important for a person to be honest, kind, and loyal.      87.625418
+It's important for a person to be honest, kind and loyal.       11.036789
+"It's important for a person to be honest, kind, and loyal."     1.337793
+Name: proportion, dtype: float64
