@@ -5,6 +5,33 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
+import sys
+from datetime import datetime
+
+# Create comparison_viz and logs folders
+os.makedirs('comparison_viz', exist_ok=True)
+os.makedirs('logs', exist_ok=True)
+
+# Setup logging to capture all output
+log_filename = f"logs/comparison_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+log_file = open(log_filename, 'w')
+
+class Tee:
+    def __init__(self, *files):
+        self.files = files
+    def write(self, data):
+        for f in self.files:
+            f.write(data)
+            f.flush()
+    def flush(self):
+        for f in self.files:
+            f.flush()
+
+sys.stdout = Tee(sys.stdout, log_file)
+sys.stderr = Tee(sys.stderr, log_file)
+
+print(f"Script started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 # Load data
 df_raw = pd.read_csv('comma-survey.csv')
@@ -103,7 +130,7 @@ def plot_comparison(df_human, df_gpt, columns):
     """
     Plot side-by-side comparison of response distributions for human vs GPT data.
     """
-    for col in columns:
+    for idx, col in enumerate(columns):
         if col not in df_human.columns or col not in df_gpt.columns:
             continue
         
@@ -134,7 +161,12 @@ def plot_comparison(df_human, df_gpt, columns):
         
         plt.legend(title='Source')
         plt.tight_layout()
-        plt.show()
+        
+        # Save as PNG
+        sanitized_col_name = col.replace(" ", "_").replace("(", "").replace(")", "").lower()
+        filename = f'comparison_viz/{idx+1:02d}_{sanitized_col_name}.png'
+        plt.savefig(filename, dpi=300, bbox_inches='tight')
+        plt.close()
         
         # Print the raw numbers for the report
         print(f"\n--- {col} ---")

@@ -6,7 +6,34 @@
 
 import csv
 import random
+import os
+import sys
+from datetime import datetime
 from openai import OpenAI
+from tqdm import tqdm
+
+# Create logs folder
+os.makedirs('logs', exist_ok=True)
+
+# Setup logging to capture all output
+log_filename = f"logs/gpt_survey_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log"
+log_file = open(log_filename, 'w')
+
+class Tee:
+    def __init__(self, *files):
+        self.files = files
+    def write(self, data):
+        for f in self.files:
+            f.write(data)
+            f.flush()
+    def flush(self):
+        for f in self.files:
+            f.flush()
+
+sys.stdout = Tee(sys.stdout, log_file)
+sys.stderr = Tee(sys.stderr, log_file)
+
+print(f"Script started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 # Initialize the OpenAI client
 # The client automatically reads the OPENAI_API_KEY environment variable.
@@ -112,14 +139,20 @@ except FileNotFoundError:
 num_responses = 300
 if len(survey_data) < num_responses:
     selected_data = survey_data
+    print(f"Warning: Not enough survey data rows. Using all of {len(survey_data)} available rows.")
 else:
+    print(f"Selecting {num_responses} random survey rows for GPT simulation...")
     selected_data = random.sample(survey_data, num_responses)
 
 # Generate GPT prompts based on the demographics
+print(f"Generating GPT prompts...")
 gpt_prompts = generate_gpt_prompts(selected_data)
+print(f"Generated {len(gpt_prompts)} prompts.")
 
 # Poll GPT for survey responses
+print(f"Polling GPT for survey responses...")
 gpt_responses = poll_gpt(gpt_prompts, len(selected_data))
+print(f"Received {len(gpt_responses)} GPT responses.")
 
 # Save the responses to a CSV file after processing them
 output_filename = 'gpt_comma_survey.csv'
@@ -145,8 +178,9 @@ with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
     writer.writerow(headers) 
     
     # Iterate through responses and the original selected_data in parallel
-    for i, raw_response in enumerate(gpt_responses):
+    for i, raw_response in tqdm(enumerate(gpt_responses), total=len(gpt_responses), desc="Writing responses"):
         if not raw_response:
+            print(f"Skipping row {i} due to failed API call.")
             continue # Skip failed API calls
 
         # 1. Parse the GPT response (assumed numbered list format)

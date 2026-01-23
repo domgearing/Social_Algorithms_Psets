@@ -122,7 +122,7 @@ def match_to_valid_fuzzy(response, valid_options, col):
             return "It's important for a person to be honest, kind, and loyal."
         elif 'kind and' in cleaned:
             return "It's important for a person to be honest, kind and loyal."
-    
+        
     # For sentence_preference - check "data are" vs "data is"
     if col == 'sentence_preference':
         if 'data are' in cleaned:

@@ -22,6 +22,6 @@
       }
     }
   },
-  "postCreateCommand": "uv sync --frozen",
+  "postCreateCommand": "uv sync --frozen && uv run nbstripout --install && ([ -f .pre-commit-config.yaml ] && uv run pre-commit install || true)",
   "remoteUser": "vscode"
 }

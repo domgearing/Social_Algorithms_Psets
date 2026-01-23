@@ -1,0 +1,56 @@
+Script started at 2026-01-22 04:19:48
+--- Missingness Analysis ---
+                                    Missing Count  Missing %
+heard_of_comma                                 30   2.657219
+care_oxford_comma                              30   2.657219
+sentence_preference                            36   3.188663
+data_singular_plural_consideration             38   3.365810
+care_data_debate                               38   3.365810
+grammar_importance                             70   6.200177
+Gender                                         92   8.148804
+Age                                            92   8.148804
+Household Income                              293  25.952170
+Education                                     103   9.123118
+Location (Census Region)                      102   9.034544
+
+
+--- Plotting Demographics ---
+--- Plotting Substantive Answers ---
+--- Oxford Comma Preference Breakdown ---
+comma_preference
+It's important for a person to be honest, kind, and loyal.    56.775908
+It's important for a person to be honest, kind and loyal.     43.224092
+Name: proportion, dtype: float64
+Script started at 2026-01-22 04:19:52
+Enter path to first survey CSV: Enter path to second survey CSV: Enter name for first survey (e.g., 'Human'): Enter name for second survey (e.g., 'GPT'): 
+Loading comma-survey.csv...
+Loaded 1129 rows
+Loading gpt_comma_survey.csv...
+Loaded 300 rows
+
+--- Missingness Comparison ---
+                                        Human        GPT  Difference
+grammar_importance                   6.200177   0.333333    5.866844
+data_singular_plural_consideration   3.365810   0.333333    3.032477
+care_data_debate                     3.365810   0.333333    3.032477
+sentence_preference                  3.188663   0.333333    2.855329
+heard_of_comma                       2.657219   0.333333    2.323885
+care_oxford_comma                    2.657219   0.333333    2.323885
+Location (Census Region)             9.034544  10.000000    0.965456
+Education                            9.123118  10.000000    0.876882
+Age                                  8.148804   9.000000    0.851196
+Gender                               8.148804   9.000000    0.851196
+comma_preference                     0.000000   0.333333    0.333333
+Household Income                    25.952170  25.666667    0.285503
+
+--- Plotting Demographics Comparison ---
+Saved: viz/compare_demo_01_gender.png
+Saved: viz/compare_demo_02_age.png
+Saved: viz/compare_demo_03_household_income.png
+Saved: viz/compare_demo_04_education.png
+Saved: viz/compare_demo_05_location_census_region.png
+
+--- Plotting Question Responses Comparison (Combined) ---
+Saved: viz/compare_response_combined.png
+
+Comparison complete! Files saved to viz/ folder.

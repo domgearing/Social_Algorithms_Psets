@@ -13,11 +13,11 @@ dependencies = [
   "ruff",
   "black",
   "isort",
-
   # PyTorch CPU build (good default for Codespaces)
   "torch",
   "torchvision",
-  "torchaudio"
+  "torchaudio",
+  "pre-commit>=4.5.1",
 ]
 
 [tool.ruff]
