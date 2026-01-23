@@ -1,0 +1,57 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+.cache/
+
+# ---- Virtual envs ----
+.venv/
+venv/
+ENV/
+env/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# ---- Data / artifacts (adjust to your class rules) ----
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+
+# ---- Model artifacts ----
+*.pt
+*.pth
+*.onnx
+*.ckpt
+
+# ---- Logs ----
+*.log
+logs/
+wandb/
+mlruns/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- VS Code ----
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+# ---- Secrets ----
+.env
+.env.*
