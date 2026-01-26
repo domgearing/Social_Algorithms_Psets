@@ -38,11 +38,10 @@ sys.stderr = Tee(sys.stderr, log_file)
 print(f"Script started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 #load CSV file into DF
-df = pd.read_csv('comma-survey.csv')
+df = pd.read_csv('Problem_Set_1/comma-survey.csv')
 
 #To run on GPT survey results:
-#df = pd.read_csv('gpt_comma_survey.csv')
-
+#df = pd.read_csv('Problem_Set_1/gpt_comma_survey.csv')
 
 # In[3]:
 

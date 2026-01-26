@@ -1,0 +1,1801 @@
+census_region,age_group,sex,education_5,income_bin,pop_count
+East North Central Division,18-29,Female,Bachelor degree,0-24999,47222
+East North Central Division,18-29,Female,Bachelor degree,100000-149999,207162
+East North Central Division,18-29,Female,Bachelor degree,150000+,206228
+East North Central Division,18-29,Female,Bachelor degree,25000-49999,89177
+East North Central Division,18-29,Female,Bachelor degree,50000-99999,218896
+East North Central Division,18-29,Female,Graduate degree,0-24999,15431
+East North Central Division,18-29,Female,Graduate degree,100000-149999,58016
+East North Central Division,18-29,Female,Graduate degree,150000+,64415
+East North Central Division,18-29,Female,Graduate degree,25000-49999,25371
+East North Central Division,18-29,Female,Graduate degree,50000-99999,53537
+East North Central Division,18-29,Female,High school degree,0-24999,123494
+East North Central Division,18-29,Female,High school degree,100000-149999,176866
+East North Central Division,18-29,Female,High school degree,150000+,167817
+East North Central Division,18-29,Female,High school degree,25000-49999,182709
+East North Central Division,18-29,Female,High school degree,50000-99999,306688
+East North Central Division,18-29,Female,Less than high school degree,0-24999,43634
+East North Central Division,18-29,Female,Less than high school degree,100000-149999,46509
+East North Central Division,18-29,Female,Less than high school degree,150000+,51235
+East North Central Division,18-29,Female,Less than high school degree,25000-49999,54698
+East North Central Division,18-29,Female,Less than high school degree,50000-99999,83394
+East North Central Division,18-29,Female,Some college or Associate degree,0-24999,123249
+East North Central Division,18-29,Female,Some college or Associate degree,100000-149999,217503
+East North Central Division,18-29,Female,Some college or Associate degree,150000+,184065
+East North Central Division,18-29,Female,Some college or Associate degree,25000-49999,191770
+East North Central Division,18-29,Female,Some college or Associate degree,50000-99999,344525
+East North Central Division,18-29,Male,Bachelor degree,0-24999,40408
+East North Central Division,18-29,Male,Bachelor degree,100000-149999,158228
+East North Central Division,18-29,Male,Bachelor degree,150000+,198311
+East North Central Division,18-29,Male,Bachelor degree,25000-49999,59448
+East North Central Division,18-29,Male,Bachelor degree,50000-99999,181006
+East North Central Division,18-29,Male,Graduate degree,0-24999,8118
+East North Central Division,18-29,Male,Graduate degree,100000-149999,32152
+East North Central Division,18-29,Male,Graduate degree,150000+,37172
+East North Central Division,18-29,Male,Graduate degree,25000-49999,16112
+East North Central Division,18-29,Male,Graduate degree,50000-99999,36216
+East North Central Division,18-29,Male,High school degree,0-24999,103590
+East North Central Division,18-29,Male,High school degree,100000-149999,282154
+East North Central Division,18-29,Male,High school degree,150000+,265310
+East North Central Division,18-29,Male,High school degree,25000-49999,196376
+East North Central Division,18-29,Male,High school degree,50000-99999,421740
+East North Central Division,18-29,Male,Less than high school degree,0-24999,35035
+East North Central Division,18-29,Male,Less than high school degree,100000-149999,62689
+East North Central Division,18-29,Male,Less than high school degree,150000+,77031
+East North Central Division,18-29,Male,Less than high school degree,25000-49999,62849
+East North Central Division,18-29,Male,Less than high school degree,50000-99999,118145
+East North Central Division,18-29,Male,Some college or Associate degree,0-24999,86502
+East North Central Division,18-29,Male,Some college or Associate degree,100000-149999,222258
+East North Central Division,18-29,Male,Some college or Associate degree,150000+,240576
+East North Central Division,18-29,Male,Some college or Associate degree,25000-49999,130746
+East North Central Division,18-29,Male,Some college or Associate degree,50000-99999,299845
+East North Central Division,30-44,Female,Bachelor degree,0-24999,28849
+East North Central Division,30-44,Female,Bachelor degree,100000-149999,347117
+East North Central Division,30-44,Female,Bachelor degree,150000+,482732
+East North Central Division,30-44,Female,Bachelor degree,25000-49999,81306
+East North Central Division,30-44,Female,Bachelor degree,50000-99999,292221
+East North Central Division,30-44,Female,Graduate degree,0-24999,14259
+East North Central Division,30-44,Female,Graduate degree,100000-149999,182140
+East North Central Division,30-44,Female,Graduate degree,150000+,446194
+East North Central Division,30-44,Female,Graduate degree,25000-49999,29923
+East North Central Division,30-44,Female,Graduate degree,50000-99999,166330
+East North Central Division,30-44,Female,High school degree,0-24999,109898
+East North Central Division,30-44,Female,High school degree,100000-149999,168668
+East North Central Division,30-44,Female,High school degree,150000+,104097
+East North Central Division,30-44,Female,High school degree,25000-49999,166656
+East North Central Division,30-44,Female,High school degree,50000-99999,299398
+East North Central Division,30-44,Female,Less than high school degree,0-24999,56309
+East North Central Division,30-44,Female,Less than high school degree,100000-149999,40839
+East North Central Division,30-44,Female,Less than high school degree,150000+,29671
+East North Central Division,30-44,Female,Less than high school degree,25000-49999,76146
+East North Central Division,30-44,Female,Less than high school degree,50000-99999,101511
+East North Central Division,30-44,Female,Some college or Associate degree,0-24999,117485
+East North Central Division,30-44,Female,Some college or Associate degree,100000-149999,335135
+East North Central Division,30-44,Female,Some college or Associate degree,150000+,227554
+East North Central Division,30-44,Female,Some college or Associate degree,25000-49999,226614
+East North Central Division,30-44,Female,Some college or Associate degree,50000-99999,447910
+East North Central Division,30-44,Male,Bachelor degree,0-24999,24277
+East North Central Division,30-44,Male,Bachelor degree,100000-149999,288235
+East North Central Division,30-44,Male,Bachelor degree,150000+,465541
+East North Central Division,30-44,Male,Bachelor degree,25000-49999,61832
+East North Central Division,30-44,Male,Bachelor degree,50000-99999,240796
+East North Central Division,30-44,Male,Graduate degree,0-24999,13647
+East North Central Division,30-44,Male,Graduate degree,100000-149999,125635
+East North Central Division,30-44,Male,Graduate degree,150000+,318287
+East North Central Division,30-44,Male,Graduate degree,25000-49999,19894
+East North Central Division,30-44,Male,Graduate degree,50000-99999,104366
+East North Central Division,30-44,Male,High school degree,0-24999,101300
+East North Central Division,30-44,Male,High school degree,100000-149999,282036
+East North Central Division,30-44,Male,High school degree,150000+,164649
+East North Central Division,30-44,Male,High school degree,25000-49999,181257
+East North Central Division,30-44,Male,High school degree,50000-99999,447938
+East North Central Division,30-44,Male,Less than high school degree,0-24999,40706
+East North Central Division,30-44,Male,Less than high school degree,100000-149999,56032
+East North Central Division,30-44,Male,Less than high school degree,150000+,41782
+East North Central Division,30-44,Male,Less than high school degree,25000-49999,71733
+East North Central Division,30-44,Male,Less than high school degree,50000-99999,127681
+East North Central Division,30-44,Male,Some college or Associate degree,0-24999,59948
+East North Central Division,30-44,Male,Some college or Associate degree,100000-149999,357561
+East North Central Division,30-44,Male,Some college or Associate degree,150000+,269942
+East North Central Division,30-44,Male,Some college or Associate degree,25000-49999,148304
+East North Central Division,30-44,Male,Some college or Associate degree,50000-99999,432079
+East North Central Division,45-60,Female,Bachelor degree,0-24999,37335
+East North Central Division,45-60,Female,Bachelor degree,100000-149999,242370
+East North Central Division,45-60,Female,Bachelor degree,150000+,491158
+East North Central Division,45-60,Female,Bachelor degree,25000-49999,56467
+East North Central Division,45-60,Female,Bachelor degree,50000-99999,203479
+East North Central Division,45-60,Female,Graduate degree,0-24999,17570
+East North Central Division,45-60,Female,Graduate degree,100000-149999,147231
+East North Central Division,45-60,Female,Graduate degree,150000+,412727
+East North Central Division,45-60,Female,Graduate degree,25000-49999,22563
+East North Central Division,45-60,Female,Graduate degree,50000-99999,105673
+East North Central Division,45-60,Female,High school degree,0-24999,135378
+East North Central Division,45-60,Female,High school degree,100000-149999,227903
+East North Central Division,45-60,Female,High school degree,150000+,172845
+East North Central Division,45-60,Female,High school degree,25000-49999,175987
+East North Central Division,45-60,Female,High school degree,50000-99999,339374
+East North Central Division,45-60,Female,Less than high school degree,0-24999,55830
+East North Central Division,45-60,Female,Less than high school degree,100000-149999,63890
+East North Central Division,45-60,Female,Less than high school degree,150000+,47816
+East North Central Division,45-60,Female,Less than high school degree,25000-49999,69506
+East North Central Division,45-60,Female,Less than high school degree,50000-99999,107576
+East North Central Division,45-60,Female,Some college or Associate degree,0-24999,120073
+East North Central Division,45-60,Female,Some college or Associate degree,100000-149999,331240
+East North Central Division,45-60,Female,Some college or Associate degree,150000+,368115
+East North Central Division,45-60,Female,Some college or Associate degree,25000-49999,183158
+East North Central Division,45-60,Female,Some college or Associate degree,50000-99999,406280
+East North Central Division,45-60,Male,Bachelor degree,0-24999,26397
+East North Central Division,45-60,Male,Bachelor degree,100000-149999,191798
+East North Central Division,45-60,Male,Bachelor degree,150000+,472083
+East North Central Division,45-60,Male,Bachelor degree,25000-49999,40656
+East North Central Division,45-60,Male,Bachelor degree,50000-99999,139432
+East North Central Division,45-60,Male,Graduate degree,0-24999,12507
+East North Central Division,45-60,Male,Graduate degree,100000-149999,100029
+East North Central Division,45-60,Male,Graduate degree,150000+,375038
+East North Central Division,45-60,Male,Graduate degree,25000-49999,17475
+East North Central Division,45-60,Male,Graduate degree,50000-99999,65840
+East North Central Division,45-60,Male,High school degree,0-24999,112647
+East North Central Division,45-60,Male,High school degree,100000-149999,302445
+East North Central Division,45-60,Male,High school degree,150000+,246165
+East North Central Division,45-60,Male,High school degree,25000-49999,192491
+East North Central Division,45-60,Male,High school degree,50000-99999,427453
+East North Central Division,45-60,Male,Less than high school degree,0-24999,54726
+East North Central Division,45-60,Male,Less than high school degree,100000-149999,74259
+East North Central Division,45-60,Male,Less than high school degree,150000+,60601
+East North Central Division,45-60,Male,Less than high school degree,25000-49999,74696
+East North Central Division,45-60,Male,Less than high school degree,50000-99999,126099
+East North Central Division,45-60,Male,Some college or Associate degree,0-24999,78304
+East North Central Division,45-60,Male,Some college or Associate degree,100000-149999,323343
+East North Central Division,45-60,Male,Some college or Associate degree,150000+,372923
+East North Central Division,45-60,Male,Some college or Associate degree,25000-49999,119752
+East North Central Division,45-60,Male,Some college or Associate degree,50000-99999,334533
+East North Central Division,61+,Female,Bachelor degree,0-24999,83238
+East North Central Division,61+,Female,Bachelor degree,100000-149999,177262
+East North Central Division,61+,Female,Bachelor degree,150000+,230978
+East North Central Division,61+,Female,Bachelor degree,25000-49999,138046
+East North Central Division,61+,Female,Bachelor degree,50000-99999,285028
+East North Central Division,61+,Female,Graduate degree,0-24999,44594
+East North Central Division,61+,Female,Graduate degree,100000-149999,145269
+East North Central Division,61+,Female,Graduate degree,150000+,205184
+East North Central Division,61+,Female,Graduate degree,25000-49999,81032
+East North Central Division,61+,Female,Graduate degree,50000-99999,201942
+East North Central Division,61+,Female,High school degree,0-24999,425033
+East North Central Division,61+,Female,High school degree,100000-149999,249930
+East North Central Division,61+,Female,High school degree,150000+,174499
+East North Central Division,61+,Female,High school degree,25000-49999,576612
+East North Central Division,61+,Female,High school degree,50000-99999,700056
+East North Central Division,61+,Female,Less than high school degree,0-24999,159435
+East North Central Division,61+,Female,Less than high school degree,100000-149999,55924
+East North Central Division,61+,Female,Less than high school degree,150000+,44561
+East North Central Division,61+,Female,Less than high school degree,25000-49999,126072
+East North Central Division,61+,Female,Less than high school degree,50000-99999,131945
+East North Central Division,61+,Female,Some college or Associate degree,0-24999,282843
+East North Central Division,61+,Female,Some college or Associate degree,100000-149999,270650
+East North Central Division,61+,Female,Some college or Associate degree,150000+,217886
+East North Central Division,61+,Female,Some college or Associate degree,25000-49999,410767
+East North Central Division,61+,Female,Some college or Associate degree,50000-99999,615204
+East North Central Division,61+,Male,Bachelor degree,0-24999,62883
+East North Central Division,61+,Male,Bachelor degree,100000-149999,183851
+East North Central Division,61+,Male,Bachelor degree,150000+,250482
+East North Central Division,61+,Male,Bachelor degree,25000-49999,99956
+East North Central Division,61+,Male,Bachelor degree,50000-99999,271578
+East North Central Division,61+,Male,Graduate degree,0-24999,30849
+East North Central Division,61+,Male,Graduate degree,100000-149999,143102
+East North Central Division,61+,Male,Graduate degree,150000+,267753
+East North Central Division,61+,Male,Graduate degree,25000-49999,54321
+East North Central Division,61+,Male,Graduate degree,50000-99999,167377
+East North Central Division,61+,Male,High school degree,0-24999,238090
+East North Central Division,61+,Male,High school degree,100000-149999,240825
+East North Central Division,61+,Male,High school degree,150000+,159709
+East North Central Division,61+,Male,High school degree,25000-49999,392018
+East North Central Division,61+,Male,High school degree,50000-99999,640438
+East North Central Division,61+,Male,Less than high school degree,0-24999,118263
+East North Central Division,61+,Male,Less than high school degree,100000-149999,57406
+East North Central Division,61+,Male,Less than high school degree,150000+,40486
+East North Central Division,61+,Male,Less than high school degree,25000-49999,118829
+East North Central Division,61+,Male,Less than high school degree,50000-99999,131797
+East North Central Division,61+,Male,Some college or Associate degree,0-24999,157021
+East North Central Division,61+,Male,Some college or Associate degree,100000-149999,264165
+East North Central Division,61+,Male,Some college or Associate degree,150000+,198500
+East North Central Division,61+,Male,Some college or Associate degree,25000-49999,267428
+East North Central Division,61+,Male,Some college or Associate degree,50000-99999,529313
+East South Central Division,18-29,Female,Bachelor degree,0-24999,23160
+East South Central Division,18-29,Female,Bachelor degree,100000-149999,66711
+East South Central Division,18-29,Female,Bachelor degree,150000+,49977
+East South Central Division,18-29,Female,Bachelor degree,25000-49999,39909
+East South Central Division,18-29,Female,Bachelor degree,50000-99999,98411
+East South Central Division,18-29,Female,Graduate degree,0-24999,4500
+East South Central Division,18-29,Female,Graduate degree,100000-149999,30218
+East South Central Division,18-29,Female,Graduate degree,150000+,18032
+East South Central Division,18-29,Female,Graduate degree,25000-49999,9536
+East South Central Division,18-29,Female,Graduate degree,50000-99999,25818
+East South Central Division,18-29,Female,High school degree,0-24999,73588
+East South Central Division,18-29,Female,High school degree,100000-149999,70492
+East South Central Division,18-29,Female,High school degree,150000+,58159
+East South Central Division,18-29,Female,High school degree,25000-49999,89555
+East South Central Division,18-29,Female,High school degree,50000-99999,143653
+East South Central Division,18-29,Female,Less than high school degree,0-24999,19880
+East South Central Division,18-29,Female,Less than high school degree,100000-149999,17582
+East South Central Division,18-29,Female,Less than high school degree,150000+,16333
+East South Central Division,18-29,Female,Less than high school degree,25000-49999,27430
+East South Central Division,18-29,Female,Less than high school degree,50000-99999,33642
+East South Central Division,18-29,Female,Some college or Associate degree,0-24999,67409
+East South Central Division,18-29,Female,Some college or Associate degree,100000-149999,88499
+East South Central Division,18-29,Female,Some college or Associate degree,150000+,73125
+East South Central Division,18-29,Female,Some college or Associate degree,25000-49999,88435
+East South Central Division,18-29,Female,Some college or Associate degree,50000-99999,155211
+East South Central Division,18-29,Male,Bachelor degree,0-24999,18063
+East South Central Division,18-29,Male,Bachelor degree,100000-149999,54573
+East South Central Division,18-29,Male,Bachelor degree,150000+,43993
+East South Central Division,18-29,Male,Bachelor degree,25000-49999,23552
+East South Central Division,18-29,Male,Bachelor degree,50000-99999,71040
+East South Central Division,18-29,Male,Graduate degree,0-24999,2298
+East South Central Division,18-29,Male,Graduate degree,100000-149999,12630
+East South Central Division,18-29,Male,Graduate degree,150000+,12020
+East South Central Division,18-29,Male,Graduate degree,25000-49999,6054
+East South Central Division,18-29,Male,Graduate degree,50000-99999,13025
+East South Central Division,18-29,Male,High school degree,0-24999,53887
+East South Central Division,18-29,Male,High school degree,100000-149999,110584
+East South Central Division,18-29,Male,High school degree,150000+,92246
+East South Central Division,18-29,Male,High school degree,25000-49999,98690
+East South Central Division,18-29,Male,High school degree,50000-99999,196736
+East South Central Division,18-29,Male,Less than high school degree,0-24999,24647
+East South Central Division,18-29,Male,Less than high school degree,100000-149999,24954
+East South Central Division,18-29,Male,Less than high school degree,150000+,29789
+East South Central Division,18-29,Male,Less than high school degree,25000-49999,29845
+East South Central Division,18-29,Male,Less than high school degree,50000-99999,50316
+East South Central Division,18-29,Male,Some college or Associate degree,0-24999,38934
+East South Central Division,18-29,Male,Some college or Associate degree,100000-149999,83320
+East South Central Division,18-29,Male,Some college or Associate degree,150000+,81215
+East South Central Division,18-29,Male,Some college or Associate degree,25000-49999,59186
+East South Central Division,18-29,Male,Some college or Associate degree,50000-99999,145449
+East South Central Division,30-44,Female,Bachelor degree,0-24999,14234
+East South Central Division,30-44,Female,Bachelor degree,100000-149999,118275
+East South Central Division,30-44,Female,Bachelor degree,150000+,142642
+East South Central Division,30-44,Female,Bachelor degree,25000-49999,29314
+East South Central Division,30-44,Female,Bachelor degree,50000-99999,125233
+East South Central Division,30-44,Female,Graduate degree,0-24999,6087
+East South Central Division,30-44,Female,Graduate degree,100000-149999,87858
+East South Central Division,30-44,Female,Graduate degree,150000+,142527
+East South Central Division,30-44,Female,Graduate degree,25000-49999,15409
+East South Central Division,30-44,Female,Graduate degree,50000-99999,66127
+East South Central Division,30-44,Female,High school degree,0-24999,69300
+East South Central Division,30-44,Female,High school degree,100000-149999,75040
+East South Central Division,30-44,Female,High school degree,150000+,40200
+East South Central Division,30-44,Female,High school degree,25000-49999,93633
+East South Central Division,30-44,Female,High school degree,50000-99999,149166
+East South Central Division,30-44,Female,Less than high school degree,0-24999,34784
+East South Central Division,30-44,Female,Less than high school degree,100000-149999,17191
+East South Central Division,30-44,Female,Less than high school degree,150000+,9185
+East South Central Division,30-44,Female,Less than high school degree,25000-49999,31455
+East South Central Division,30-44,Female,Less than high school degree,50000-99999,40079
+East South Central Division,30-44,Female,Some college or Associate degree,0-24999,64293
+East South Central Division,30-44,Female,Some college or Associate degree,100000-149999,132682
+East South Central Division,30-44,Female,Some college or Associate degree,150000+,90613
+East South Central Division,30-44,Female,Some college or Associate degree,25000-49999,116792
+East South Central Division,30-44,Female,Some college or Associate degree,50000-99999,210473
+East South Central Division,30-44,Male,Bachelor degree,0-24999,8021
+East South Central Division,30-44,Male,Bachelor degree,100000-149999,102441
+East South Central Division,30-44,Male,Bachelor degree,150000+,135282
+East South Central Division,30-44,Male,Bachelor degree,25000-49999,19285
+East South Central Division,30-44,Male,Bachelor degree,50000-99999,88725
+East South Central Division,30-44,Male,Graduate degree,0-24999,8396
+East South Central Division,30-44,Male,Graduate degree,100000-149999,53399
+East South Central Division,30-44,Male,Graduate degree,150000+,91623
+East South Central Division,30-44,Male,Graduate degree,25000-49999,11205
+East South Central Division,30-44,Male,Graduate degree,50000-99999,41470
+East South Central Division,30-44,Male,High school degree,0-24999,47480
+East South Central Division,30-44,Male,High school degree,100000-149999,106981
+East South Central Division,30-44,Male,High school degree,150000+,63438
+East South Central Division,30-44,Male,High school degree,25000-49999,90010
+East South Central Division,30-44,Male,High school degree,50000-99999,215374
+East South Central Division,30-44,Male,Less than high school degree,0-24999,23318
+East South Central Division,30-44,Male,Less than high school degree,100000-149999,22335
+East South Central Division,30-44,Male,Less than high school degree,150000+,16963
+East South Central Division,30-44,Male,Less than high school degree,25000-49999,41082
+East South Central Division,30-44,Male,Less than high school degree,50000-99999,56992
+East South Central Division,30-44,Male,Some college or Associate degree,0-24999,29778
+East South Central Division,30-44,Male,Some college or Associate degree,100000-149999,133225
+East South Central Division,30-44,Male,Some college or Associate degree,150000+,96523
+East South Central Division,30-44,Male,Some college or Associate degree,25000-49999,65071
+East South Central Division,30-44,Male,Some college or Associate degree,50000-99999,194254
+East South Central Division,45-60,Female,Bachelor degree,0-24999,15089
+East South Central Division,45-60,Female,Bachelor degree,100000-149999,87170
+East South Central Division,45-60,Female,Bachelor degree,150000+,150317
+East South Central Division,45-60,Female,Bachelor degree,25000-49999,30617
+East South Central Division,45-60,Female,Bachelor degree,50000-99999,83844
+East South Central Division,45-60,Female,Graduate degree,0-24999,8527
+East South Central Division,45-60,Female,Graduate degree,100000-149999,67411
+East South Central Division,45-60,Female,Graduate degree,150000+,137037
+East South Central Division,45-60,Female,Graduate degree,25000-49999,13520
+East South Central Division,45-60,Female,Graduate degree,50000-99999,57334
+East South Central Division,45-60,Female,High school degree,0-24999,86439
+East South Central Division,45-60,Female,High school degree,100000-149999,90949
+East South Central Division,45-60,Female,High school degree,150000+,65671
+East South Central Division,45-60,Female,High school degree,25000-49999,101172
+East South Central Division,45-60,Female,High school degree,50000-99999,172853
+East South Central Division,45-60,Female,Less than high school degree,0-24999,50751
+East South Central Division,45-60,Female,Less than high school degree,100000-149999,21210
+East South Central Division,45-60,Female,Less than high school degree,150000+,13704
+East South Central Division,45-60,Female,Less than high school degree,25000-49999,38693
+East South Central Division,45-60,Female,Less than high school degree,50000-99999,49368
+East South Central Division,45-60,Female,Some college or Associate degree,0-24999,65602
+East South Central Division,45-60,Female,Some college or Associate degree,100000-149999,134387
+East South Central Division,45-60,Female,Some college or Associate degree,150000+,130396
+East South Central Division,45-60,Female,Some college or Associate degree,25000-49999,91273
+East South Central Division,45-60,Female,Some college or Associate degree,50000-99999,188271
+East South Central Division,45-60,Male,Bachelor degree,0-24999,11028
+East South Central Division,45-60,Male,Bachelor degree,100000-149999,71082
+East South Central Division,45-60,Male,Bachelor degree,150000+,155173
+East South Central Division,45-60,Male,Bachelor degree,25000-49999,21426
+East South Central Division,45-60,Male,Bachelor degree,50000-99999,59571
+East South Central Division,45-60,Male,Graduate degree,0-24999,4633
+East South Central Division,45-60,Male,Graduate degree,100000-149999,45094
+East South Central Division,45-60,Male,Graduate degree,150000+,111428
+East South Central Division,45-60,Male,Graduate degree,25000-49999,6178
+East South Central Division,45-60,Male,Graduate degree,50000-99999,29861
+East South Central Division,45-60,Male,High school degree,0-24999,65999
+East South Central Division,45-60,Male,High school degree,100000-149999,122128
+East South Central Division,45-60,Male,High school degree,150000+,96408
+East South Central Division,45-60,Male,High school degree,25000-49999,97333
+East South Central Division,45-60,Male,High school degree,50000-99999,197844
+East South Central Division,45-60,Male,Less than high school degree,0-24999,43685
+East South Central Division,45-60,Male,Less than high school degree,100000-149999,29899
+East South Central Division,45-60,Male,Less than high school degree,150000+,21077
+East South Central Division,45-60,Male,Less than high school degree,25000-49999,45985
+East South Central Division,45-60,Male,Less than high school degree,50000-99999,66672
+East South Central Division,45-60,Male,Some college or Associate degree,0-24999,33490
+East South Central Division,45-60,Male,Some college or Associate degree,100000-149999,132576
+East South Central Division,45-60,Male,Some college or Associate degree,150000+,132375
+East South Central Division,45-60,Male,Some college or Associate degree,25000-49999,51925
+East South Central Division,45-60,Male,Some college or Associate degree,50000-99999,155648
+East South Central Division,61+,Female,Bachelor degree,0-24999,35774
+East South Central Division,61+,Female,Bachelor degree,100000-149999,63229
+East South Central Division,61+,Female,Bachelor degree,150000+,76033
+East South Central Division,61+,Female,Bachelor degree,25000-49999,58276
+East South Central Division,61+,Female,Bachelor degree,50000-99999,110983
+East South Central Division,61+,Female,Graduate degree,0-24999,17119
+East South Central Division,61+,Female,Graduate degree,100000-149999,53144
+East South Central Division,61+,Female,Graduate degree,150000+,67671
+East South Central Division,61+,Female,Graduate degree,25000-49999,31865
+East South Central Division,61+,Female,Graduate degree,50000-99999,82712
+East South Central Division,61+,Female,High school degree,0-24999,204032
+East South Central Division,61+,Female,High school degree,100000-149999,92169
+East South Central Division,61+,Female,High school degree,150000+,69009
+East South Central Division,61+,Female,High school degree,25000-49999,235497
+East South Central Division,61+,Female,High school degree,50000-99999,264902
+East South Central Division,61+,Female,Less than high school degree,0-24999,104630
+East South Central Division,61+,Female,Less than high school degree,100000-149999,18598
+East South Central Division,61+,Female,Less than high school degree,150000+,17240
+East South Central Division,61+,Female,Less than high school degree,25000-49999,78654
+East South Central Division,61+,Female,Less than high school degree,50000-99999,62511
+East South Central Division,61+,Female,Some college or Associate degree,0-24999,131912
+East South Central Division,61+,Female,Some college or Associate degree,100000-149999,98429
+East South Central Division,61+,Female,Some college or Associate degree,150000+,87374
+East South Central Division,61+,Female,Some college or Associate degree,25000-49999,170343
+East South Central Division,61+,Female,Some college or Associate degree,50000-99999,241214
+East South Central Division,61+,Male,Bachelor degree,0-24999,20441
+East South Central Division,61+,Male,Bachelor degree,100000-149999,67710
+East South Central Division,61+,Male,Bachelor degree,150000+,89345
+East South Central Division,61+,Male,Bachelor degree,25000-49999,42241
+East South Central Division,61+,Male,Bachelor degree,50000-99999,104268
+East South Central Division,61+,Male,Graduate degree,0-24999,8199
+East South Central Division,61+,Male,Graduate degree,100000-149999,48545
+East South Central Division,61+,Male,Graduate degree,150000+,89445
+East South Central Division,61+,Male,Graduate degree,25000-49999,20049
+East South Central Division,61+,Male,Graduate degree,50000-99999,63120
+East South Central Division,61+,Male,High school degree,0-24999,112497
+East South Central Division,61+,Male,High school degree,100000-149999,85043
+East South Central Division,61+,Male,High school degree,150000+,57775
+East South Central Division,61+,Male,High school degree,25000-49999,180032
+East South Central Division,61+,Male,High school degree,50000-99999,239887
+East South Central Division,61+,Male,Less than high school degree,0-24999,90452
+East South Central Division,61+,Male,Less than high school degree,100000-149999,21128
+East South Central Division,61+,Male,Less than high school degree,150000+,16572
+East South Central Division,61+,Male,Less than high school degree,25000-49999,85133
+East South Central Division,61+,Male,Less than high school degree,50000-99999,62511
+East South Central Division,61+,Male,Some college or Associate degree,0-24999,58864
+East South Central Division,61+,Male,Some college or Associate degree,100000-149999,90533
+East South Central Division,61+,Male,Some college or Associate degree,150000+,73585
+East South Central Division,61+,Male,Some college or Associate degree,25000-49999,102730
+East South Central Division,61+,Male,Some college or Associate degree,50000-99999,196554
+Middle Atlantic Division,18-29,Female,Bachelor degree,0-24999,39733
+Middle Atlantic Division,18-29,Female,Bachelor degree,100000-149999,173485
+Middle Atlantic Division,18-29,Female,Bachelor degree,150000+,338308
+Middle Atlantic Division,18-29,Female,Bachelor degree,25000-49999,62828
+Middle Atlantic Division,18-29,Female,Bachelor degree,50000-99999,186576
+Middle Atlantic Division,18-29,Female,Graduate degree,0-24999,13094
+Middle Atlantic Division,18-29,Female,Graduate degree,100000-149999,73499
+Middle Atlantic Division,18-29,Female,Graduate degree,150000+,125423
+Middle Atlantic Division,18-29,Female,Graduate degree,25000-49999,18101
+Middle Atlantic Division,18-29,Female,Graduate degree,50000-99999,60597
+Middle Atlantic Division,18-29,Female,High school degree,0-24999,83931
+Middle Atlantic Division,18-29,Female,High school degree,100000-149999,136888
+Middle Atlantic Division,18-29,Female,High school degree,150000+,178094
+Middle Atlantic Division,18-29,Female,High school degree,25000-49999,118019
+Middle Atlantic Division,18-29,Female,High school degree,50000-99999,224046
+Middle Atlantic Division,18-29,Female,Less than high school degree,0-24999,30503
+Middle Atlantic Division,18-29,Female,Less than high school degree,100000-149999,36089
+Middle Atlantic Division,18-29,Female,Less than high school degree,150000+,46538
+Middle Atlantic Division,18-29,Female,Less than high school degree,25000-49999,38993
+Middle Atlantic Division,18-29,Female,Less than high school degree,50000-99999,60424
+Middle Atlantic Division,18-29,Female,Some college or Associate degree,0-24999,69571
+Middle Atlantic Division,18-29,Female,Some college or Associate degree,100000-149999,147655
+Middle Atlantic Division,18-29,Female,Some college or Associate degree,150000+,191238
+Middle Atlantic Division,18-29,Female,Some college or Associate degree,25000-49999,112976
+Middle Atlantic Division,18-29,Female,Some college or Associate degree,50000-99999,218693
+Middle Atlantic Division,18-29,Male,Bachelor degree,0-24999,33728
+Middle Atlantic Division,18-29,Male,Bachelor degree,100000-149999,143754
+Middle Atlantic Division,18-29,Male,Bachelor degree,150000+,326460
+Middle Atlantic Division,18-29,Male,Bachelor degree,25000-49999,45958
+Middle Atlantic Division,18-29,Male,Bachelor degree,50000-99999,144750
+Middle Atlantic Division,18-29,Male,Graduate degree,0-24999,6869
+Middle Atlantic Division,18-29,Male,Graduate degree,100000-149999,36226
+Middle Atlantic Division,18-29,Male,Graduate degree,150000+,77647
+Middle Atlantic Division,18-29,Male,Graduate degree,25000-49999,9276
+Middle Atlantic Division,18-29,Male,Graduate degree,50000-99999,35699
+Middle Atlantic Division,18-29,Male,High school degree,0-24999,68754
+Middle Atlantic Division,18-29,Male,High school degree,100000-149999,194065
+Middle Atlantic Division,18-29,Male,High school degree,150000+,256569
+Middle Atlantic Division,18-29,Male,High school degree,25000-49999,125113
+Middle Atlantic Division,18-29,Male,High school degree,50000-99999,277886
+Middle Atlantic Division,18-29,Male,Less than high school degree,0-24999,33137
+Middle Atlantic Division,18-29,Male,Less than high school degree,100000-149999,47623
+Middle Atlantic Division,18-29,Male,Less than high school degree,150000+,75248
+Middle Atlantic Division,18-29,Male,Less than high school degree,25000-49999,50452
+Middle Atlantic Division,18-29,Male,Less than high school degree,50000-99999,81772
+Middle Atlantic Division,18-29,Male,Some college or Associate degree,0-24999,56816
+Middle Atlantic Division,18-29,Male,Some college or Associate degree,100000-149999,156679
+Middle Atlantic Division,18-29,Male,Some college or Associate degree,150000+,251281
+Middle Atlantic Division,18-29,Male,Some college or Associate degree,25000-49999,83999
+Middle Atlantic Division,18-29,Male,Some college or Associate degree,50000-99999,209887
+Middle Atlantic Division,30-44,Female,Bachelor degree,0-24999,41586
+Middle Atlantic Division,30-44,Female,Bachelor degree,100000-149999,272547
+Middle Atlantic Division,30-44,Female,Bachelor degree,150000+,588470
+Middle Atlantic Division,30-44,Female,Bachelor degree,25000-49999,80527
+Middle Atlantic Division,30-44,Female,Bachelor degree,50000-99999,240503
+Middle Atlantic Division,30-44,Female,Graduate degree,0-24999,22588
+Middle Atlantic Division,30-44,Female,Graduate degree,100000-149999,212535
+Middle Atlantic Division,30-44,Female,Graduate degree,150000+,630205
+Middle Atlantic Division,30-44,Female,Graduate degree,25000-49999,31445
+Middle Atlantic Division,30-44,Female,Graduate degree,50000-99999,155435
+Middle Atlantic Division,30-44,Female,High school degree,0-24999,102142
+Middle Atlantic Division,30-44,Female,High school degree,100000-149999,149068
+Middle Atlantic Division,30-44,Female,High school degree,150000+,123777
+Middle Atlantic Division,30-44,Female,High school degree,25000-49999,145232
+Middle Atlantic Division,30-44,Female,High school degree,50000-99999,240097
+Middle Atlantic Division,30-44,Female,Less than high school degree,0-24999,55488
+Middle Atlantic Division,30-44,Female,Less than high school degree,100000-149999,43195
+Middle Atlantic Division,30-44,Female,Less than high school degree,150000+,43335
+Middle Atlantic Division,30-44,Female,Less than high school degree,25000-49999,66631
+Middle Atlantic Division,30-44,Female,Less than high school degree,50000-99999,88082
+Middle Atlantic Division,30-44,Female,Some college or Associate degree,0-24999,80108
+Middle Atlantic Division,30-44,Female,Some college or Associate degree,100000-149999,207271
+Middle Atlantic Division,30-44,Female,Some college or Associate degree,150000+,205416
+Middle Atlantic Division,30-44,Female,Some college or Associate degree,25000-49999,133516
+Middle Atlantic Division,30-44,Female,Some college or Associate degree,50000-99999,283843
+Middle Atlantic Division,30-44,Male,Bachelor degree,0-24999,25836
+Middle Atlantic Division,30-44,Male,Bachelor degree,100000-149999,244195
+Middle Atlantic Division,30-44,Male,Bachelor degree,150000+,614487
+Middle Atlantic Division,30-44,Male,Bachelor degree,25000-49999,47707
+Middle Atlantic Division,30-44,Male,Bachelor degree,50000-99999,183005
+Middle Atlantic Division,30-44,Male,Graduate degree,0-24999,13732
+Middle Atlantic Division,30-44,Male,Graduate degree,100000-149999,135907
+Middle Atlantic Division,30-44,Male,Graduate degree,150000+,450444
+Middle Atlantic Division,30-44,Male,Graduate degree,25000-49999,19445
+Middle Atlantic Division,30-44,Male,Graduate degree,50000-99999,100850
+Middle Atlantic Division,30-44,Male,High school degree,0-24999,75326
+Middle Atlantic Division,30-44,Male,High school degree,100000-149999,223606
+Middle Atlantic Division,30-44,Male,High school degree,150000+,196754
+Middle Atlantic Division,30-44,Male,High school degree,25000-49999,143849
+Middle Atlantic Division,30-44,Male,High school degree,50000-99999,331074
+Middle Atlantic Division,30-44,Male,Less than high school degree,0-24999,40099
+Middle Atlantic Division,30-44,Male,Less than high school degree,100000-149999,54960
+Middle Atlantic Division,30-44,Male,Less than high school degree,150000+,67121
+Middle Atlantic Division,30-44,Male,Less than high school degree,25000-49999,68823
+Middle Atlantic Division,30-44,Male,Less than high school degree,50000-99999,111303
+Middle Atlantic Division,30-44,Male,Some college or Associate degree,0-24999,49430
+Middle Atlantic Division,30-44,Male,Some college or Associate degree,100000-149999,226263
+Middle Atlantic Division,30-44,Male,Some college or Associate degree,150000+,267922
+Middle Atlantic Division,30-44,Male,Some college or Associate degree,25000-49999,95533
+Middle Atlantic Division,30-44,Male,Some college or Associate degree,50000-99999,258251
+Middle Atlantic Division,45-60,Female,Bachelor degree,0-24999,37222
+Middle Atlantic Division,45-60,Female,Bachelor degree,100000-149999,197379
+Middle Atlantic Division,45-60,Female,Bachelor degree,150000+,519061
+Middle Atlantic Division,45-60,Female,Bachelor degree,25000-49999,52964
+Middle Atlantic Division,45-60,Female,Bachelor degree,50000-99999,165596
+Middle Atlantic Division,45-60,Female,Graduate degree,0-24999,19754
+Middle Atlantic Division,45-60,Female,Graduate degree,100000-149999,141262
+Middle Atlantic Division,45-60,Female,Graduate degree,150000+,525555
+Middle Atlantic Division,45-60,Female,Graduate degree,25000-49999,25507
+Middle Atlantic Division,45-60,Female,Graduate degree,50000-99999,109737
+Middle Atlantic Division,45-60,Female,High school degree,0-24999,118607
+Middle Atlantic Division,45-60,Female,High school degree,100000-149999,205990
+Middle Atlantic Division,45-60,Female,High school degree,150000+,223893
+Middle Atlantic Division,45-60,Female,High school degree,25000-49999,158906
+Middle Atlantic Division,45-60,Female,High school degree,50000-99999,309829
+Middle Atlantic Division,45-60,Female,Less than high school degree,0-24999,68495
+Middle Atlantic Division,45-60,Female,Less than high school degree,100000-149999,65221
+Middle Atlantic Division,45-60,Female,Less than high school degree,150000+,70850
+Middle Atlantic Division,45-60,Female,Less than high school degree,25000-49999,78525
+Middle Atlantic Division,45-60,Female,Less than high school degree,50000-99999,118732
+Middle Atlantic Division,45-60,Female,Some college or Associate degree,0-24999,82336
+Middle Atlantic Division,45-60,Female,Some college or Associate degree,100000-149999,231999
+Middle Atlantic Division,45-60,Female,Some college or Associate degree,150000+,328352
+Middle Atlantic Division,45-60,Female,Some college or Associate degree,25000-49999,129644
+Middle Atlantic Division,45-60,Female,Some college or Associate degree,50000-99999,263217
+Middle Atlantic Division,45-60,Male,Bachelor degree,0-24999,26954
+Middle Atlantic Division,45-60,Male,Bachelor degree,100000-149999,151662
+Middle Atlantic Division,45-60,Male,Bachelor degree,150000+,509318
+Middle Atlantic Division,45-60,Male,Bachelor degree,25000-49999,41885
+Middle Atlantic Division,45-60,Male,Bachelor degree,50000-99999,118121
+Middle Atlantic Division,45-60,Male,Graduate degree,0-24999,14759
+Middle Atlantic Division,45-60,Male,Graduate degree,100000-149999,89334
+Middle Atlantic Division,45-60,Male,Graduate degree,150000+,449099
+Middle Atlantic Division,45-60,Male,Graduate degree,25000-49999,14578
+Middle Atlantic Division,45-60,Male,Graduate degree,50000-99999,67114
+Middle Atlantic Division,45-60,Male,High school degree,0-24999,98178
+Middle Atlantic Division,45-60,Male,High school degree,100000-149999,260727
+Middle Atlantic Division,45-60,Male,High school degree,150000+,277997
+Middle Atlantic Division,45-60,Male,High school degree,25000-49999,140758
+Middle Atlantic Division,45-60,Male,High school degree,50000-99999,338893
+Middle Atlantic Division,45-60,Male,Less than high school degree,0-24999,55853
+Middle Atlantic Division,45-60,Male,Less than high school degree,100000-149999,78862
+Middle Atlantic Division,45-60,Male,Less than high school degree,150000+,95500
+Middle Atlantic Division,45-60,Male,Less than high school degree,25000-49999,73840
+Middle Atlantic Division,45-60,Male,Less than high school degree,50000-99999,129403
+Middle Atlantic Division,45-60,Male,Some college or Associate degree,0-24999,48405
+Middle Atlantic Division,45-60,Male,Some college or Associate degree,100000-149999,212811
+Middle Atlantic Division,45-60,Male,Some college or Associate degree,150000+,339583
+Middle Atlantic Division,45-60,Male,Some college or Associate degree,25000-49999,76443
+Middle Atlantic Division,45-60,Male,Some college or Associate degree,50000-99999,211770
+Middle Atlantic Division,61+,Female,Bachelor degree,0-24999,88053
+Middle Atlantic Division,61+,Female,Bachelor degree,100000-149999,161790
+Middle Atlantic Division,61+,Female,Bachelor degree,150000+,295365
+Middle Atlantic Division,61+,Female,Bachelor degree,25000-49999,121542
+Middle Atlantic Division,61+,Female,Bachelor degree,50000-99999,251920
+Middle Atlantic Division,61+,Female,Graduate degree,0-24999,47756
+Middle Atlantic Division,61+,Female,Graduate degree,100000-149999,163739
+Middle Atlantic Division,61+,Female,Graduate degree,150000+,306405
+Middle Atlantic Division,61+,Female,Graduate degree,25000-49999,75507
+Middle Atlantic Division,61+,Female,Graduate degree,50000-99999,192800
+Middle Atlantic Division,61+,Female,High school degree,0-24999,375074
+Middle Atlantic Division,61+,Female,High school degree,100000-149999,252151
+Middle Atlantic Division,61+,Female,High school degree,150000+,258111
+Middle Atlantic Division,61+,Female,High school degree,25000-49999,414767
+Middle Atlantic Division,61+,Female,High school degree,50000-99999,549004
+Middle Atlantic Division,61+,Female,Less than high school degree,0-24999,228125
+Middle Atlantic Division,61+,Female,Less than high school degree,100000-149999,80326
+Middle Atlantic Division,61+,Female,Less than high school degree,150000+,97917
+Middle Atlantic Division,61+,Female,Less than high school degree,25000-49999,136811
+Middle Atlantic Division,61+,Female,Less than high school degree,50000-99999,150927
+Middle Atlantic Division,61+,Female,Some college or Associate degree,0-24999,201979
+Middle Atlantic Division,61+,Female,Some college or Associate degree,100000-149999,219309
+Middle Atlantic Division,61+,Female,Some college or Associate degree,150000+,244490
+Middle Atlantic Division,61+,Female,Some college or Associate degree,25000-49999,259345
+Middle Atlantic Division,61+,Female,Some college or Associate degree,50000-99999,406612
+Middle Atlantic Division,61+,Male,Bachelor degree,0-24999,51528
+Middle Atlantic Division,61+,Male,Bachelor degree,100000-149999,173506
+Middle Atlantic Division,61+,Male,Bachelor degree,150000+,306633
+Middle Atlantic Division,61+,Male,Bachelor degree,25000-49999,84363
+Middle Atlantic Division,61+,Male,Bachelor degree,50000-99999,219631
+Middle Atlantic Division,61+,Male,Graduate degree,0-24999,35646
+Middle Atlantic Division,61+,Male,Graduate degree,100000-149999,142603
+Middle Atlantic Division,61+,Male,Graduate degree,150000+,374617
+Middle Atlantic Division,61+,Male,Graduate degree,25000-49999,49965
+Middle Atlantic Division,61+,Male,Graduate degree,50000-99999,138167
+Middle Atlantic Division,61+,Male,High school degree,0-24999,210892
+Middle Atlantic Division,61+,Male,High school degree,100000-149999,235640
+Middle Atlantic Division,61+,Male,High school degree,150000+,202676
+Middle Atlantic Division,61+,Male,High school degree,25000-49999,290018
+Middle Atlantic Division,61+,Male,High school degree,50000-99999,468166
+Middle Atlantic Division,61+,Male,Less than high school degree,0-24999,134912
+Middle Atlantic Division,61+,Male,Less than high school degree,100000-149999,67737
+Middle Atlantic Division,61+,Male,Less than high school degree,150000+,79247
+Middle Atlantic Division,61+,Male,Less than high school degree,25000-49999,110693
+Middle Atlantic Division,61+,Male,Less than high school degree,50000-99999,139700
+Middle Atlantic Division,61+,Male,Some college or Associate degree,0-24999,109813
+Middle Atlantic Division,61+,Male,Some college or Associate degree,100000-149999,193305
+Middle Atlantic Division,61+,Male,Some college or Associate degree,150000+,220955
+Middle Atlantic Division,61+,Male,Some college or Associate degree,25000-49999,154914
+Middle Atlantic Division,61+,Male,Some college or Associate degree,50000-99999,338687
+Mountain Division,18-29,Female,Bachelor degree,0-24999,20663
+Mountain Division,18-29,Female,Bachelor degree,100000-149999,99665
+Mountain Division,18-29,Female,Bachelor degree,150000+,115282
+Mountain Division,18-29,Female,Bachelor degree,25000-49999,43199
+Mountain Division,18-29,Female,Bachelor degree,50000-99999,122163
+Mountain Division,18-29,Female,Graduate degree,0-24999,3248
+Mountain Division,18-29,Female,Graduate degree,100000-149999,28384
+Mountain Division,18-29,Female,Graduate degree,150000+,32398
+Mountain Division,18-29,Female,Graduate degree,25000-49999,9622
+Mountain Division,18-29,Female,Graduate degree,50000-99999,28387
+Mountain Division,18-29,Female,High school degree,0-24999,49311
+Mountain Division,18-29,Female,High school degree,100000-149999,127365
+Mountain Division,18-29,Female,High school degree,150000+,123737
+Mountain Division,18-29,Female,High school degree,25000-49999,92822
+Mountain Division,18-29,Female,High school degree,50000-99999,200379
+Mountain Division,18-29,Female,Less than high school degree,0-24999,18577
+Mountain Division,18-29,Female,Less than high school degree,100000-149999,31676
+Mountain Division,18-29,Female,Less than high school degree,150000+,35110
+Mountain Division,18-29,Female,Less than high school degree,25000-49999,29577
+Mountain Division,18-29,Female,Less than high school degree,50000-99999,58006
+Mountain Division,18-29,Female,Some college or Associate degree,0-24999,65070
+Mountain Division,18-29,Female,Some college or Associate degree,100000-149999,134730
+Mountain Division,18-29,Female,Some college or Associate degree,150000+,144454
+Mountain Division,18-29,Female,Some college or Associate degree,25000-49999,100507
+Mountain Division,18-29,Female,Some college or Associate degree,50000-99999,220402
+Mountain Division,18-29,Male,Bachelor degree,0-24999,15539
+Mountain Division,18-29,Male,Bachelor degree,100000-149999,81930
+Mountain Division,18-29,Male,Bachelor degree,150000+,112250
+Mountain Division,18-29,Male,Bachelor degree,25000-49999,29778
+Mountain Division,18-29,Male,Bachelor degree,50000-99999,101682
+Mountain Division,18-29,Male,Graduate degree,0-24999,2263
+Mountain Division,18-29,Male,Graduate degree,100000-149999,18722
+Mountain Division,18-29,Male,Graduate degree,150000+,21264
+Mountain Division,18-29,Male,Graduate degree,25000-49999,6776
+Mountain Division,18-29,Male,Graduate degree,50000-99999,17611
+Mountain Division,18-29,Male,High school degree,0-24999,44505
+Mountain Division,18-29,Male,High school degree,100000-149999,165396
+Mountain Division,18-29,Male,High school degree,150000+,189574
+Mountain Division,18-29,Male,High school degree,25000-49999,93185
+Mountain Division,18-29,Male,High school degree,50000-99999,240717
+Mountain Division,18-29,Male,Less than high school degree,0-24999,21315
+Mountain Division,18-29,Male,Less than high school degree,100000-149999,52493
+Mountain Division,18-29,Male,Less than high school degree,150000+,60528
+Mountain Division,18-29,Male,Less than high school degree,25000-49999,37866
+Mountain Division,18-29,Male,Less than high school degree,50000-99999,82222
+Mountain Division,18-29,Male,Some college or Associate degree,0-24999,58333
+Mountain Division,18-29,Male,Some college or Associate degree,100000-149999,131667
+Mountain Division,18-29,Male,Some college or Associate degree,150000+,160925
+Mountain Division,18-29,Male,Some college or Associate degree,25000-49999,91231
+Mountain Division,18-29,Male,Some college or Associate degree,50000-99999,208034
+Mountain Division,30-44,Female,Bachelor degree,0-24999,18722
+Mountain Division,30-44,Female,Bachelor degree,100000-149999,187968
+Mountain Division,30-44,Female,Bachelor degree,150000+,305485
+Mountain Division,30-44,Female,Bachelor degree,25000-49999,41120
+Mountain Division,30-44,Female,Bachelor degree,50000-99999,171106
+Mountain Division,30-44,Female,Graduate degree,0-24999,9811
+Mountain Division,30-44,Female,Graduate degree,100000-149999,99104
+Mountain Division,30-44,Female,Graduate degree,150000+,235555
+Mountain Division,30-44,Female,Graduate degree,25000-49999,17529
+Mountain Division,30-44,Female,Graduate degree,50000-99999,85187
+Mountain Division,30-44,Female,High school degree,0-24999,41935
+Mountain Division,30-44,Female,High school degree,100000-149999,126060
+Mountain Division,30-44,Female,High school degree,150000+,92512
+Mountain Division,30-44,Female,High school degree,25000-49999,85748
+Mountain Division,30-44,Female,High school degree,50000-99999,165385
+Mountain Division,30-44,Female,Less than high school degree,0-24999,24098
+Mountain Division,30-44,Female,Less than high school degree,100000-149999,28390
+Mountain Division,30-44,Female,Less than high school degree,150000+,20839
+Mountain Division,30-44,Female,Less than high school degree,25000-49999,38238
+Mountain Division,30-44,Female,Less than high school degree,50000-99999,65654
+Mountain Division,30-44,Female,Some college or Associate degree,0-24999,47826
+Mountain Division,30-44,Female,Some college or Associate degree,100000-149999,193582
+Mountain Division,30-44,Female,Some college or Associate degree,150000+,179375
+Mountain Division,30-44,Female,Some college or Associate degree,25000-49999,102182
+Mountain Division,30-44,Female,Some college or Associate degree,50000-99999,251164
+Mountain Division,30-44,Male,Bachelor degree,0-24999,19475
+Mountain Division,30-44,Male,Bachelor degree,100000-149999,168369
+Mountain Division,30-44,Male,Bachelor degree,150000+,287650
+Mountain Division,30-44,Male,Bachelor degree,25000-49999,31381
+Mountain Division,30-44,Male,Bachelor degree,50000-99999,140985
+Mountain Division,30-44,Male,Graduate degree,0-24999,6830
+Mountain Division,30-44,Male,Graduate degree,100000-149999,79216
+Mountain Division,30-44,Male,Graduate degree,150000+,203403
+Mountain Division,30-44,Male,Graduate degree,25000-49999,13096
+Mountain Division,30-44,Male,Graduate degree,50000-99999,56301
+Mountain Division,30-44,Male,High school degree,0-24999,35989
+Mountain Division,30-44,Male,High school degree,100000-149999,161959
+Mountain Division,30-44,Male,High school degree,150000+,129341
+Mountain Division,30-44,Male,High school degree,25000-49999,86869
+Mountain Division,30-44,Male,High school degree,50000-99999,225004
+Mountain Division,30-44,Male,Less than high school degree,0-24999,25439
+Mountain Division,30-44,Male,Less than high school degree,100000-149999,45507
+Mountain Division,30-44,Male,Less than high school degree,150000+,36791
+Mountain Division,30-44,Male,Less than high school degree,25000-49999,39784
+Mountain Division,30-44,Male,Less than high school degree,50000-99999,88962
+Mountain Division,30-44,Male,Some college or Associate degree,0-24999,35082
+Mountain Division,30-44,Male,Some college or Associate degree,100000-149999,205578
+Mountain Division,30-44,Male,Some college or Associate degree,150000+,203648
+Mountain Division,30-44,Male,Some college or Associate degree,25000-49999,79700
+Mountain Division,30-44,Male,Some college or Associate degree,50000-99999,255350
+Mountain Division,45-60,Female,Bachelor degree,0-24999,21722
+Mountain Division,45-60,Female,Bachelor degree,100000-149999,125843
+Mountain Division,45-60,Female,Bachelor degree,150000+,269331
+Mountain Division,45-60,Female,Bachelor degree,25000-49999,34782
+Mountain Division,45-60,Female,Bachelor degree,50000-99999,104988
+Mountain Division,45-60,Female,Graduate degree,0-24999,10647
+Mountain Division,45-60,Female,Graduate degree,100000-149999,76001
+Mountain Division,45-60,Female,Graduate degree,150000+,213686
+Mountain Division,45-60,Female,Graduate degree,25000-49999,15817
+Mountain Division,45-60,Female,Graduate degree,50000-99999,64006
+Mountain Division,45-60,Female,High school degree,0-24999,45248
+Mountain Division,45-60,Female,High school degree,100000-149999,111458
+Mountain Division,45-60,Female,High school degree,150000+,119663
+Mountain Division,45-60,Female,High school degree,25000-49999,74236
+Mountain Division,45-60,Female,High school degree,50000-99999,150235
+Mountain Division,45-60,Female,Less than high school degree,0-24999,26989
+Mountain Division,45-60,Female,Less than high school degree,100000-149999,42675
+Mountain Division,45-60,Female,Less than high school degree,150000+,41447
+Mountain Division,45-60,Female,Less than high school degree,25000-49999,41330
+Mountain Division,45-60,Female,Less than high school degree,50000-99999,71150
+Mountain Division,45-60,Female,Some college or Associate degree,0-24999,53021
+Mountain Division,45-60,Female,Some college or Associate degree,100000-149999,162245
+Mountain Division,45-60,Female,Some college or Associate degree,150000+,227952
+Mountain Division,45-60,Female,Some college or Associate degree,25000-49999,76727
+Mountain Division,45-60,Female,Some college or Associate degree,50000-99999,196381
+Mountain Division,45-60,Male,Bachelor degree,0-24999,15237
+Mountain Division,45-60,Male,Bachelor degree,100000-149999,112301
+Mountain Division,45-60,Male,Bachelor degree,150000+,279107
+Mountain Division,45-60,Male,Bachelor degree,25000-49999,26119
+Mountain Division,45-60,Male,Bachelor degree,50000-99999,85151
+Mountain Division,45-60,Male,Graduate degree,0-24999,7526
+Mountain Division,45-60,Male,Graduate degree,100000-149999,60464
+Mountain Division,45-60,Male,Graduate degree,150000+,224463
+Mountain Division,45-60,Male,Graduate degree,25000-49999,7936
+Mountain Division,45-60,Male,Graduate degree,50000-99999,42708
+Mountain Division,45-60,Male,High school degree,0-24999,38309
+Mountain Division,45-60,Male,High school degree,100000-149999,123893
+Mountain Division,45-60,Male,High school degree,150000+,135742
+Mountain Division,45-60,Male,High school degree,25000-49999,64858
+Mountain Division,45-60,Male,High school degree,50000-99999,151901
+Mountain Division,45-60,Male,Less than high school degree,0-24999,23535
+Mountain Division,45-60,Male,Less than high school degree,100000-149999,53639
+Mountain Division,45-60,Male,Less than high school degree,150000+,45463
+Mountain Division,45-60,Male,Less than high school degree,25000-49999,40116
+Mountain Division,45-60,Male,Less than high school degree,50000-99999,86268
+Mountain Division,45-60,Male,Some college or Associate degree,0-24999,38164
+Mountain Division,45-60,Male,Some college or Associate degree,100000-149999,163515
+Mountain Division,45-60,Male,Some college or Associate degree,150000+,224758
+Mountain Division,45-60,Male,Some college or Associate degree,25000-49999,56274
+Mountain Division,45-60,Male,Some college or Associate degree,50000-99999,169192
+Mountain Division,61+,Female,Bachelor degree,0-24999,52068
+Mountain Division,61+,Female,Bachelor degree,100000-149999,115660
+Mountain Division,61+,Female,Bachelor degree,150000+,145514
+Mountain Division,61+,Female,Bachelor degree,25000-49999,88443
+Mountain Division,61+,Female,Bachelor degree,50000-99999,174123
+Mountain Division,61+,Female,Graduate degree,0-24999,26161
+Mountain Division,61+,Female,Graduate degree,100000-149999,84119
+Mountain Division,61+,Female,Graduate degree,150000+,126039
+Mountain Division,61+,Female,Graduate degree,25000-49999,44485
+Mountain Division,61+,Female,Graduate degree,50000-99999,114966
+Mountain Division,61+,Female,High school degree,0-24999,146716
+Mountain Division,61+,Female,High school degree,100000-149999,113008
+Mountain Division,61+,Female,High school degree,150000+,102575
+Mountain Division,61+,Female,High school degree,25000-49999,174513
+Mountain Division,61+,Female,High school degree,50000-99999,257372
+Mountain Division,61+,Female,Less than high school degree,0-24999,68091
+Mountain Division,61+,Female,Less than high school degree,100000-149999,32218
+Mountain Division,61+,Female,Less than high school degree,150000+,30611
+Mountain Division,61+,Female,Less than high school degree,25000-49999,57191
+Mountain Division,61+,Female,Less than high school degree,50000-99999,72946
+Mountain Division,61+,Female,Some college or Associate degree,0-24999,142877
+Mountain Division,61+,Female,Some college or Associate degree,100000-149999,166246
+Mountain Division,61+,Female,Some college or Associate degree,150000+,166779
+Mountain Division,61+,Female,Some college or Associate degree,25000-49999,222633
+Mountain Division,61+,Female,Some college or Associate degree,50000-99999,336350
+Mountain Division,61+,Male,Bachelor degree,0-24999,40398
+Mountain Division,61+,Male,Bachelor degree,100000-149999,117310
+Mountain Division,61+,Male,Bachelor degree,150000+,161093
+Mountain Division,61+,Male,Bachelor degree,25000-49999,65834
+Mountain Division,61+,Male,Bachelor degree,50000-99999,171460
+Mountain Division,61+,Male,Graduate degree,0-24999,24324
+Mountain Division,61+,Male,Graduate degree,100000-149999,101070
+Mountain Division,61+,Male,Graduate degree,150000+,180551
+Mountain Division,61+,Male,Graduate degree,25000-49999,38181
+Mountain Division,61+,Male,Graduate degree,50000-99999,116302
+Mountain Division,61+,Male,High school degree,0-24999,95282
+Mountain Division,61+,Male,High school degree,100000-149999,95592
+Mountain Division,61+,Male,High school degree,150000+,80772
+Mountain Division,61+,Male,High school degree,25000-49999,134142
+Mountain Division,61+,Male,High school degree,50000-99999,211097
+Mountain Division,61+,Male,Less than high school degree,0-24999,54218
+Mountain Division,61+,Male,Less than high school degree,100000-149999,27282
+Mountain Division,61+,Male,Less than high school degree,150000+,27139
+Mountain Division,61+,Male,Less than high school degree,25000-49999,50308
+Mountain Division,61+,Male,Less than high school degree,50000-99999,68059
+Mountain Division,61+,Male,Some college or Associate degree,0-24999,92977
+Mountain Division,61+,Male,Some college or Associate degree,100000-149999,155477
+Mountain Division,61+,Male,Some college or Associate degree,150000+,145196
+Mountain Division,61+,Male,Some college or Associate degree,25000-49999,148570
+Mountain Division,61+,Male,Some college or Associate degree,50000-99999,297377
+New England Division,18-29,Female,Bachelor degree,0-24999,11906
+New England Division,18-29,Female,Bachelor degree,100000-149999,71964
+New England Division,18-29,Female,Bachelor degree,150000+,134502
+New England Division,18-29,Female,Bachelor degree,25000-49999,20737
+New England Division,18-29,Female,Bachelor degree,50000-99999,61491
+New England Division,18-29,Female,Graduate degree,0-24999,3859
+New England Division,18-29,Female,Graduate degree,100000-149999,29832
+New England Division,18-29,Female,Graduate degree,150000+,48485
+New England Division,18-29,Female,Graduate degree,25000-49999,5177
+New England Division,18-29,Female,Graduate degree,50000-99999,24837
+New England Division,18-29,Female,High school degree,0-24999,26109
+New England Division,18-29,Female,High school degree,100000-149999,56079
+New England Division,18-29,Female,High school degree,150000+,71845
+New England Division,18-29,Female,High school degree,25000-49999,32878
+New England Division,18-29,Female,High school degree,50000-99999,68567
+New England Division,18-29,Female,Less than high school degree,0-24999,8262
+New England Division,18-29,Female,Less than high school degree,100000-149999,10548
+New England Division,18-29,Female,Less than high school degree,150000+,19116
+New England Division,18-29,Female,Less than high school degree,25000-49999,8852
+New England Division,18-29,Female,Less than high school degree,50000-99999,18008
+New England Division,18-29,Female,Some college or Associate degree,0-24999,19083
+New England Division,18-29,Female,Some college or Associate degree,100000-149999,57531
+New England Division,18-29,Female,Some college or Associate degree,150000+,74279
+New England Division,18-29,Female,Some college or Associate degree,25000-49999,34523
+New England Division,18-29,Female,Some college or Associate degree,50000-99999,69260
+New England Division,18-29,Male,Bachelor degree,0-24999,7980
+New England Division,18-29,Male,Bachelor degree,100000-149999,55232
+New England Division,18-29,Male,Bachelor degree,150000+,125949
+New England Division,18-29,Male,Bachelor degree,25000-49999,13808
+New England Division,18-29,Male,Bachelor degree,50000-99999,50208
+New England Division,18-29,Male,Graduate degree,0-24999,3121
+New England Division,18-29,Male,Graduate degree,100000-149999,17095
+New England Division,18-29,Male,Graduate degree,150000+,31559
+New England Division,18-29,Male,Graduate degree,25000-49999,4709
+New England Division,18-29,Male,Graduate degree,50000-99999,12850
+New England Division,18-29,Male,High school degree,0-24999,18912
+New England Division,18-29,Male,High school degree,100000-149999,71816
+New England Division,18-29,Male,High school degree,150000+,113882
+New England Division,18-29,Male,High school degree,25000-49999,40097
+New England Division,18-29,Male,High school degree,50000-99999,100469
+New England Division,18-29,Male,Less than high school degree,0-24999,7767
+New England Division,18-29,Male,Less than high school degree,100000-149999,14605
+New England Division,18-29,Male,Less than high school degree,150000+,25586
+New England Division,18-29,Male,Less than high school degree,25000-49999,13317
+New England Division,18-29,Male,Less than high school degree,50000-99999,27776
+New England Division,18-29,Male,Some college or Associate degree,0-24999,13803
+New England Division,18-29,Male,Some college or Associate degree,100000-149999,58549
+New England Division,18-29,Male,Some college or Associate degree,150000+,96611
+New England Division,18-29,Male,Some college or Associate degree,25000-49999,20711
+New England Division,18-29,Male,Some college or Associate degree,50000-99999,60465
+New England Division,30-44,Female,Bachelor degree,0-24999,9069
+New England Division,30-44,Female,Bachelor degree,100000-149999,99538
+New England Division,30-44,Female,Bachelor degree,150000+,218451
+New England Division,30-44,Female,Bachelor degree,25000-49999,22577
+New England Division,30-44,Female,Bachelor degree,50000-99999,82134
+New England Division,30-44,Female,Graduate degree,0-24999,7655
+New England Division,30-44,Female,Graduate degree,100000-149999,78143
+New England Division,30-44,Female,Graduate degree,150000+,264987
+New England Division,30-44,Female,Graduate degree,25000-49999,9805
+New England Division,30-44,Female,Graduate degree,50000-99999,61931
+New England Division,30-44,Female,High school degree,0-24999,32847
+New England Division,30-44,Female,High school degree,100000-149999,56027
+New England Division,30-44,Female,High school degree,150000+,46586
+New England Division,30-44,Female,High school degree,25000-49999,41438
+New England Division,30-44,Female,High school degree,50000-99999,81078
+New England Division,30-44,Female,Less than high school degree,0-24999,12152
+New England Division,30-44,Female,Less than high school degree,100000-149999,14879
+New England Division,30-44,Female,Less than high school degree,150000+,13877
+New England Division,30-44,Female,Less than high school degree,25000-49999,17026
+New England Division,30-44,Female,Less than high school degree,50000-99999,20476
+New England Division,30-44,Female,Some college or Associate degree,0-24999,26449
+New England Division,30-44,Female,Some college or Associate degree,100000-149999,79134
+New England Division,30-44,Female,Some college or Associate degree,150000+,86463
+New England Division,30-44,Female,Some college or Associate degree,25000-49999,45413
+New England Division,30-44,Female,Some college or Associate degree,50000-99999,99973
+New England Division,30-44,Male,Bachelor degree,0-24999,6625
+New England Division,30-44,Male,Bachelor degree,100000-149999,91127
+New England Division,30-44,Male,Bachelor degree,150000+,228523
+New England Division,30-44,Male,Bachelor degree,25000-49999,15360
+New England Division,30-44,Male,Bachelor degree,50000-99999,62338
+New England Division,30-44,Male,Graduate degree,0-24999,5007
+New England Division,30-44,Male,Graduate degree,100000-149999,46694
+New England Division,30-44,Male,Graduate degree,150000+,182546
+New England Division,30-44,Male,Graduate degree,25000-49999,7538
+New England Division,30-44,Male,Graduate degree,50000-99999,35550
+New England Division,30-44,Male,High school degree,0-24999,21922
+New England Division,30-44,Male,High school degree,100000-149999,89815
+New England Division,30-44,Male,High school degree,150000+,94116
+New England Division,30-44,Male,High school degree,25000-49999,38537
+New England Division,30-44,Male,High school degree,50000-99999,107386
+New England Division,30-44,Male,Less than high school degree,0-24999,12528
+New England Division,30-44,Male,Less than high school degree,100000-149999,19466
+New England Division,30-44,Male,Less than high school degree,150000+,24636
+New England Division,30-44,Male,Less than high school degree,25000-49999,15436
+New England Division,30-44,Male,Less than high school degree,50000-99999,35252
+New England Division,30-44,Male,Some college or Associate degree,0-24999,13034
+New England Division,30-44,Male,Some college or Associate degree,100000-149999,87700
+New England Division,30-44,Male,Some college or Associate degree,150000+,110107
+New England Division,30-44,Male,Some college or Associate degree,25000-49999,25247
+New England Division,30-44,Male,Some college or Associate degree,50000-99999,90822
+New England Division,45-60,Female,Bachelor degree,0-24999,14414
+New England Division,45-60,Female,Bachelor degree,100000-149999,71787
+New England Division,45-60,Female,Bachelor degree,150000+,219143
+New England Division,45-60,Female,Bachelor degree,25000-49999,20677
+New England Division,45-60,Female,Bachelor degree,50000-99999,60738
+New England Division,45-60,Female,Graduate degree,0-24999,8196
+New England Division,45-60,Female,Graduate degree,100000-149999,59556
+New England Division,45-60,Female,Graduate degree,150000+,242439
+New England Division,45-60,Female,Graduate degree,25000-49999,7826
+New England Division,45-60,Female,Graduate degree,50000-99999,41801
+New England Division,45-60,Female,High school degree,0-24999,34949
+New England Division,45-60,Female,High school degree,100000-149999,71382
+New England Division,45-60,Female,High school degree,150000+,91479
+New England Division,45-60,Female,High school degree,25000-49999,46335
+New England Division,45-60,Female,High school degree,50000-99999,88940
+New England Division,45-60,Female,Less than high school degree,0-24999,17722
+New England Division,45-60,Female,Less than high school degree,100000-149999,19683
+New England Division,45-60,Female,Less than high school degree,150000+,18421
+New England Division,45-60,Female,Less than high school degree,25000-49999,16613
+New England Division,45-60,Female,Less than high school degree,50000-99999,27178
+New England Division,45-60,Female,Some college or Associate degree,0-24999,26508
+New England Division,45-60,Female,Some college or Associate degree,100000-149999,82803
+New England Division,45-60,Female,Some college or Associate degree,150000+,129033
+New England Division,45-60,Female,Some college or Associate degree,25000-49999,34213
+New England Division,45-60,Female,Some college or Associate degree,50000-99999,94278
+New England Division,45-60,Male,Bachelor degree,0-24999,7790
+New England Division,45-60,Male,Bachelor degree,100000-149999,51608
+New England Division,45-60,Male,Bachelor degree,150000+,215725
+New England Division,45-60,Male,Bachelor degree,25000-49999,14441
+New England Division,45-60,Male,Bachelor degree,50000-99999,37847
+New England Division,45-60,Male,Graduate degree,0-24999,4112
+New England Division,45-60,Male,Graduate degree,100000-149999,34319
+New England Division,45-60,Male,Graduate degree,150000+,211594
+New England Division,45-60,Male,Graduate degree,25000-49999,5958
+New England Division,45-60,Male,Graduate degree,50000-99999,17975
+New England Division,45-60,Male,High school degree,0-24999,26119
+New England Division,45-60,Male,High school degree,100000-149999,83678
+New England Division,45-60,Male,High school degree,150000+,115563
+New England Division,45-60,Male,High school degree,25000-49999,42468
+New England Division,45-60,Male,High school degree,50000-99999,107161
+New England Division,45-60,Male,Less than high school degree,0-24999,15713
+New England Division,45-60,Male,Less than high school degree,100000-149999,26219
+New England Division,45-60,Male,Less than high school degree,150000+,25166
+New England Division,45-60,Male,Less than high school degree,25000-49999,16619
+New England Division,45-60,Male,Less than high school degree,50000-99999,39489
+New England Division,45-60,Male,Some college or Associate degree,0-24999,15775
+New England Division,45-60,Male,Some college or Associate degree,100000-149999,80699
+New England Division,45-60,Male,Some college or Associate degree,150000+,128655
+New England Division,45-60,Male,Some college or Associate degree,25000-49999,23685
+New England Division,45-60,Male,Some college or Associate degree,50000-99999,71449
+New England Division,61+,Female,Bachelor degree,0-24999,32627
+New England Division,61+,Female,Bachelor degree,100000-149999,79344
+New England Division,61+,Female,Bachelor degree,150000+,133159
+New England Division,61+,Female,Bachelor degree,25000-49999,50742
+New England Division,61+,Female,Bachelor degree,50000-99999,113829
+New England Division,61+,Female,Graduate degree,0-24999,21281
+New England Division,61+,Female,Graduate degree,100000-149999,71516
+New England Division,61+,Female,Graduate degree,150000+,142817
+New England Division,61+,Female,Graduate degree,25000-49999,31383
+New England Division,61+,Female,Graduate degree,50000-99999,87620
+New England Division,61+,Female,High school degree,0-24999,112558
+New England Division,61+,Female,High school degree,100000-149999,85629
+New England Division,61+,Female,High school degree,150000+,84815
+New England Division,61+,Female,High school degree,25000-49999,124791
+New England Division,61+,Female,High school degree,50000-99999,169828
+New England Division,61+,Female,Less than high school degree,0-24999,65505
+New England Division,61+,Female,Less than high school degree,100000-149999,22741
+New England Division,61+,Female,Less than high school degree,150000+,28427
+New England Division,61+,Female,Less than high school degree,25000-49999,33482
+New England Division,61+,Female,Less than high school degree,50000-99999,38994
+New England Division,61+,Female,Some college or Associate degree,0-24999,81764
+New England Division,61+,Female,Some college or Associate degree,100000-149999,97246
+New England Division,61+,Female,Some college or Associate degree,150000+,106531
+New England Division,61+,Female,Some college or Associate degree,25000-49999,106996
+New England Division,61+,Female,Some college or Associate degree,50000-99999,156067
+New England Division,61+,Male,Bachelor degree,0-24999,19479
+New England Division,61+,Male,Bachelor degree,100000-149999,77715
+New England Division,61+,Male,Bachelor degree,150000+,144297
+New England Division,61+,Male,Bachelor degree,25000-49999,34039
+New England Division,61+,Male,Bachelor degree,50000-99999,93480
+New England Division,61+,Male,Graduate degree,0-24999,13866
+New England Division,61+,Male,Graduate degree,100000-149999,69578
+New England Division,61+,Male,Graduate degree,150000+,167811
+New England Division,61+,Male,Graduate degree,25000-49999,22553
+New England Division,61+,Male,Graduate degree,50000-99999,72484
+New England Division,61+,Male,High school degree,0-24999,60352
+New England Division,61+,Male,High school degree,100000-149999,87519
+New England Division,61+,Male,High school degree,150000+,89419
+New England Division,61+,Male,High school degree,25000-49999,88801
+New England Division,61+,Male,High school degree,50000-99999,152681
+New England Division,61+,Male,Less than high school degree,0-24999,38387
+New England Division,61+,Male,Less than high school degree,100000-149999,19536
+New England Division,61+,Male,Less than high school degree,150000+,21505
+New England Division,61+,Male,Less than high school degree,25000-49999,37918
+New England Division,61+,Male,Less than high school degree,50000-99999,45872
+New England Division,61+,Male,Some college or Associate degree,0-24999,36705
+New England Division,61+,Male,Some college or Associate degree,100000-149999,79885
+New England Division,61+,Male,Some college or Associate degree,150000+,89468
+New England Division,61+,Male,Some college or Associate degree,25000-49999,63542
+New England Division,61+,Male,Some college or Associate degree,50000-99999,120202
+Pacific Division,18-29,Female,Bachelor degree,0-24999,39001
+Pacific Division,18-29,Female,Bachelor degree,100000-149999,200908
+Pacific Division,18-29,Female,Bachelor degree,150000+,374834
+Pacific Division,18-29,Female,Bachelor degree,25000-49999,69977
+Pacific Division,18-29,Female,Bachelor degree,50000-99999,206569
+Pacific Division,18-29,Female,Graduate degree,0-24999,9409
+Pacific Division,18-29,Female,Graduate degree,100000-149999,52568
+Pacific Division,18-29,Female,Graduate degree,150000+,123675
+Pacific Division,18-29,Female,Graduate degree,25000-49999,12122
+Pacific Division,18-29,Female,Graduate degree,50000-99999,48913
+Pacific Division,18-29,Female,High school degree,0-24999,86111
+Pacific Division,18-29,Female,High school degree,100000-149999,216666
+Pacific Division,18-29,Female,High school degree,150000+,273689
+Pacific Division,18-29,Female,High school degree,25000-49999,132840
+Pacific Division,18-29,Female,High school degree,50000-99999,303436
+Pacific Division,18-29,Female,Less than high school degree,0-24999,30493
+Pacific Division,18-29,Female,Less than high school degree,100000-149999,52456
+Pacific Division,18-29,Female,Less than high school degree,150000+,69361
+Pacific Division,18-29,Female,Less than high school degree,25000-49999,44946
+Pacific Division,18-29,Female,Less than high school degree,50000-99999,82260
+Pacific Division,18-29,Female,Some college or Associate degree,0-24999,108004
+Pacific Division,18-29,Female,Some college or Associate degree,100000-149999,285051
+Pacific Division,18-29,Female,Some college or Associate degree,150000+,349056
+Pacific Division,18-29,Female,Some college or Associate degree,25000-49999,171691
+Pacific Division,18-29,Female,Some college or Associate degree,50000-99999,367830
+Pacific Division,18-29,Male,Bachelor degree,0-24999,27807
+Pacific Division,18-29,Male,Bachelor degree,100000-149999,150774
+Pacific Division,18-29,Male,Bachelor degree,150000+,348792
+Pacific Division,18-29,Male,Bachelor degree,25000-49999,46449
+Pacific Division,18-29,Male,Bachelor degree,50000-99999,141001
+Pacific Division,18-29,Male,Graduate degree,0-24999,6217
+Pacific Division,18-29,Male,Graduate degree,100000-149999,30207
+Pacific Division,18-29,Male,Graduate degree,150000+,91000
+Pacific Division,18-29,Male,Graduate degree,25000-49999,11395
+Pacific Division,18-29,Male,Graduate degree,50000-99999,29521
+Pacific Division,18-29,Male,High school degree,0-24999,79028
+Pacific Division,18-29,Male,High school degree,100000-149999,303125
+Pacific Division,18-29,Male,High school degree,150000+,424600
+Pacific Division,18-29,Male,High school degree,25000-49999,156780
+Pacific Division,18-29,Male,High school degree,50000-99999,399072
+Pacific Division,18-29,Male,Less than high school degree,0-24999,31067
+Pacific Division,18-29,Male,Less than high school degree,100000-149999,84526
+Pacific Division,18-29,Male,Less than high school degree,150000+,108637
+Pacific Division,18-29,Male,Less than high school degree,25000-49999,63840
+Pacific Division,18-29,Male,Less than high school degree,50000-99999,114262
+Pacific Division,18-29,Male,Some college or Associate degree,0-24999,82566
+Pacific Division,18-29,Male,Some college or Associate degree,100000-149999,275853
+Pacific Division,18-29,Male,Some college or Associate degree,150000+,419954
+Pacific Division,18-29,Male,Some college or Associate degree,25000-49999,140310
+Pacific Division,18-29,Male,Some college or Associate degree,50000-99999,330496
+Pacific Division,30-44,Female,Bachelor degree,0-24999,44188
+Pacific Division,30-44,Female,Bachelor degree,100000-149999,328868
+Pacific Division,30-44,Female,Bachelor degree,150000+,863324
+Pacific Division,30-44,Female,Bachelor degree,25000-49999,76462
+Pacific Division,30-44,Female,Bachelor degree,50000-99999,273641
+Pacific Division,30-44,Female,Graduate degree,0-24999,22377
+Pacific Division,30-44,Female,Graduate degree,100000-149999,181133
+Pacific Division,30-44,Female,Graduate degree,150000+,744531
+Pacific Division,30-44,Female,Graduate degree,25000-49999,30257
+Pacific Division,30-44,Female,Graduate degree,50000-99999,131787
+Pacific Division,30-44,Female,High school degree,0-24999,81429
+Pacific Division,30-44,Female,High school degree,100000-149999,220412
+Pacific Division,30-44,Female,High school degree,150000+,232163
+Pacific Division,30-44,Female,High school degree,25000-49999,144986
+Pacific Division,30-44,Female,High school degree,50000-99999,320522
+Pacific Division,30-44,Female,Less than high school degree,0-24999,57423
+Pacific Division,30-44,Female,Less than high school degree,100000-149999,83610
+Pacific Division,30-44,Female,Less than high school degree,150000+,65659
+Pacific Division,30-44,Female,Less than high school degree,25000-49999,110986
+Pacific Division,30-44,Female,Less than high school degree,50000-99999,162214
+Pacific Division,30-44,Female,Some college or Associate degree,0-24999,96807
+Pacific Division,30-44,Female,Some college or Associate degree,100000-149999,362087
+Pacific Division,30-44,Female,Some college or Associate degree,150000+,428811
+Pacific Division,30-44,Female,Some college or Associate degree,25000-49999,168624
+Pacific Division,30-44,Female,Some college or Associate degree,50000-99999,437207
+Pacific Division,30-44,Male,Bachelor degree,0-24999,36799
+Pacific Division,30-44,Male,Bachelor degree,100000-149999,286055
+Pacific Division,30-44,Male,Bachelor degree,150000+,815175
+Pacific Division,30-44,Male,Bachelor degree,25000-49999,61433
+Pacific Division,30-44,Male,Bachelor degree,50000-99999,219673
+Pacific Division,30-44,Male,Graduate degree,0-24999,15060
+Pacific Division,30-44,Male,Graduate degree,100000-149999,130344
+Pacific Division,30-44,Male,Graduate degree,150000+,626921
+Pacific Division,30-44,Male,Graduate degree,25000-49999,19516
+Pacific Division,30-44,Male,Graduate degree,50000-99999,88466
+Pacific Division,30-44,Male,High school degree,0-24999,71626
+Pacific Division,30-44,Male,High school degree,100000-149999,283160
+Pacific Division,30-44,Male,High school degree,150000+,350867
+Pacific Division,30-44,Male,High school degree,25000-49999,143683
+Pacific Division,30-44,Male,High school degree,50000-99999,385063
+Pacific Division,30-44,Male,Less than high school degree,0-24999,57335
+Pacific Division,30-44,Male,Less than high school degree,100000-149999,116377
+Pacific Division,30-44,Male,Less than high school degree,150000+,107882
+Pacific Division,30-44,Male,Less than high school degree,25000-49999,109083
+Pacific Division,30-44,Male,Less than high school degree,50000-99999,204243
+Pacific Division,30-44,Male,Some college or Associate degree,0-24999,61909
+Pacific Division,30-44,Male,Some college or Associate degree,100000-149999,377720
+Pacific Division,30-44,Male,Some college or Associate degree,150000+,494019
+Pacific Division,30-44,Male,Some college or Associate degree,25000-49999,124953
+Pacific Division,30-44,Male,Some college or Associate degree,50000-99999,404329
+Pacific Division,45-60,Female,Bachelor degree,0-24999,46035
+Pacific Division,45-60,Female,Bachelor degree,100000-149999,224463
+Pacific Division,45-60,Female,Bachelor degree,150000+,676379
+Pacific Division,45-60,Female,Bachelor degree,25000-49999,54582
+Pacific Division,45-60,Female,Bachelor degree,50000-99999,188489
+Pacific Division,45-60,Female,Graduate degree,0-24999,22109
+Pacific Division,45-60,Female,Graduate degree,100000-149999,138000
+Pacific Division,45-60,Female,Graduate degree,150000+,579110
+Pacific Division,45-60,Female,Graduate degree,25000-49999,26456
+Pacific Division,45-60,Female,Graduate degree,50000-99999,87588
+Pacific Division,45-60,Female,High school degree,0-24999,70908
+Pacific Division,45-60,Female,High school degree,100000-149999,209937
+Pacific Division,45-60,Female,High school degree,150000+,272697
+Pacific Division,45-60,Female,High school degree,25000-49999,121335
+Pacific Division,45-60,Female,High school degree,50000-99999,267099
+Pacific Division,45-60,Female,Less than high school degree,0-24999,86678
+Pacific Division,45-60,Female,Less than high school degree,100000-149999,158799
+Pacific Division,45-60,Female,Less than high school degree,150000+,156340
+Pacific Division,45-60,Female,Less than high school degree,25000-49999,133563
+Pacific Division,45-60,Female,Less than high school degree,50000-99999,252162
+Pacific Division,45-60,Female,Some college or Associate degree,0-24999,102258
+Pacific Division,45-60,Female,Some college or Associate degree,100000-149999,296356
+Pacific Division,45-60,Female,Some college or Associate degree,150000+,514744
+Pacific Division,45-60,Female,Some college or Associate degree,25000-49999,137723
+Pacific Division,45-60,Female,Some college or Associate degree,50000-99999,346843
+Pacific Division,45-60,Male,Bachelor degree,0-24999,35193
+Pacific Division,45-60,Male,Bachelor degree,100000-149999,174262
+Pacific Division,45-60,Male,Bachelor degree,150000+,651171
+Pacific Division,45-60,Male,Bachelor degree,25000-49999,49458
+Pacific Division,45-60,Male,Bachelor degree,50000-99999,137171
+Pacific Division,45-60,Male,Graduate degree,0-24999,16958
+Pacific Division,45-60,Male,Graduate degree,100000-149999,102492
+Pacific Division,45-60,Male,Graduate degree,150000+,553964
+Pacific Division,45-60,Male,Graduate degree,25000-49999,18474
+Pacific Division,45-60,Male,Graduate degree,50000-99999,60099
+Pacific Division,45-60,Male,High school degree,0-24999,73452
+Pacific Division,45-60,Male,High school degree,100000-149999,238675
+Pacific Division,45-60,Male,High school degree,150000+,322059
+Pacific Division,45-60,Male,High school degree,25000-49999,109854
+Pacific Division,45-60,Male,High school degree,50000-99999,295447
+Pacific Division,45-60,Male,Less than high school degree,0-24999,66754
+Pacific Division,45-60,Male,Less than high school degree,100000-149999,172341
+Pacific Division,45-60,Male,Less than high school degree,150000+,170547
+Pacific Division,45-60,Male,Less than high school degree,25000-49999,128717
+Pacific Division,45-60,Male,Less than high school degree,50000-99999,267054
+Pacific Division,45-60,Male,Some college or Associate degree,0-24999,68425
+Pacific Division,45-60,Male,Some college or Associate degree,100000-149999,283280
+Pacific Division,45-60,Male,Some college or Associate degree,150000+,532500
+Pacific Division,45-60,Male,Some college or Associate degree,25000-49999,93921
+Pacific Division,45-60,Male,Some college or Associate degree,50000-99999,273329
+Pacific Division,61+,Female,Bachelor degree,0-24999,103064
+Pacific Division,61+,Female,Bachelor degree,100000-149999,229910
+Pacific Division,61+,Female,Bachelor degree,150000+,416044
+Pacific Division,61+,Female,Bachelor degree,25000-49999,129743
+Pacific Division,61+,Female,Bachelor degree,50000-99999,289036
+Pacific Division,61+,Female,Graduate degree,0-24999,54660
+Pacific Division,61+,Female,Graduate degree,100000-149999,152373
+Pacific Division,61+,Female,Graduate degree,150000+,331284
+Pacific Division,61+,Female,Graduate degree,25000-49999,72568
+Pacific Division,61+,Female,Graduate degree,50000-99999,178676
+Pacific Division,61+,Female,High school degree,0-24999,225378
+Pacific Division,61+,Female,High school degree,100000-149999,212017
+Pacific Division,61+,Female,High school degree,150000+,252028
+Pacific Division,61+,Female,High school degree,25000-49999,248480
+Pacific Division,61+,Female,High school degree,50000-99999,388395
+Pacific Division,61+,Female,Less than high school degree,0-24999,214125
+Pacific Division,61+,Female,Less than high school degree,100000-149999,144532
+Pacific Division,61+,Female,Less than high school degree,150000+,188062
+Pacific Division,61+,Female,Less than high school degree,25000-49999,167410
+Pacific Division,61+,Female,Less than high school degree,50000-99999,253027
+Pacific Division,61+,Female,Some college or Associate degree,0-24999,258390
+Pacific Division,61+,Female,Some college or Associate degree,100000-149999,323285
+Pacific Division,61+,Female,Some college or Associate degree,150000+,411477
+Pacific Division,61+,Female,Some college or Associate degree,25000-49999,335934
+Pacific Division,61+,Female,Some college or Associate degree,50000-99999,552856
+Pacific Division,61+,Male,Bachelor degree,0-24999,79793
+Pacific Division,61+,Male,Bachelor degree,100000-149999,217262
+Pacific Division,61+,Male,Bachelor degree,150000+,427679
+Pacific Division,61+,Male,Bachelor degree,25000-49999,112921
+Pacific Division,61+,Male,Bachelor degree,50000-99999,252282
+Pacific Division,61+,Male,Graduate degree,0-24999,44061
+Pacific Division,61+,Male,Graduate degree,100000-149999,164842
+Pacific Division,61+,Male,Graduate degree,150000+,447245
+Pacific Division,61+,Male,Graduate degree,25000-49999,61672
+Pacific Division,61+,Male,Graduate degree,50000-99999,156472
+Pacific Division,61+,Male,High school degree,0-24999,139850
+Pacific Division,61+,Male,High school degree,100000-149999,185275
+Pacific Division,61+,Male,High school degree,150000+,221109
+Pacific Division,61+,Male,High school degree,25000-49999,180904
+Pacific Division,61+,Male,High school degree,50000-99999,318853
+Pacific Division,61+,Male,Less than high school degree,0-24999,138849
+Pacific Division,61+,Male,Less than high school degree,100000-149999,124975
+Pacific Division,61+,Male,Less than high school degree,150000+,144387
+Pacific Division,61+,Male,Less than high school degree,25000-49999,138808
+Pacific Division,61+,Male,Less than high school degree,50000-99999,212877
+Pacific Division,61+,Male,Some college or Associate degree,0-24999,154931
+Pacific Division,61+,Male,Some college or Associate degree,100000-149999,284480
+Pacific Division,61+,Male,Some college or Associate degree,150000+,349228
+Pacific Division,61+,Male,Some college or Associate degree,25000-49999,217108
+Pacific Division,61+,Male,Some college or Associate degree,50000-99999,441018
+South Atlantic Division,18-29,Female,Bachelor degree,0-24999,64703
+South Atlantic Division,18-29,Female,Bachelor degree,100000-149999,254279
+South Atlantic Division,18-29,Female,Bachelor degree,150000+,304658
+South Atlantic Division,18-29,Female,Bachelor degree,25000-49999,121800
+South Atlantic Division,18-29,Female,Bachelor degree,50000-99999,322934
+South Atlantic Division,18-29,Female,Graduate degree,0-24999,15744
+South Atlantic Division,18-29,Female,Graduate degree,100000-149999,84863
+South Atlantic Division,18-29,Female,Graduate degree,150000+,106136
+South Atlantic Division,18-29,Female,Graduate degree,25000-49999,23786
+South Atlantic Division,18-29,Female,Graduate degree,50000-99999,82508
+South Atlantic Division,18-29,Female,High school degree,0-24999,145480
+South Atlantic Division,18-29,Female,High school degree,100000-149999,258838
+South Atlantic Division,18-29,Female,High school degree,150000+,252682
+South Atlantic Division,18-29,Female,High school degree,25000-49999,222770
+South Atlantic Division,18-29,Female,High school degree,50000-99999,422763
+South Atlantic Division,18-29,Female,Less than high school degree,0-24999,50666
+South Atlantic Division,18-29,Female,Less than high school degree,100000-149999,69713
+South Atlantic Division,18-29,Female,Less than high school degree,150000+,84076
+South Atlantic Division,18-29,Female,Less than high school degree,25000-49999,70942
+South Atlantic Division,18-29,Female,Less than high school degree,50000-99999,125138
+South Atlantic Division,18-29,Female,Some college or Associate degree,0-24999,157575
+South Atlantic Division,18-29,Female,Some college or Associate degree,100000-149999,284523
+South Atlantic Division,18-29,Female,Some college or Associate degree,150000+,304350
+South Atlantic Division,18-29,Female,Some college or Associate degree,25000-49999,237211
+South Atlantic Division,18-29,Female,Some college or Associate degree,50000-99999,475190
+South Atlantic Division,18-29,Male,Bachelor degree,0-24999,49756
+South Atlantic Division,18-29,Male,Bachelor degree,100000-149999,197254
+South Atlantic Division,18-29,Male,Bachelor degree,150000+,272481
+South Atlantic Division,18-29,Male,Bachelor degree,25000-49999,63312
+South Atlantic Division,18-29,Male,Bachelor degree,50000-99999,233244
+South Atlantic Division,18-29,Male,Graduate degree,0-24999,8446
+South Atlantic Division,18-29,Male,Graduate degree,100000-149999,48842
+South Atlantic Division,18-29,Male,Graduate degree,150000+,63013
+South Atlantic Division,18-29,Male,Graduate degree,25000-49999,15117
+South Atlantic Division,18-29,Male,Graduate degree,50000-99999,45482
+South Atlantic Division,18-29,Male,High school degree,0-24999,113597
+South Atlantic Division,18-29,Male,High school degree,100000-149999,370913
+South Atlantic Division,18-29,Male,High school degree,150000+,377168
+South Atlantic Division,18-29,Male,High school degree,25000-49999,238689
+South Atlantic Division,18-29,Male,High school degree,50000-99999,532122
+South Atlantic Division,18-29,Male,Less than high school degree,0-24999,55651
+South Atlantic Division,18-29,Male,Less than high school degree,100000-149999,107011
+South Atlantic Division,18-29,Male,Less than high school degree,150000+,113312
+South Atlantic Division,18-29,Male,Less than high school degree,25000-49999,89073
+South Atlantic Division,18-29,Male,Less than high school degree,50000-99999,177810
+South Atlantic Division,18-29,Male,Some college or Associate degree,0-24999,108016
+South Atlantic Division,18-29,Male,Some college or Associate degree,100000-149999,276892
+South Atlantic Division,18-29,Male,Some college or Associate degree,150000+,342822
+South Atlantic Division,18-29,Male,Some college or Associate degree,25000-49999,184289
+South Atlantic Division,18-29,Male,Some college or Associate degree,50000-99999,402642
+South Atlantic Division,30-44,Female,Bachelor degree,0-24999,56291
+South Atlantic Division,30-44,Female,Bachelor degree,100000-149999,440539
+South Atlantic Division,30-44,Female,Bachelor degree,150000+,737867
+South Atlantic Division,30-44,Female,Bachelor degree,25000-49999,134501
+South Atlantic Division,30-44,Female,Bachelor degree,50000-99999,477746
+South Atlantic Division,30-44,Female,Graduate degree,0-24999,30043
+South Atlantic Division,30-44,Female,Graduate degree,100000-149999,311276
+South Atlantic Division,30-44,Female,Graduate degree,150000+,747907
+South Atlantic Division,30-44,Female,Graduate degree,25000-49999,49488
+South Atlantic Division,30-44,Female,Graduate degree,50000-99999,259678
+South Atlantic Division,30-44,Female,High school degree,0-24999,145707
+South Atlantic Division,30-44,Female,High school degree,100000-149999,242860
+South Atlantic Division,30-44,Female,High school degree,150000+,182223
+South Atlantic Division,30-44,Female,High school degree,25000-49999,270795
+South Atlantic Division,30-44,Female,High school degree,50000-99999,444536
+South Atlantic Division,30-44,Female,Less than high school degree,0-24999,93110
+South Atlantic Division,30-44,Female,Less than high school degree,100000-149999,68753
+South Atlantic Division,30-44,Female,Less than high school degree,150000+,54957
+South Atlantic Division,30-44,Female,Less than high school degree,25000-49999,106871
+South Atlantic Division,30-44,Female,Less than high school degree,50000-99999,151728
+South Atlantic Division,30-44,Female,Some college or Associate degree,0-24999,151385
+South Atlantic Division,30-44,Female,Some college or Associate degree,100000-149999,432952
+South Atlantic Division,30-44,Female,Some college or Associate degree,150000+,349842
+South Atlantic Division,30-44,Female,Some college or Associate degree,25000-49999,314278
+South Atlantic Division,30-44,Female,Some college or Associate degree,50000-99999,642312
+South Atlantic Division,30-44,Male,Bachelor degree,0-24999,39507
+South Atlantic Division,30-44,Male,Bachelor degree,100000-149999,387582
+South Atlantic Division,30-44,Male,Bachelor degree,150000+,682737
+South Atlantic Division,30-44,Male,Bachelor degree,25000-49999,84333
+South Atlantic Division,30-44,Male,Bachelor degree,50000-99999,344876
+South Atlantic Division,30-44,Male,Graduate degree,0-24999,18469
+South Atlantic Division,30-44,Male,Graduate degree,100000-149999,205081
+South Atlantic Division,30-44,Male,Graduate degree,150000+,562622
+South Atlantic Division,30-44,Male,Graduate degree,25000-49999,32297
+South Atlantic Division,30-44,Male,Graduate degree,50000-99999,154487
+South Atlantic Division,30-44,Male,High school degree,0-24999,119248
+South Atlantic Division,30-44,Male,High school degree,100000-149999,355393
+South Atlantic Division,30-44,Male,High school degree,150000+,267521
+South Atlantic Division,30-44,Male,High school degree,25000-49999,267352
+South Atlantic Division,30-44,Male,High school degree,50000-99999,589404
+South Atlantic Division,30-44,Male,Less than high school degree,0-24999,62864
+South Atlantic Division,30-44,Male,Less than high school degree,100000-149999,97700
+South Atlantic Division,30-44,Male,Less than high school degree,150000+,75726
+South Atlantic Division,30-44,Male,Less than high school degree,25000-49999,131699
+South Atlantic Division,30-44,Male,Less than high school degree,50000-99999,200287
+South Atlantic Division,30-44,Male,Some college or Associate degree,0-24999,71993
+South Atlantic Division,30-44,Male,Some college or Associate degree,100000-149999,433248
+South Atlantic Division,30-44,Male,Some college or Associate degree,150000+,396816
+South Atlantic Division,30-44,Male,Some college or Associate degree,25000-49999,177904
+South Atlantic Division,30-44,Male,Some college or Associate degree,50000-99999,548687
+South Atlantic Division,45-60,Female,Bachelor degree,0-24999,52599
+South Atlantic Division,45-60,Female,Bachelor degree,100000-149999,334151
+South Atlantic Division,45-60,Female,Bachelor degree,150000+,763746
+South Atlantic Division,45-60,Female,Bachelor degree,25000-49999,105535
+South Atlantic Division,45-60,Female,Bachelor degree,50000-99999,352392
+South Atlantic Division,45-60,Female,Graduate degree,0-24999,28926
+South Atlantic Division,45-60,Female,Graduate degree,100000-149999,241727
+South Atlantic Division,45-60,Female,Graduate degree,150000+,718221
+South Atlantic Division,45-60,Female,Graduate degree,25000-49999,53770
+South Atlantic Division,45-60,Female,Graduate degree,50000-99999,219966
+South Atlantic Division,45-60,Female,High school degree,0-24999,175851
+South Atlantic Division,45-60,Female,High school degree,100000-149999,319858
+South Atlantic Division,45-60,Female,High school degree,150000+,282623
+South Atlantic Division,45-60,Female,High school degree,25000-49999,262702
+South Atlantic Division,45-60,Female,High school degree,50000-99999,491238
+South Atlantic Division,45-60,Female,Less than high school degree,0-24999,91351
+South Atlantic Division,45-60,Female,Less than high school degree,100000-149999,91315
+South Atlantic Division,45-60,Female,Less than high school degree,150000+,74057
+South Atlantic Division,45-60,Female,Less than high school degree,25000-49999,110288
+South Atlantic Division,45-60,Female,Less than high school degree,50000-99999,176444
+South Atlantic Division,45-60,Female,Some college or Associate degree,0-24999,153578
+South Atlantic Division,45-60,Female,Some college or Associate degree,100000-149999,440332
+South Atlantic Division,45-60,Female,Some college or Associate degree,150000+,530728
+South Atlantic Division,45-60,Female,Some college or Associate degree,25000-49999,268065
+South Atlantic Division,45-60,Female,Some college or Associate degree,50000-99999,581434
+South Atlantic Division,45-60,Male,Bachelor degree,0-24999,34945
+South Atlantic Division,45-60,Male,Bachelor degree,100000-149999,277360
+South Atlantic Division,45-60,Male,Bachelor degree,150000+,725454
+South Atlantic Division,45-60,Male,Bachelor degree,25000-49999,76472
+South Atlantic Division,45-60,Male,Bachelor degree,50000-99999,226919
+South Atlantic Division,45-60,Male,Graduate degree,0-24999,19576
+South Atlantic Division,45-60,Male,Graduate degree,100000-149999,150947
+South Atlantic Division,45-60,Male,Graduate degree,150000+,665060
+South Atlantic Division,45-60,Male,Graduate degree,25000-49999,31427
+South Atlantic Division,45-60,Male,Graduate degree,50000-99999,122737
+South Atlantic Division,45-60,Male,High school degree,0-24999,137331
+South Atlantic Division,45-60,Male,High school degree,100000-149999,380335
+South Atlantic Division,45-60,Male,High school degree,150000+,363919
+South Atlantic Division,45-60,Male,High school degree,25000-49999,242633
+South Atlantic Division,45-60,Male,High school degree,50000-99999,564139
+South Atlantic Division,45-60,Male,Less than high school degree,0-24999,77798
+South Atlantic Division,45-60,Male,Less than high school degree,100000-149999,121105
+South Atlantic Division,45-60,Male,Less than high school degree,150000+,98134
+South Atlantic Division,45-60,Male,Less than high school degree,25000-49999,114935
+South Atlantic Division,45-60,Male,Less than high school degree,50000-99999,220548
+South Atlantic Division,45-60,Male,Some college or Associate degree,0-24999,89651
+South Atlantic Division,45-60,Male,Some college or Associate degree,100000-149999,391605
+South Atlantic Division,45-60,Male,Some college or Associate degree,150000+,519117
+South Atlantic Division,45-60,Male,Some college or Associate degree,25000-49999,157867
+South Atlantic Division,45-60,Male,Some college or Associate degree,50000-99999,445208
+South Atlantic Division,61+,Female,Bachelor degree,0-24999,142124
+South Atlantic Division,61+,Female,Bachelor degree,100000-149999,314119
+South Atlantic Division,61+,Female,Bachelor degree,150000+,464922
+South Atlantic Division,61+,Female,Bachelor degree,25000-49999,232952
+South Atlantic Division,61+,Female,Bachelor degree,50000-99999,470952
+South Atlantic Division,61+,Female,Graduate degree,0-24999,87327
+South Atlantic Division,61+,Female,Graduate degree,100000-149999,244127
+South Atlantic Division,61+,Female,Graduate degree,150000+,408743
+South Atlantic Division,61+,Female,Graduate degree,25000-49999,122737
+South Atlantic Division,61+,Female,Graduate degree,50000-99999,327162
+South Atlantic Division,61+,Female,High school degree,0-24999,547076
+South Atlantic Division,61+,Female,High school degree,100000-149999,344451
+South Atlantic Division,61+,Female,High school degree,150000+,307888
+South Atlantic Division,61+,Female,High school degree,25000-49999,651622
+South Atlantic Division,61+,Female,High school degree,50000-99999,819440
+South Atlantic Division,61+,Female,Less than high school degree,0-24999,281240
+South Atlantic Division,61+,Female,Less than high school degree,100000-149999,93283
+South Atlantic Division,61+,Female,Less than high school degree,150000+,88694
+South Atlantic Division,61+,Female,Less than high school degree,25000-49999,206260
+South Atlantic Division,61+,Female,Less than high school degree,50000-99999,224287
+South Atlantic Division,61+,Female,Some college or Associate degree,0-24999,420580
+South Atlantic Division,61+,Female,Some college or Associate degree,100000-149999,409750
+South Atlantic Division,61+,Female,Some college or Associate degree,150000+,406830
+South Atlantic Division,61+,Female,Some college or Associate degree,25000-49999,541861
+South Atlantic Division,61+,Female,Some college or Associate degree,50000-99999,862132
+South Atlantic Division,61+,Male,Bachelor degree,0-24999,95242
+South Atlantic Division,61+,Male,Bachelor degree,100000-149999,305929
+South Atlantic Division,61+,Male,Bachelor degree,150000+,490185
+South Atlantic Division,61+,Male,Bachelor degree,25000-49999,158925
+South Atlantic Division,61+,Male,Bachelor degree,50000-99999,417564
+South Atlantic Division,61+,Male,Graduate degree,0-24999,63003
+South Atlantic Division,61+,Male,Graduate degree,100000-149999,264002
+South Atlantic Division,61+,Male,Graduate degree,150000+,576106
+South Atlantic Division,61+,Male,Graduate degree,25000-49999,96023
+South Atlantic Division,61+,Male,Graduate degree,50000-99999,272827
+South Atlantic Division,61+,Male,High school degree,0-24999,300052
+South Atlantic Division,61+,Male,High school degree,100000-149999,302987
+South Atlantic Division,61+,Male,High school degree,150000+,234498
+South Atlantic Division,61+,Male,High school degree,25000-49999,446404
+South Atlantic Division,61+,Male,High school degree,50000-99999,699265
+South Atlantic Division,61+,Male,Less than high school degree,0-24999,199083
+South Atlantic Division,61+,Male,Less than high school degree,100000-149999,89349
+South Atlantic Division,61+,Male,Less than high school degree,150000+,73958
+South Atlantic Division,61+,Male,Less than high school degree,25000-49999,192656
+South Atlantic Division,61+,Male,Less than high school degree,50000-99999,212040
+South Atlantic Division,61+,Male,Some college or Associate degree,0-24999,206102
+South Atlantic Division,61+,Male,Some college or Associate degree,100000-149999,364842
+South Atlantic Division,61+,Male,Some college or Associate degree,150000+,340926
+South Atlantic Division,61+,Male,Some college or Associate degree,25000-49999,330142
+South Atlantic Division,61+,Male,Some college or Associate degree,50000-99999,674331
+West North Central Division,18-29,Female,Bachelor degree,0-24999,25773
+West North Central Division,18-29,Female,Bachelor degree,100000-149999,96209
+West North Central Division,18-29,Female,Bachelor degree,150000+,76997
+West North Central Division,18-29,Female,Bachelor degree,25000-49999,41671
+West North Central Division,18-29,Female,Bachelor degree,50000-99999,121765
+West North Central Division,18-29,Female,Graduate degree,0-24999,5264
+West North Central Division,18-29,Female,Graduate degree,100000-149999,26132
+West North Central Division,18-29,Female,Graduate degree,150000+,27101
+West North Central Division,18-29,Female,Graduate degree,25000-49999,9435
+West North Central Division,18-29,Female,Graduate degree,50000-99999,20284
+West North Central Division,18-29,Female,High school degree,0-24999,57440
+West North Central Division,18-29,Female,High school degree,100000-149999,75260
+West North Central Division,18-29,Female,High school degree,150000+,72581
+West North Central Division,18-29,Female,High school degree,25000-49999,88545
+West North Central Division,18-29,Female,High school degree,50000-99999,145370
+West North Central Division,18-29,Female,Less than high school degree,0-24999,15072
+West North Central Division,18-29,Female,Less than high school degree,100000-149999,26845
+West North Central Division,18-29,Female,Less than high school degree,150000+,22098
+West North Central Division,18-29,Female,Less than high school degree,25000-49999,26393
+West North Central Division,18-29,Female,Less than high school degree,50000-99999,30399
+West North Central Division,18-29,Female,Some college or Associate degree,0-24999,62045
+West North Central Division,18-29,Female,Some college or Associate degree,100000-149999,106216
+West North Central Division,18-29,Female,Some college or Associate degree,150000+,80187
+West North Central Division,18-29,Female,Some college or Associate degree,25000-49999,101835
+West North Central Division,18-29,Female,Some college or Associate degree,50000-99999,177584
+West North Central Division,18-29,Male,Bachelor degree,0-24999,14763
+West North Central Division,18-29,Male,Bachelor degree,100000-149999,73580
+West North Central Division,18-29,Male,Bachelor degree,150000+,72835
+West North Central Division,18-29,Male,Bachelor degree,25000-49999,34369
+West North Central Division,18-29,Male,Bachelor degree,50000-99999,99960
+West North Central Division,18-29,Male,Graduate degree,0-24999,7376
+West North Central Division,18-29,Male,Graduate degree,100000-149999,10803
+West North Central Division,18-29,Male,Graduate degree,150000+,12852
+West North Central Division,18-29,Male,Graduate degree,25000-49999,6086
+West North Central Division,18-29,Male,Graduate degree,50000-99999,16393
+West North Central Division,18-29,Male,High school degree,0-24999,46296
+West North Central Division,18-29,Male,High school degree,100000-149999,125931
+West North Central Division,18-29,Male,High school degree,150000+,116949
+West North Central Division,18-29,Male,High school degree,25000-49999,99041
+West North Central Division,18-29,Male,High school degree,50000-99999,185188
+West North Central Division,18-29,Male,Less than high school degree,0-24999,20289
+West North Central Division,18-29,Male,Less than high school degree,100000-149999,34583
+West North Central Division,18-29,Male,Less than high school degree,150000+,36414
+West North Central Division,18-29,Male,Less than high school degree,25000-49999,23584
+West North Central Division,18-29,Male,Less than high school degree,50000-99999,57446
+West North Central Division,18-29,Male,Some college or Associate degree,0-24999,45122
+West North Central Division,18-29,Male,Some college or Associate degree,100000-149999,111357
+West North Central Division,18-29,Male,Some college or Associate degree,150000+,103670
+West North Central Division,18-29,Male,Some college or Associate degree,25000-49999,81732
+West North Central Division,18-29,Male,Some college or Associate degree,50000-99999,176254
+West North Central Division,30-44,Female,Bachelor degree,0-24999,10233
+West North Central Division,30-44,Female,Bachelor degree,100000-149999,169345
+West North Central Division,30-44,Female,Bachelor degree,150000+,230837
+West North Central Division,30-44,Female,Bachelor degree,25000-49999,36380
+West North Central Division,30-44,Female,Bachelor degree,50000-99999,139119
+West North Central Division,30-44,Female,Graduate degree,0-24999,6159
+West North Central Division,30-44,Female,Graduate degree,100000-149999,101199
+West North Central Division,30-44,Female,Graduate degree,150000+,198711
+West North Central Division,30-44,Female,Graduate degree,25000-49999,12434
+West North Central Division,30-44,Female,Graduate degree,50000-99999,70315
+West North Central Division,30-44,Female,High school degree,0-24999,35361
+West North Central Division,30-44,Female,High school degree,100000-149999,70906
+West North Central Division,30-44,Female,High school degree,150000+,42595
+West North Central Division,30-44,Female,High school degree,25000-49999,69109
+West North Central Division,30-44,Female,High school degree,50000-99999,132837
+West North Central Division,30-44,Female,Less than high school degree,0-24999,24980
+West North Central Division,30-44,Female,Less than high school degree,100000-149999,20685
+West North Central Division,30-44,Female,Less than high school degree,150000+,15219
+West North Central Division,30-44,Female,Less than high school degree,25000-49999,27473
+West North Central Division,30-44,Female,Less than high school degree,50000-99999,39404
+West North Central Division,30-44,Female,Some college or Associate degree,0-24999,46514
+West North Central Division,30-44,Female,Some college or Associate degree,100000-149999,177312
+West North Central Division,30-44,Female,Some college or Associate degree,150000+,123522
+West North Central Division,30-44,Female,Some college or Associate degree,25000-49999,85909
+West North Central Division,30-44,Female,Some college or Associate degree,50000-99999,232566
+West North Central Division,30-44,Male,Bachelor degree,0-24999,11815
+West North Central Division,30-44,Male,Bachelor degree,100000-149999,153345
+West North Central Division,30-44,Male,Bachelor degree,150000+,215582
+West North Central Division,30-44,Male,Bachelor degree,25000-49999,27341
+West North Central Division,30-44,Male,Bachelor degree,50000-99999,113209
+West North Central Division,30-44,Male,Graduate degree,0-24999,3476
+West North Central Division,30-44,Male,Graduate degree,100000-149999,59228
+West North Central Division,30-44,Male,Graduate degree,150000+,142869
+West North Central Division,30-44,Male,Graduate degree,25000-49999,12459
+West North Central Division,30-44,Male,Graduate degree,50000-99999,47449
+West North Central Division,30-44,Male,High school degree,0-24999,36297
+West North Central Division,30-44,Male,High school degree,100000-149999,125106
+West North Central Division,30-44,Male,High school degree,150000+,73075
+West North Central Division,30-44,Male,High school degree,25000-49999,86137
+West North Central Division,30-44,Male,High school degree,50000-99999,195665
+West North Central Division,30-44,Male,Less than high school degree,0-24999,13710
+West North Central Division,30-44,Male,Less than high school degree,100000-149999,30409
+West North Central Division,30-44,Male,Less than high school degree,150000+,19071
+West North Central Division,30-44,Male,Less than high school degree,25000-49999,30878
+West North Central Division,30-44,Male,Less than high school degree,50000-99999,59855
+West North Central Division,30-44,Male,Some college or Associate degree,0-24999,27729
+West North Central Division,30-44,Male,Some college or Associate degree,100000-149999,192840
+West North Central Division,30-44,Male,Some college or Associate degree,150000+,138136
+West North Central Division,30-44,Male,Some college or Associate degree,25000-49999,67004
+West North Central Division,30-44,Male,Some college or Associate degree,50000-99999,236417
+West North Central Division,45-60,Female,Bachelor degree,0-24999,15848
+West North Central Division,45-60,Female,Bachelor degree,100000-149999,108477
+West North Central Division,45-60,Female,Bachelor degree,150000+,225598
+West North Central Division,45-60,Female,Bachelor degree,25000-49999,28444
+West North Central Division,45-60,Female,Bachelor degree,50000-99999,106981
+West North Central Division,45-60,Female,Graduate degree,0-24999,6427
+West North Central Division,45-60,Female,Graduate degree,100000-149999,71876
+West North Central Division,45-60,Female,Graduate degree,150000+,179873
+West North Central Division,45-60,Female,Graduate degree,25000-49999,11753
+West North Central Division,45-60,Female,Graduate degree,50000-99999,51155
+West North Central Division,45-60,Female,High school degree,0-24999,50338
+West North Central Division,45-60,Female,High school degree,100000-149999,86437
+West North Central Division,45-60,Female,High school degree,150000+,71780
+West North Central Division,45-60,Female,High school degree,25000-49999,72463
+West North Central Division,45-60,Female,High school degree,50000-99999,123489
+West North Central Division,45-60,Female,Less than high school degree,0-24999,21473
+West North Central Division,45-60,Female,Less than high school degree,100000-149999,23885
+West North Central Division,45-60,Female,Less than high school degree,150000+,18042
+West North Central Division,45-60,Female,Less than high school degree,25000-49999,26212
+West North Central Division,45-60,Female,Less than high school degree,50000-99999,43693
+West North Central Division,45-60,Female,Some college or Associate degree,0-24999,48555
+West North Central Division,45-60,Female,Some college or Associate degree,100000-149999,159376
+West North Central Division,45-60,Female,Some college or Associate degree,150000+,164616
+West North Central Division,45-60,Female,Some college or Associate degree,25000-49999,73573
+West North Central Division,45-60,Female,Some college or Associate degree,50000-99999,186484
+West North Central Division,45-60,Male,Bachelor degree,0-24999,9026
+West North Central Division,45-60,Male,Bachelor degree,100000-149999,91261
+West North Central Division,45-60,Male,Bachelor degree,150000+,231731
+West North Central Division,45-60,Male,Bachelor degree,25000-49999,15725
+West North Central Division,45-60,Male,Bachelor degree,50000-99999,75116
+West North Central Division,45-60,Male,Graduate degree,0-24999,4231
+West North Central Division,45-60,Male,Graduate degree,100000-149999,48349
+West North Central Division,45-60,Male,Graduate degree,150000+,148527
+West North Central Division,45-60,Male,Graduate degree,25000-49999,8003
+West North Central Division,45-60,Male,Graduate degree,50000-99999,32012
+West North Central Division,45-60,Male,High school degree,0-24999,47013
+West North Central Division,45-60,Male,High school degree,100000-149999,122450
+West North Central Division,45-60,Male,High school degree,150000+,108492
+West North Central Division,45-60,Male,High school degree,25000-49999,71595
+West North Central Division,45-60,Male,High school degree,50000-99999,170895
+West North Central Division,45-60,Male,Less than high school degree,0-24999,23122
+West North Central Division,45-60,Male,Less than high school degree,100000-149999,31753
+West North Central Division,45-60,Male,Less than high school degree,150000+,21162
+West North Central Division,45-60,Male,Less than high school degree,25000-49999,27147
+West North Central Division,45-60,Male,Less than high school degree,50000-99999,47646
+West North Central Division,45-60,Male,Some college or Associate degree,0-24999,31286
+West North Central Division,45-60,Male,Some college or Associate degree,100000-149999,158846
+West North Central Division,45-60,Male,Some college or Associate degree,150000+,188154
+West North Central Division,45-60,Male,Some college or Associate degree,25000-49999,53521
+West North Central Division,45-60,Male,Some college or Associate degree,50000-99999,169221
+West North Central Division,61+,Female,Bachelor degree,0-24999,41071
+West North Central Division,61+,Female,Bachelor degree,100000-149999,93958
+West North Central Division,61+,Female,Bachelor degree,150000+,106173
+West North Central Division,61+,Female,Bachelor degree,25000-49999,73552
+West North Central Division,61+,Female,Bachelor degree,50000-99999,153699
+West North Central Division,61+,Female,Graduate degree,0-24999,20038
+West North Central Division,61+,Female,Graduate degree,100000-149999,64053
+West North Central Division,61+,Female,Graduate degree,150000+,74748
+West North Central Division,61+,Female,Graduate degree,25000-49999,38658
+West North Central Division,61+,Female,Graduate degree,50000-99999,88789
+West North Central Division,61+,Female,High school degree,0-24999,179159
+West North Central Division,61+,Female,High school degree,100000-149999,107830
+West North Central Division,61+,Female,High school degree,150000+,82772
+West North Central Division,61+,Female,High school degree,25000-49999,234939
+West North Central Division,61+,Female,High school degree,50000-99999,283644
+West North Central Division,61+,Female,Less than high school degree,0-24999,63063
+West North Central Division,61+,Female,Less than high school degree,100000-149999,18697
+West North Central Division,61+,Female,Less than high school degree,150000+,16804
+West North Central Division,61+,Female,Less than high school degree,25000-49999,46152
+West North Central Division,61+,Female,Less than high school degree,50000-99999,45422
+West North Central Division,61+,Female,Some college or Associate degree,0-24999,135674
+West North Central Division,61+,Female,Some college or Associate degree,100000-149999,134872
+West North Central Division,61+,Female,Some college or Associate degree,150000+,103164
+West North Central Division,61+,Female,Some college or Associate degree,25000-49999,190665
+West North Central Division,61+,Female,Some college or Associate degree,50000-99999,306566
+West North Central Division,61+,Male,Bachelor degree,0-24999,28843
+West North Central Division,61+,Male,Bachelor degree,100000-149999,93718
+West North Central Division,61+,Male,Bachelor degree,150000+,114827
+West North Central Division,61+,Male,Bachelor degree,25000-49999,49986
+West North Central Division,61+,Male,Bachelor degree,50000-99999,141830
+West North Central Division,61+,Male,Graduate degree,0-24999,13519
+West North Central Division,61+,Male,Graduate degree,100000-149999,64580
+West North Central Division,61+,Male,Graduate degree,150000+,110118
+West North Central Division,61+,Male,Graduate degree,25000-49999,27140
+West North Central Division,61+,Male,Graduate degree,50000-99999,81626
+West North Central Division,61+,Male,High school degree,0-24999,106369
+West North Central Division,61+,Male,High school degree,100000-149999,111626
+West North Central Division,61+,Male,High school degree,150000+,71554
+West North Central Division,61+,Male,High school degree,25000-49999,176734
+West North Central Division,61+,Male,High school degree,50000-99999,282316
+West North Central Division,61+,Male,Less than high school degree,0-24999,37666
+West North Central Division,61+,Male,Less than high school degree,100000-149999,20999
+West North Central Division,61+,Male,Less than high school degree,150000+,11380
+West North Central Division,61+,Male,Less than high school degree,25000-49999,37868
+West North Central Division,61+,Male,Less than high school degree,50000-99999,55926
+West North Central Division,61+,Male,Some college or Associate degree,0-24999,66348
+West North Central Division,61+,Male,Some college or Associate degree,100000-149999,133100
+West North Central Division,61+,Male,Some college or Associate degree,150000+,97982
+West North Central Division,61+,Male,Some college or Associate degree,25000-49999,126567
+West North Central Division,61+,Male,Some college or Associate degree,50000-99999,256725
+West South Central Division,18-29,Female,Bachelor degree,0-24999,49408
+West South Central Division,18-29,Female,Bachelor degree,100000-149999,140193
+West South Central Division,18-29,Female,Bachelor degree,150000+,171222
+West South Central Division,18-29,Female,Bachelor degree,25000-49999,76608
+West South Central Division,18-29,Female,Bachelor degree,50000-99999,195298
+West South Central Division,18-29,Female,Graduate degree,0-24999,13481
+West South Central Division,18-29,Female,Graduate degree,100000-149999,39077
+West South Central Division,18-29,Female,Graduate degree,150000+,51161
+West South Central Division,18-29,Female,Graduate degree,25000-49999,17375
+West South Central Division,18-29,Female,Graduate degree,50000-99999,45501
+West South Central Division,18-29,Female,High school degree,0-24999,122476
+West South Central Division,18-29,Female,High school degree,100000-149999,168832
+West South Central Division,18-29,Female,High school degree,150000+,155873
+West South Central Division,18-29,Female,High school degree,25000-49999,194573
+West South Central Division,18-29,Female,High school degree,50000-99999,337362
+West South Central Division,18-29,Female,Less than high school degree,0-24999,60836
+West South Central Division,18-29,Female,Less than high school degree,100000-149999,45078
+West South Central Division,18-29,Female,Less than high school degree,150000+,48948
+West South Central Division,18-29,Female,Less than high school degree,25000-49999,74934
+West South Central Division,18-29,Female,Less than high school degree,50000-99999,81992
+West South Central Division,18-29,Female,Some college or Associate degree,0-24999,123451
+West South Central Division,18-29,Female,Some college or Associate degree,100000-149999,198132
+West South Central Division,18-29,Female,Some college or Associate degree,150000+,174838
+West South Central Division,18-29,Female,Some college or Associate degree,25000-49999,199887
+West South Central Division,18-29,Female,Some college or Associate degree,50000-99999,348790
+West South Central Division,18-29,Male,Bachelor degree,0-24999,31395
+West South Central Division,18-29,Male,Bachelor degree,100000-149999,110399
+West South Central Division,18-29,Male,Bachelor degree,150000+,151056
+West South Central Division,18-29,Male,Bachelor degree,25000-49999,49129
+West South Central Division,18-29,Male,Bachelor degree,50000-99999,144858
+West South Central Division,18-29,Male,Graduate degree,0-24999,6196
+West South Central Division,18-29,Male,Graduate degree,100000-149999,24852
+West South Central Division,18-29,Male,Graduate degree,150000+,38426
+West South Central Division,18-29,Male,Graduate degree,25000-49999,11683
+West South Central Division,18-29,Male,Graduate degree,50000-99999,27641
+West South Central Division,18-29,Male,High school degree,0-24999,101394
+West South Central Division,18-29,Male,High school degree,100000-149999,237543
+West South Central Division,18-29,Male,High school degree,150000+,224002
+West South Central Division,18-29,Male,High school degree,25000-49999,210746
+West South Central Division,18-29,Male,High school degree,50000-99999,433994
+West South Central Division,18-29,Male,Less than high school degree,0-24999,53911
+West South Central Division,18-29,Male,Less than high school degree,100000-149999,64978
+West South Central Division,18-29,Male,Less than high school degree,150000+,59997
+West South Central Division,18-29,Male,Less than high school degree,25000-49999,81053
+West South Central Division,18-29,Male,Less than high school degree,50000-99999,136222
+West South Central Division,18-29,Male,Some college or Associate degree,0-24999,94242
+West South Central Division,18-29,Male,Some college or Associate degree,100000-149999,188152
+West South Central Division,18-29,Male,Some college or Associate degree,150000+,204153
+West South Central Division,18-29,Male,Some college or Associate degree,25000-49999,156010
+West South Central Division,18-29,Male,Some college or Associate degree,50000-99999,324080
+West South Central Division,30-44,Female,Bachelor degree,0-24999,32968
+West South Central Division,30-44,Female,Bachelor degree,100000-149999,269870
+West South Central Division,30-44,Female,Bachelor degree,150000+,444622
+West South Central Division,30-44,Female,Bachelor degree,25000-49999,81595
+West South Central Division,30-44,Female,Bachelor degree,50000-99999,305167
+West South Central Division,30-44,Female,Graduate degree,0-24999,15753
+West South Central Division,30-44,Female,Graduate degree,100000-149999,156917
+West South Central Division,30-44,Female,Graduate degree,150000+,365522
+West South Central Division,30-44,Female,Graduate degree,25000-49999,30499
+West South Central Division,30-44,Female,Graduate degree,50000-99999,137243
+West South Central Division,30-44,Female,High school degree,0-24999,123152
+West South Central Division,30-44,Female,High school degree,100000-149999,172741
+West South Central Division,30-44,Female,High school degree,150000+,121002
+West South Central Division,30-44,Female,High school degree,25000-49999,191982
+West South Central Division,30-44,Female,High school degree,50000-99999,330708
+West South Central Division,30-44,Female,Less than high school degree,0-24999,81676
+West South Central Division,30-44,Female,Less than high school degree,100000-149999,49334
+West South Central Division,30-44,Female,Less than high school degree,150000+,31634
+West South Central Division,30-44,Female,Less than high school degree,25000-49999,106928
+West South Central Division,30-44,Female,Less than high school degree,50000-99999,132383
+West South Central Division,30-44,Female,Some college or Associate degree,0-24999,118925
+West South Central Division,30-44,Female,Some college or Associate degree,100000-149999,282076
+West South Central Division,30-44,Female,Some college or Associate degree,150000+,245135
+West South Central Division,30-44,Female,Some college or Associate degree,25000-49999,209661
+West South Central Division,30-44,Female,Some college or Associate degree,50000-99999,415305
+West South Central Division,30-44,Male,Bachelor degree,0-24999,24460
+West South Central Division,30-44,Male,Bachelor degree,100000-149999,226520
+West South Central Division,30-44,Male,Bachelor degree,150000+,407777
+West South Central Division,30-44,Male,Bachelor degree,25000-49999,56127
+West South Central Division,30-44,Male,Bachelor degree,50000-99999,213942
+West South Central Division,30-44,Male,Graduate degree,0-24999,10873
+West South Central Division,30-44,Male,Graduate degree,100000-149999,122432
+West South Central Division,30-44,Male,Graduate degree,150000+,297468
+West South Central Division,30-44,Male,Graduate degree,25000-49999,21848
+West South Central Division,30-44,Male,Graduate degree,50000-99999,93689
+West South Central Division,30-44,Male,High school degree,0-24999,89723
+West South Central Division,30-44,Male,High school degree,100000-149999,248376
+West South Central Division,30-44,Male,High school degree,150000+,181466
+West South Central Division,30-44,Male,High school degree,25000-49999,196986
+West South Central Division,30-44,Male,High school degree,50000-99999,421900
+West South Central Division,30-44,Male,Less than high school degree,0-24999,62589
+West South Central Division,30-44,Male,Less than high school degree,100000-149999,70293
+West South Central Division,30-44,Male,Less than high school degree,150000+,42301
+West South Central Division,30-44,Male,Less than high school degree,25000-49999,120863
+West South Central Division,30-44,Male,Less than high school degree,50000-99999,160090
+West South Central Division,30-44,Male,Some college or Associate degree,0-24999,57396
+West South Central Division,30-44,Male,Some college or Associate degree,100000-149999,286452
+West South Central Division,30-44,Male,Some college or Associate degree,150000+,267046
+West South Central Division,30-44,Male,Some college or Associate degree,25000-49999,131786
+West South Central Division,30-44,Male,Some college or Associate degree,50000-99999,385710
+West South Central Division,45-60,Female,Bachelor degree,0-24999,34547
+West South Central Division,45-60,Female,Bachelor degree,100000-149999,174719
+West South Central Division,45-60,Female,Bachelor degree,150000+,403135
+West South Central Division,45-60,Female,Bachelor degree,25000-49999,60951
+West South Central Division,45-60,Female,Bachelor degree,50000-99999,193491
+West South Central Division,45-60,Female,Graduate degree,0-24999,14319
+West South Central Division,45-60,Female,Graduate degree,100000-149999,109021
+West South Central Division,45-60,Female,Graduate degree,150000+,302594
+West South Central Division,45-60,Female,Graduate degree,25000-49999,20968
+West South Central Division,45-60,Female,Graduate degree,50000-99999,97070
+West South Central Division,45-60,Female,High school degree,0-24999,119831
+West South Central Division,45-60,Female,High school degree,100000-149999,184924
+West South Central Division,45-60,Female,High school degree,150000+,165977
+West South Central Division,45-60,Female,High school degree,25000-49999,166324
+West South Central Division,45-60,Female,High school degree,50000-99999,300692
+West South Central Division,45-60,Female,Less than high school degree,0-24999,100202
+West South Central Division,45-60,Female,Less than high school degree,100000-149999,85389
+West South Central Division,45-60,Female,Less than high school degree,150000+,65738
+West South Central Division,45-60,Female,Less than high school degree,25000-49999,114281
+West South Central Division,45-60,Female,Less than high school degree,50000-99999,164769
+West South Central Division,45-60,Female,Some college or Associate degree,0-24999,92085
+West South Central Division,45-60,Female,Some college or Associate degree,100000-149999,247795
+West South Central Division,45-60,Female,Some college or Associate degree,150000+,282934
+West South Central Division,45-60,Female,Some college or Associate degree,25000-49999,159621
+West South Central Division,45-60,Female,Some college or Associate degree,50000-99999,321478
+West South Central Division,45-60,Male,Bachelor degree,0-24999,23655
+West South Central Division,45-60,Male,Bachelor degree,100000-149999,158545
+West South Central Division,45-60,Male,Bachelor degree,150000+,392653
+West South Central Division,45-60,Male,Bachelor degree,25000-49999,39272
+West South Central Division,45-60,Male,Bachelor degree,50000-99999,127462
+West South Central Division,45-60,Male,Graduate degree,0-24999,12004
+West South Central Division,45-60,Male,Graduate degree,100000-149999,78148
+West South Central Division,45-60,Male,Graduate degree,150000+,311167
+West South Central Division,45-60,Male,Graduate degree,25000-49999,17470
+West South Central Division,45-60,Male,Graduate degree,50000-99999,60929
+West South Central Division,45-60,Male,High school degree,0-24999,101261
+West South Central Division,45-60,Male,High school degree,100000-149999,217843
+West South Central Division,45-60,Male,High school degree,150000+,186342
+West South Central Division,45-60,Male,High school degree,25000-49999,139553
+West South Central Division,45-60,Male,High school degree,50000-99999,338229
+West South Central Division,45-60,Male,Less than high school degree,0-24999,80513
+West South Central Division,45-60,Male,Less than high school degree,100000-149999,96668
+West South Central Division,45-60,Male,Less than high school degree,150000+,70787
+West South Central Division,45-60,Male,Less than high school degree,25000-49999,112308
+West South Central Division,45-60,Male,Less than high school degree,50000-99999,204380
+West South Central Division,45-60,Male,Some college or Associate degree,0-24999,61035
+West South Central Division,45-60,Male,Some college or Associate degree,100000-149999,242671
+West South Central Division,45-60,Male,Some college or Associate degree,150000+,312007
+West South Central Division,45-60,Male,Some college or Associate degree,25000-49999,104297
+West South Central Division,45-60,Male,Some college or Associate degree,50000-99999,253997
+West South Central Division,61+,Female,Bachelor degree,0-24999,59573
+West South Central Division,61+,Female,Bachelor degree,100000-149999,141987
+West South Central Division,61+,Female,Bachelor degree,150000+,203069
+West South Central Division,61+,Female,Bachelor degree,25000-49999,108646
+West South Central Division,61+,Female,Bachelor degree,50000-99999,235569
+West South Central Division,61+,Female,Graduate degree,0-24999,33753
+West South Central Division,61+,Female,Graduate degree,100000-149999,93469
+West South Central Division,61+,Female,Graduate degree,150000+,140383
+West South Central Division,61+,Female,Graduate degree,25000-49999,56895
+West South Central Division,61+,Female,Graduate degree,50000-99999,133509
+West South Central Division,61+,Female,High school degree,0-24999,284299
+West South Central Division,61+,Female,High school degree,100000-149999,158737
+West South Central Division,61+,Female,High school degree,150000+,151764
+West South Central Division,61+,Female,High school degree,25000-49999,323143
+West South Central Division,61+,Female,High school degree,50000-99999,388566
+West South Central Division,61+,Female,Less than high school degree,0-24999,217747
+West South Central Division,61+,Female,Less than high school degree,100000-149999,69459
+West South Central Division,61+,Female,Less than high school degree,150000+,59315
+West South Central Division,61+,Female,Less than high school degree,25000-49999,150313
+West South Central Division,61+,Female,Less than high school degree,50000-99999,164726
+West South Central Division,61+,Female,Some college or Associate degree,0-24999,217576
+West South Central Division,61+,Female,Some college or Associate degree,100000-149999,196224
+West South Central Division,61+,Female,Some college or Associate degree,150000+,192300
+West South Central Division,61+,Female,Some college or Associate degree,25000-49999,271658
+West South Central Division,61+,Female,Some college or Associate degree,50000-99999,397707
+West South Central Division,61+,Male,Bachelor degree,0-24999,46406
+West South Central Division,61+,Male,Bachelor degree,100000-149999,143665
+West South Central Division,61+,Male,Bachelor degree,150000+,227677
+West South Central Division,61+,Male,Bachelor degree,25000-49999,81170
+West South Central Division,61+,Male,Bachelor degree,50000-99999,197659
+West South Central Division,61+,Male,Graduate degree,0-24999,25060
+West South Central Division,61+,Male,Graduate degree,100000-149999,104892
+West South Central Division,61+,Male,Graduate degree,150000+,206669
+West South Central Division,61+,Male,Graduate degree,25000-49999,42512
+West South Central Division,61+,Male,Graduate degree,50000-99999,119176
+West South Central Division,61+,Male,High school degree,0-24999,163584
+West South Central Division,61+,Male,High school degree,100000-149999,144778
+West South Central Division,61+,Male,High school degree,150000+,122906
+West South Central Division,61+,Male,High school degree,25000-49999,218972
+West South Central Division,61+,Male,High school degree,50000-99999,331107
+West South Central Division,61+,Male,Less than high school degree,0-24999,153183
+West South Central Division,61+,Male,Less than high school degree,100000-149999,58367
+West South Central Division,61+,Male,Less than high school degree,150000+,51476
+West South Central Division,61+,Male,Less than high school degree,25000-49999,145746
+West South Central Division,61+,Male,Less than high school degree,50000-99999,143896
+West South Central Division,61+,Male,Some college or Associate degree,0-24999,119688
+West South Central Division,61+,Male,Some college or Associate degree,100000-149999,188179
+West South Central Division,61+,Male,Some college or Associate degree,150000+,167044
+West South Central Division,61+,Male,Some college or Associate degree,25000-49999,177498
+West South Central Division,61+,Male,Some college or Associate degree,50000-99999,341793

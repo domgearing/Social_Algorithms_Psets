@@ -1,0 +1,106 @@
+question,question_label,answer,human_raw,human_poststrat,human_post_minus_raw,gpt_raw,gpt_poststrat,gpt_post_minus_raw,diff_raw_gpt_minus_human,diff_poststrat_gpt_minus_human
+q1,comma_preference,A lot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,"It's important for a person to be honest, kind and loyal.",0.4303030303030303,0.4338416119901166,0.0035385816870863174,0.1409090909090909,0.2268338866617807,0.0859247957526898,-0.2893939393939394,-0.20700772532833592
+q1,comma_preference,"It's important for a person to be honest, kind, and loyal.",0.5696969696969697,0.5661583880098834,-0.0035385816870863174,0.8590909090909091,0.7731661133382192,-0.08592479575268996,0.2893939393939394,0.20700772532833578
+q1,comma_preference,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Not at all,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Not much,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Some,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q1,comma_preference,Yes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,A lot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,No,0.3975757575757576,0.4178645417033486,0.020288784127590997,0.1727272727272727,0.2656928603057559,0.0929655875784832,-0.22484848484848488,-0.15217168139759268
+q2,heard_of_comma,Not at all,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Not much,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Some,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q2,heard_of_comma,Yes,0.6024242424242424,0.5821354582966515,-0.020288784127590942,0.8272727272727273,0.7343071396942441,-0.09296558757848317,0.22484848484848485,0.15217168139759263
+q3,care_oxford_comma,A lot,0.2690909090909091,0.284585499038531,0.015494589947621873,0.2818181818181818,0.1769998287425331,-0.10481835307564871,0.012727272727272698,-0.10758567029599789
+q3,care_oxford_comma,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Not at all,0.1042424242424242,0.1019720534583135,-0.0022703707841107007,0.0,0.0,0.0,-0.1042424242424242,-0.1019720534583135
+q3,care_oxford_comma,Not much,0.2496969696969697,0.2671689772750656,0.017472007578095916,0.2590909090909091,0.4253467709238111,0.16625586183290203,0.009393939393939399,0.1581777936487455
+q3,care_oxford_comma,Some,0.3769696969696969,0.34627347022809,-0.03069622674160688,0.4590909090909091,0.3976534003336556,-0.06143750875725351,0.0821212121212122,0.051379930105565574
+q3,care_oxford_comma,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q3,care_oxford_comma,Yes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,A lot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Not at all,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Not much,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Some,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,"Some experts say it's important to drink milk, but the data are inconclusive.",0.1987878787878788,0.1554139614211362,-0.04337391736674259,0.6636363636363637,0.4846496406494952,-0.17898672298686852,0.4648484848484849,0.32923567922835895
+q4,sentence_preference,"Some experts say it's important to drink milk, but the data is inconclusive.",0.8012121212121213,0.8445860385788637,0.043373917366742454,0.3363636363636363,0.5153503593505049,0.17898672298686857,-0.46484848484848496,-0.32923567922835884
+q4,sentence_preference,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q4,sentence_preference,Yes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,A lot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,No,0.4921212121212121,0.5408331892700332,0.048711977148821084,0.4363636363636363,0.6004565726885227,0.16409293632488642,-0.05575757575757584,0.059623383418489495
+q5,data_singular_plural_consideration,Not at all,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Not much,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Some,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q5,data_singular_plural_consideration,Yes,0.5078787878787879,0.4591668107299668,-0.04871197714882114,0.5636363636363636,0.3995434273114774,-0.1640929363248862,0.05575757575757567,-0.059623383418489384
+q6,care_data_debate,A lot,0.1115151515151515,0.0968448395453436,-0.014670311969807892,0.0227272727272727,0.0149923759656886,-0.007734896761584099,-0.0887878787878788,-0.081852463579655
+q6,care_data_debate,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Neither important nor unimportant (neutral),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Not at all,0.1806060606060606,0.1927969454881213,0.012190884882060687,0.0136363636363636,0.0160074860408996,0.0023711224045360017,-0.166969696969697,-0.1767894594472217
+q6,care_data_debate,Not much,0.3890909090909091,0.4027782905025229,0.013687381411613797,0.4363636363636363,0.6018464798005934,0.16548284343695707,0.04727272727272719,0.19906818929807046
+q6,care_data_debate,Some,0.3187878787878788,0.3075799244640121,-0.011207954323866676,0.5272727272727272,0.3671536581928174,-0.1601190690799098,0.20848484848484844,0.05957373372880531
+q6,care_data_debate,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Somewhat important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Somewhat unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Very important,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Very unimportant,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q6,care_data_debate,Yes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,A lot,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,"It's important for a person to be honest, kind and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,"It's important for a person to be honest, kind, and loyal.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,Neither important nor unimportant (neutral),0.0254545454545454,0.041424602521826,0.015970057067280597,0.0,0.0,0.0,-0.0254545454545454,-0.041424602521826
+q7,grammar_importance,No,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,Not at all,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,Not much,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,Some,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,"Some experts say it's important to drink milk, but the data are inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,"Some experts say it's important to drink milk, but the data is inconclusive.",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+q7,grammar_importance,Somewhat important,0.3224242424242424,0.316221258588751,-0.0062029838354913935,0.5318181818181819,0.6929994492324354,0.16118126741425354,0.20939393939393947,0.3767781906436844
+q7,grammar_importance,Somewhat unimportant,0.006060606060606,0.005473251022965,-0.000587355037641,0.0045454545454545,0.0056916541125061,0.0011461995670515998,-0.0015151515151514998,0.00021840308954110006
+q7,grammar_importance,Very important,0.6436363636363637,0.6347021359558812,-0.008934227680482465,0.4636363636363636,0.3013088966550573,-0.16232746698130635,-0.18000000000000005,-0.33339323930082393
+q7,grammar_importance,Very unimportant,0.0024242424242424,0.0021787519105762,-0.00024549051366619997,0.0,0.0,0.0,-0.0024242424242424,-0.0021787519105762
+q7,grammar_importance,Yes,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
