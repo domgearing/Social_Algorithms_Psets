@@ -10,7 +10,7 @@ from sklearn.preprocessing import OneHotEncoder, LabelEncoder
 
 # In[2]:
 # Load the CSV file into a DataFrame
-df = pd.read_csv('comma-survey.csv')
+df = pd.read_csv('Problem_Set_1/comma-survey.csv')
 # Rename columns for easier access
 column_mapping = {
         'RespondentID': 'id',
@@ -54,33 +54,53 @@ X_encoded = encoder.fit_transform(X)
 
 
 # %%
-label_encoder = LabelEncoder()
-y1_survey = label_encoder.fit_transform(df_clean['comma_preference'])
-y2_survey = label_encoder.fit_transform(df_clean['heard_of_comma'])
-y3_survey = label_encoder.fit_transform(df_clean['care_oxford_comma'])
-y4_survey = label_encoder.fit_transform(df_clean['sentence_preference'])
-y5_survey = label_encoder.fit_transform(df_clean['data_singular_plural_consideration'])
-y6_survey = label_encoder.fit_transform(df_clean['care_data_debate'])
-y7_survey = label_encoder.fit_transform(df_clean['grammar_importance'])
+
+def encode(series, name):
+    le = LabelEncoder()
+    y = le.fit_transform(series)
+    label_encoders[name] = le
+    return y
+
+label_encoders = {}
+
+encode(df_clean['comma_preference'], 'y1_survey')
+encode(df_clean['heard_of_comma'], 'y2_survey')
+encode(df_clean['care_oxford_comma'], 'y3_survey')
+encode(df_clean['sentence_preference'], 'y4_survey')
+encode(df_clean['data_singular_plural_consideration'], 'y5_survey')
+encode(df_clean['care_data_debate'], 'y6_survey')
+encode(df_clean['grammar_importance'], 'y7_survey')
 
 # %%
 # fitting the multinomial logistic regression models
+
+from sklearn.base import clone
+
+models_survey = {}
+
+#pap question names to corresponding 1D encoded arrays
+ys_survey = {
+    "q1": label_encoders['y1_survey'].transform(df_clean['comma_preference']),
+    "q2": label_encoders['y2_survey'].transform(df_clean['heard_of_comma']),
+    "q3": label_encoders['y3_survey'].transform(df_clean['care_oxford_comma']),
+    "q4": label_encoders['y4_survey'].transform(df_clean['sentence_preference']),
+    "q5": label_encoders['y5_survey'].transform(df_clean['data_singular_plural_consideration']),
+    "q6": label_encoders['y6_survey'].transform(df_clean['care_data_debate']),
+    "q7": label_encoders['y7_survey'].transform(df_clean['grammar_importance'])
+}
+
 lr = LogisticRegression(solver='lbfgs', max_iter=1000)
-model1_survey = lr.fit(X_encoded, y1_survey)
-model2_survey = lr.fit(X_encoded, y2_survey)
-model3_survey = lr.fit(X_encoded, y3_survey)
-model4_survey = lr.fit(X_encoded, y4_survey)
-model5_survey = lr.fit(X_encoded, y5_survey)
-model6_survey = lr.fit(X_encoded, y6_survey)
-model7_survey = lr.fit(X_encoded, y7_survey)
-
-
+#have to clone so you get a new lr object each time
+#  instead of overwriting
+for name, y in ys_survey.items():
+    m = clone(lr)             
+    models_survey[name] = m.fit(X_encoded, y)
 
 
 
 # In[5]:
-# Now repeat for gpt_comma_survey.csv
-df_gpt = pd.read_csv('gpt_comma_survey.csv')
+#repeat for gpt_comma_survey.csv
+df_gpt = pd.read_csv('Problem_Set_1/gpt_comma_survey.csv')
 df_gpt.rename(columns=column_mapping, inplace=True)
 
 
@@ -149,21 +169,144 @@ for col in question_cols:
 X_gpt = df_gpt_clean[demo_cols]
 # One-hot encode the demographic variables
 X_gpt_encoded = encoder.transform(X_gpt)
-y1_gpt = label_encoder.fit_transform(df_gpt_clean['comma_preference'])
-y2_gpt = label_encoder.fit_transform(df_gpt_clean['heard_of_comma'])
-y3_gpt = label_encoder.fit_transform(df_gpt_clean['care_oxford_comma'])
-y4_gpt = label_encoder.fit_transform(df_gpt_clean['sentence_preference'])
-y5_gpt = label_encoder.fit_transform(df_gpt_clean['data_singular_plural_consideration'])
-y6_gpt = label_encoder.fit_transform(df_gpt_clean['care_data_debate'])
-y7_gpt = label_encoder.fit_transform(df_gpt_clean['grammar_importance'])
-# %%
-# fitting the multinomial logistic regression models
-model1_gpt = lr.fit(X_gpt_encoded, y1_gpt)
-model2_gpt = lr.fit(X_gpt_encoded, y2_gpt)
-model3_gpt = lr.fit(X_gpt_encoded, y3_gpt)
-model4_gpt = lr.fit(X_gpt_encoded, y4_gpt)
-model5_gpt = lr.fit(X_gpt_encoded, y5_gpt)
-model6_gpt = lr.fit(X_gpt_encoded, y6_gpt)
-model7_gpt = lr.fit(X_gpt_encoded, y7_gpt)
+
+def encode_gpt(series, name):
+    le = LabelEncoder()
+    y = le.fit_transform(series)
+    label_encoders_gpt[name] = le
+    return y
+
+label_encoders_gpt = {}
+
+encode_gpt(df_gpt_clean['comma_preference'], 'y1_gpt_survey')
+encode_gpt(df_gpt_clean['heard_of_comma'], 'y2_gpt_survey')
+encode_gpt(df_gpt_clean['care_oxford_comma'], 'y3_gpt_survey')
+encode_gpt(df_gpt_clean['sentence_preference'], 'y4_gpt_survey')
+encode_gpt(df_gpt_clean['data_singular_plural_consideration'], 'y5_gpt_survey')
+encode_gpt(df_gpt_clean['care_data_debate'], 'y6_gpt_survey')
+encode_gpt(df_gpt_clean['grammar_importance'], 'y7_gpt_survey')
 
 # %%
+# fitting the multinomial logistic regression models
+models_gpt_survey = {}
+
+#map question names to corresponding 1D encoded arrays for GPT survey
+ys_gpt_survey = {
+    "q1": label_encoders_gpt['y1_gpt_survey'].transform(df_gpt_clean['comma_preference']),
+    "q2": label_encoders_gpt['y2_gpt_survey'].transform(df_gpt_clean['heard_of_comma']),
+    "q3": label_encoders_gpt['y3_gpt_survey'].transform(df_gpt_clean['care_oxford_comma']),
+    "q4": label_encoders_gpt['y4_gpt_survey'].transform(df_gpt_clean['sentence_preference']),
+    "q5": label_encoders_gpt['y5_gpt_survey'].transform(df_gpt_clean['data_singular_plural_consideration']),
+    "q6": label_encoders_gpt['y6_gpt_survey'].transform(df_gpt_clean['care_data_debate']),
+    "q7": label_encoders_gpt['y7_gpt_survey'].transform(df_gpt_clean['grammar_importance'])
+}
+
+lr = LogisticRegression(solver='lbfgs', max_iter=1000)
+#have to clone so you get a new lr object each time
+#  instead of overwriting
+for name, y in ys_gpt_survey.items():
+    m = clone(lr)             
+    models_gpt_survey[name] = m.fit(X_gpt_encoded, y)
+
+# %%
+
+
+import pandas as pd
+import numpy as np
+
+#load census post-strat cell table
+CENSUS_CELLS_PATH = "Problem_Set_1/post_strat_long_full_cartesian_FIXED_v2.csv"  # <- adjust if needed
+cells = pd.read_csv(CENSUS_CELLS_PATH)
+
+# EXPECTED columns in cells:
+#   census_region, age_group, sex, education_5, income_bin, pop_count
+# map them into the survey's demo_cols:
+#   'Gender', 'Age', 'Household Income', 'Education', 'Location (Census Region)'
+
+# Map census columns -> survey demographic column names
+cells_for_encoder = pd.DataFrame({
+    "Gender": cells["sex"].astype(str).str.strip(),
+    "Age": cells["age_group"].astype(str).str.strip(),
+    "Household Income": cells["income_bin"].astype(str).str.strip(),
+    "Education": cells["education_5"].astype(str).str.strip(),
+    "Location (Census Region)": cells["census_region"].astype(str).str.strip(),
+})
+
+#transform census cells using SAME encoder fit on survey data
+X_cells_encoded = encoder.transform(cells_for_encoder)
+
+#weights
+w = cells["pop_count"].to_numpy(dtype=float)
+w_sum = w.sum()
+if w_sum == 0:
+    raise ValueError("pop_count sums to 0 in census cells table. Something is wrong upstream.")
+
+#helper: post-stratified class probabilities for one model
+def poststrat_probs(model, X_cells_encoded, weights):
+    """
+    Returns:
+      weighted_probs: array (n_classes,)
+    """
+    probs = model.predict_proba(X_cells_encoded)         # (n_cells, n_classes)
+    wp = (probs * weights[:, None]).sum(axis=0) / weights.sum()
+    return wp
+
+def poststrat_all_questions(models_dict, label_encoders_dict, prefix):
+    """
+    models_dict: {"q1": fitted_model, ..., "q7": fitted_model}
+    label_encoders_dict: dict that has LabelEncoder objects stored under keys like 'y1_survey' or 'y1_gpt_survey'
+    prefix: either "survey" or "gpt", used to pick right encoders
+    """
+    out = {}
+
+    for qi in range(1, 8):
+        qname = f"q{qi}"
+        model = models_dict[qname]
+
+        #get corresponding LabelEncoder 
+        #for survey: y1_survey...y7_survey
+        #for gpt:    y1_gpt_survey...y7_gpt_survey
+        le_key = f"y{qi}_{prefix}"
+        le = label_encoders_dict[le_key]
+
+        #weighted probs for each encoded class index
+        wp = poststrat_probs(model, X_cells_encoded, w)
+
+        #convert class indices (0..K-1) back to original response labels
+        #for sklearn LR, class order is model.classes_ (numeric indices because trained on encoded y)
+        class_idx = model.classes_
+        class_labels = le.inverse_transform(class_idx)
+
+        out[qname] = pd.Series(wp, index=class_labels)
+
+    #align into single dataframe: rows=bins, cols=questions
+    return pd.DataFrame(out).fillna(0.0)
+
+#Post-stratify HUMAN survey models
+post_survey = poststrat_all_questions(
+    models_dict=models_survey,
+    label_encoders_dict=label_encoders,
+    prefix="survey"
+)
+
+#save + inspect
+post_survey.to_csv("poststrat_survey_bin_probs.csv", index=True)
+print("\nPost-stratified HUMAN survey bin probabilities saved to poststrat_survey_bin_probs.csv")
+print(post_survey)
+
+#Post-stratify GPT survey models
+post_gpt = poststrat_all_questions(
+    models_dict=models_gpt_survey,
+    label_encoders_dict=label_encoders_gpt,
+    prefix="gpt_survey"
+)
+
+post_gpt.to_csv("poststrat_gpt_bin_probs.csv", index=True)
+print("\nPost-stratified GPT survey bin probabilities saved to poststrat_gpt_bin_probs.csv")
+print(post_gpt)
+
+#compare GPT vs Human post-strat distributions per bin
+# (difference = GPT - Human)
+diff = post_gpt.reindex(post_survey.index).fillna(0) - post_survey.fillna(0)
+diff.to_csv("poststrat_gpt_minus_human_bin_probs.csv", index=True)
+print("\nDifference (GPT - Human) saved to poststrat_gpt_minus_human_bin_probs.csv")
