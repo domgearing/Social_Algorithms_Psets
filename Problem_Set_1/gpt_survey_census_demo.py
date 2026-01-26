@@ -200,12 +200,20 @@ with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
         while len(gpt_answers) < 7:
             gpt_answers.append("")
 
+
         # 2. Get the demographics from the ORIGINAL selected row
-        # This ensures the demographics match the person we simulated
         original_demo = selected_data[i]
-        
+        # Map census columns to expected survey columns
+        demo_map = {
+            'Gender': original_demo.get('sex', ''),
+            'Age': original_demo.get('age_group', ''),
+            'Household Income': original_demo.get('income_bin', ''),
+            'Education': original_demo.get('education_5', ''),
+            'Location (Census Region)': original_demo.get('census_region', '')
+        }
+
         # 3. Construct the row
-        # We generate a fake ID, add the 7 GPT answers, then the 5 demographics
+        # We generate a fake ID, add the 7 GPT answers, then the 5 mapped demographics
         row_to_write = [
             str(1000000000 + i), # Fake RespondentID
             gpt_answers[0],
@@ -215,13 +223,13 @@ with open(output_filename, 'w', newline='', encoding='utf-8') as csvfile:
             gpt_answers[4],
             gpt_answers[5],
             gpt_answers[6],
-            original_demo.get('Gender', ''),
-            original_demo.get('Age', ''),
-            original_demo.get('Household Income', ''),
-            original_demo.get('Education', ''),
-            original_demo.get('Location (Census Region)', '')
+            demo_map['Gender'],
+            demo_map['Age'],
+            demo_map['Household Income'],
+            demo_map['Education'],
+            demo_map['Location (Census Region)']
         ]
-        
+
         writer.writerow(row_to_write)
 
 print("Done.")
