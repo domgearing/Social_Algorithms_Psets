@@ -38,10 +38,10 @@ sys.stderr = Tee(sys.stderr, log_file)
 print(f"Script started at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
 #load CSV file into DF
-df = pd.read_csv('Problem_Set_1/comma-survey.csv')
+#df = pd.read_csv('Problem_Set_1/comma-survey.csv')
 
 #To run on GPT survey results:
-#df = pd.read_csv('Problem_Set_1/gpt_comma_survey.csv')
+df = pd.read_csv('gpt_census_demo_comma_survey.csv')
 
 # In[3]:
 
@@ -117,7 +117,7 @@ def plot_distributions(df, columns, title_prefix="Distribution of", filename_pre
         plt.tight_layout()
         # Save with filename
         sanitized_col_name = col.replace(" ", "_").replace("(", "").replace(")", "").lower()
-        filename = f'viz/{filename_prefix}{idx+1:02d}_{sanitized_col_name}.png'
+        filename = f'viz_gpt_census_demo/{filename_prefix}{idx+1:02d}_{sanitized_col_name}.png'
         plt.savefig(filename, dpi=300, bbox_inches='tight')
         plt.close()
 
