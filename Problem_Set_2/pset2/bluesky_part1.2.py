@@ -1,5 +1,7 @@
 import json
+import pandas as pd
 from collections import Counter
+from bluesky_helpers import save_json
 
 # 1. Load the follow data collected in Part I.1
 with open("senator_follows_map.json", "r") as f:
@@ -52,5 +54,44 @@ def generate_recommendations():
     print(f"Top recommendations for {first_senator}:")
     print(json.dumps(recommendations_output[first_senator], indent=2))
 
+    return recommendations_output
+
+def create_report_table(recs):
+    """Generates the formatted table required for the assignment."""
+    rows = []
+    for senator, data in recs.items():
+        row = {"Senator": senator}
+        if isinstance(data, list):
+            for i in range(3):
+                val = f"{data[i]['handle']} ({data[i]['score']})" if i < len(data) else "N/A"
+                row[f"Rec {i+1}"] = val
+        else:
+            row["Rec 1"], row["Rec 2"], row["Rec 3"] = data, "N/A", "N/A"
+        rows.append(row)
+    
+    df = pd.DataFrame(rows)
+    print("\n### PART I.2 RECOMMENDATION TABLE")
+    print(df.to_markdown(index=False))
+    return df
+
+def identify_extremes():
+    """Identifies senators at the edges or center of the network."""
+    num_others = len(all_senator_handles) - 1
+    
+    # In-degree: how many other senators follow them
+    in_degree = {s: sum(1 for f in senator_follows.values() if s in f) for s in all_senator_handles}
+    # Out-degree: how many other senators they follow
+    out_degree = {s: len(set(f).intersection(all_senator_handles)) for s, f in senator_follows.items()}
+
+    print("\n### NETWORK ANALYSIS")
+    print(f"Followed by ALL: {[s for s, count in in_degree.items() if count == num_others] or 'None'}")
+    print(f"Followed by ZERO: {[s for s, count in in_degree.items() if count == 0] or 'None'}")
+    print(f"Follows ALL: {[s for s, count in out_degree.items() if count == num_others] or 'None'}")
+    print(f"Follows ZERO: {[s for s, count in out_degree.items() if count == 0] or 'None'}")
+
 if __name__ == "__main__":
-    generate_recommendations()
+    # Run the full pipeline
+    results = generate_recommendations()
+    save_json(results, "senator_recommendations.json")
+    create_report_table(results)
+    identify_extremes()
