@@ -1,0 +1,551 @@
+{
+    "baldwin.senate.gov": [
+        {
+            "handle": "fetterman.senate.gov",
+            "score": 30
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "reed.senate.gov",
+            "score": 13
+        }
+    ],
+    "murray.senate.gov": [
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "reed.senate.gov",
+            "score": 13
+        }
+    ],
+    "cantwell.senate.gov": [
+        {
+            "handle": "schumer.senate.gov",
+            "score": 31
+        },
+        {
+            "handle": "chrismurphyct.bsky.social",
+            "score": 25
+        },
+        {
+            "handle": "shaheen.senate.gov",
+            "score": 22
+        }
+    ],
+    "markwarner.bsky.social": [
+        {
+            "handle": "heinrich.senate.gov",
+            "score": 32
+        },
+        {
+            "handle": "murray.senate.gov",
+            "score": 32
+        },
+        {
+            "handle": "booker.senate.gov",
+            "score": 31
+        }
+    ],
+    "kaine.senate.gov": [
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "jeff-merkley.bsky.social",
+            "score": 5
+        },
+        {
+            "handle": "hassan.senate.gov",
+            "score": 4
+        }
+    ],
+    "sanders.senate.gov": "This senator follows no other senators.",
+    "whitehouse.senate.gov": [
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "jeff-merkley.bsky.social",
+            "score": 5
+        },
+        {
+            "handle": "hassan.senate.gov",
+            "score": 4
+        }
+    ],
+    "reed.senate.gov": [
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        }
+    ],
+    "fetterman.senate.gov": "This senator follows no other senators.",
+    "wyden.senate.gov": [
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "coons.senate.gov",
+            "score": 11
+        }
+    ],
+    "jeff-merkley.bsky.social": [
+        {
+            "handle": "smith.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "whitehouse.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "wyden.senate.gov",
+            "score": 33
+        }
+    ],
+    "schumer.senate.gov": [
+        {
+            "handle": "jeff-merkley.bsky.social",
+            "score": 5
+        },
+        {
+            "handle": "ossoff.bsky.social",
+            "score": 1
+        },
+        {
+            "handle": "kirstengillibrand.bsky.social",
+            "score": 0
+        }
+    ],
+    "kirstengillibrand.bsky.social": [
+        {
+            "handle": "smith.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "whitehouse.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "wyden.senate.gov",
+            "score": 33
+        }
+    ],
+    "lujan.senate.gov": [
+        {
+            "handle": "padilla.senate.gov",
+            "score": 32
+        },
+        {
+            "handle": "schatz.bsky.social",
+            "score": 32
+        },
+        {
+            "handle": "booker.senate.gov",
+            "score": 31
+        }
+    ],
+    "heinrich.senate.gov": [
+        {
+            "handle": "markwarner.bsky.social",
+            "score": 31
+        },
+        {
+            "handle": "sanders.senate.gov",
+            "score": 24
+        },
+        {
+            "handle": "bluntrochester.senate.gov",
+            "score": 21
+        }
+    ],
+    "kim.senate.gov": [
+        {
+            "handle": "shaheen.senate.gov",
+            "score": 22
+        },
+        {
+            "handle": "warnock.senate.gov",
+            "score": 18
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        }
+    ],
+    "booker.senate.gov": [
+        {
+            "handle": "warnock.senate.gov",
+            "score": 18
+        },
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        }
+    ],
+    "shaheen.senate.gov": [
+        {
+            "handle": "alsobrooks.senate.gov",
+            "score": 7
+        },
+        {
+            "handle": "jeff-merkley.bsky.social",
+            "score": 5
+        },
+        {
+            "handle": "captmarkkelly.bsky.social",
+            "score": 2
+        }
+    ],
+    "hassan.senate.gov": [
+        {
+            "handle": "smith.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "whitehouse.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "wyden.senate.gov",
+            "score": 33
+        }
+    ],
+    "smith.senate.gov": [
+        {
+            "handle": "bluntrochester.senate.gov",
+            "score": 21
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "alsobrooks.senate.gov",
+            "score": 7
+        }
+    ],
+    "klobuchar.senate.gov": [
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "hassan.senate.gov",
+            "score": 4
+        }
+    ],
+    "slotkin.senate.gov": [
+        {
+            "handle": "duckworth.senate.gov",
+            "score": 21
+        },
+        {
+            "handle": "klobuchar.senate.gov",
+            "score": 21
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        }
+    ],
+    "peters.senate.gov": [
+        {
+            "handle": "sanders.senate.gov",
+            "score": 24
+        },
+        {
+            "handle": "bluntrochester.senate.gov",
+            "score": 21
+        },
+        {
+            "handle": "duckworth.senate.gov",
+            "score": 21
+        }
+    ],
+    "warren.senate.gov": [
+        {
+            "handle": "sanders.senate.gov",
+            "score": 24
+        },
+        {
+            "handle": "bluntrochester.senate.gov",
+            "score": 21
+        },
+        {
+            "handle": "duckworth.senate.gov",
+            "score": 21
+        }
+    ],
+    "markey.senate.gov": [
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        }
+    ],
+    "vanhollen.senate.gov": [
+        {
+            "handle": "warren.senate.gov",
+            "score": 31
+        },
+        {
+            "handle": "kaine.senate.gov",
+            "score": 30
+        },
+        {
+            "handle": "blumenthal.senate.gov",
+            "score": 28
+        }
+    ],
+    "alsobrooks.senate.gov": [
+        {
+            "handle": "warnock.senate.gov",
+            "score": 18
+        },
+        {
+            "handle": "durbin.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "reed.senate.gov",
+            "score": 13
+        }
+    ],
+    "durbin.senate.gov": [
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "reed.senate.gov",
+            "score": 13
+        }
+    ],
+    "duckworth.senate.gov": [
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "reed.senate.gov",
+            "score": 13
+        },
+        {
+            "handle": "coons.senate.gov",
+            "score": 11
+        }
+    ],
+    "schatz.bsky.social": [
+        {
+            "handle": "vanhollen.senate.gov",
+            "score": 31
+        },
+        {
+            "handle": "warren.senate.gov",
+            "score": 31
+        },
+        {
+            "handle": "kaine.senate.gov",
+            "score": 30
+        }
+    ],
+    "hirono.senate.gov": [
+        {
+            "handle": "baldwin.senate.gov",
+            "score": 26
+        },
+        {
+            "handle": "gallego.senate.gov",
+            "score": 25
+        },
+        {
+            "handle": "schiff.senate.gov",
+            "score": 25
+        }
+    ],
+    "warnock.senate.gov": [
+        {
+            "handle": "coons.senate.gov",
+            "score": 11
+        },
+        {
+            "handle": "jeff-merkley.bsky.social",
+            "score": 5
+        },
+        {
+            "handle": "captmarkkelly.bsky.social",
+            "score": 2
+        }
+    ],
+    "ossoff.bsky.social": [
+        {
+            "handle": "smith.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "whitehouse.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "wyden.senate.gov",
+            "score": 33
+        }
+    ],
+    "coons.senate.gov": [
+        {
+            "handle": "fetterman.senate.gov",
+            "score": 30
+        },
+        {
+            "handle": "baldwin.senate.gov",
+            "score": 26
+        },
+        {
+            "handle": "chrismurphyct.bsky.social",
+            "score": 25
+        }
+    ],
+    "bluntrochester.senate.gov": [
+        {
+            "handle": "fetterman.senate.gov",
+            "score": 30
+        },
+        {
+            "handle": "baldwin.senate.gov",
+            "score": 26
+        },
+        {
+            "handle": "chrismurphyct.bsky.social",
+            "score": 25
+        }
+    ],
+    "chrismurphyct.bsky.social": "This senator follows no other senators.",
+    "blumenthal.senate.gov": [
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "hirono.senate.gov",
+            "score": 13
+        }
+    ],
+    "bennet.senate.gov": [
+        {
+            "handle": "sanders.senate.gov",
+            "score": 24
+        },
+        {
+            "handle": "kim.senate.gov",
+            "score": 17
+        },
+        {
+            "handle": "slotkin.senate.gov",
+            "score": 17
+        }
+    ],
+    "schiff.senate.gov": [
+        {
+            "handle": "markey.senate.gov",
+            "score": 32
+        },
+        {
+            "handle": "schatz.bsky.social",
+            "score": 32
+        },
+        {
+            "handle": "bennet.senate.gov",
+            "score": 30
+        }
+    ],
+    "padilla.senate.gov": [
+        {
+            "handle": "blumenthal.senate.gov",
+            "score": 28
+        },
+        {
+            "handle": "baldwin.senate.gov",
+            "score": 26
+        },
+        {
+            "handle": "chrismurphyct.bsky.social",
+            "score": 25
+        }
+    ],
+    "captmarkkelly.bsky.social": [
+        {
+            "handle": "smith.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "whitehouse.senate.gov",
+            "score": 33
+        },
+        {
+            "handle": "wyden.senate.gov",
+            "score": 33
+        }
+    ],
+    "gallego.senate.gov": [
+        {
+            "handle": "baldwin.senate.gov",
+            "score": 26
+        },
+        {
+            "handle": "schiff.senate.gov",
+            "score": 25
+        },
+        {
+            "handle": "lujan.senate.gov",
+            "score": 24
+        }
+    ]
+}
