@@ -3,6 +3,14 @@
 
 # In[4]:
 
+'''
+CREATED BY: 
+
+DOM GEARING
+TOBY SALMON
+TAD CARNEY
+
+'''
 
 import pandas as pd
 import matplotlib.pyplot as plt

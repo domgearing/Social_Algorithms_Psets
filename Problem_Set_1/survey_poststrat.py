@@ -2,6 +2,16 @@
 # coding: utf-8
 
 # In[1]:
+
+'''
+CREATED BY: 
+
+DOM GEARING
+TOBY SALMON
+TAD CARNEY
+
+'''
+
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
