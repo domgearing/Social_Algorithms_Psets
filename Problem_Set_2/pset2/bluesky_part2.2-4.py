@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 # %% 
 from bluesky_helpers import(
-    load_name_data, infer_gender, load_json, load_senators
+    load_name_data, infer_gender, load_json, load_senators, parse_datetime
 )
 # for reading in json files
 import os 
+
+import matplotlib.pyplot as plt
+import numpy as np
+from scipy.stats import chi2_contingency
+
 
 # %%
 # 1. Load SSA name data
@@ -109,8 +114,7 @@ print(f"H_male   = {H_male:+.3f}")
 
 # %%
 ## visualization of homophily results
-import matplotlib.pyplot as plt
-import numpy as np
+
 
 fig, ax = plt.subplots(figsize=(8, 5))
 
@@ -144,7 +148,7 @@ plt.show()
 
 # %%
 # Statistical Test for homophily significance
-from scipy.stats import chi2_contingency
+
 # Construct contingency table
 #             | Female Repliers | Male Repliers
 # Female Senators |      a      |      b
@@ -163,4 +167,87 @@ if p_value < 0.05:
     print("The homophily is statistically significant.")
 else:
     print("The homophily is not statistically significant.")
+
+
+
+
+# %%
+# II.4 Reply Timing Analysis
+qualifying_posts = []
+high_reply_senators = {}  # track who gets 200+ replies
+
+
+for senator in senators:
+    handle = senator['handle']
+    filename = f"replies_{handle.replace('.', '_')}.json"
+    try:
+        data = load_json(filename)
+    except FileNotFoundError:
+        continue
+    
+    for post in data:
+        rc = post['replyCount']
+        if 50 <= rc <= 200:
+            qualifying_posts.append(post)
+        if rc > 200:
+            if handle not in high_reply_senators:
+                high_reply_senators[handle] = 0
+            high_reply_senators[handle] += 1
+
+print(f"Posts with 50-200 replies: {len(qualifying_posts)}")
+print(f"\nSenators with 200+ reply posts:")
+for handle, count in sorted(high_reply_senators.items(), key=lambda x: -x[1]):
+    print(f"  {handle}: {count} post(s)")
+
+# %%
+# 2. Split replies into early 25% and late 25%, compare
+early_genders = {'F': 0, 'M': 0, 'U': 0}
+late_genders = {'F': 0, 'M': 0, 'U': 0}
+early_lengths = []
+late_lengths = []
+early_likes = []
+late_likes = []
+
+for post in qualifying_posts:
+    replies = post['replies']
+    
+    # Sort by timestamp
+    sorted_replies = sorted(replies, key=lambda r: r.get('createdAt', ''))
+    
+    n = len(sorted_replies)
+    cutoff_25 = n // 4  # first 25%
+    cutoff_75 = n - (n // 4)  # last 25%
+    
+    early = sorted_replies[:cutoff_25]
+    late = sorted_replies[cutoff_75:]
+    
+    for reply in early:
+        g = infer_gender(reply.get('displayName', ''), name_data)
+        early_genders[g] += 1
+        early_lengths.append(len(reply.get('text', '')))
+        early_likes.append(reply.get('likeCount', 0))
+    
+    for reply in late:
+        g = infer_gender(reply.get('displayName', ''), name_data)
+        late_genders[g] += 1
+        late_lengths.append(len(reply.get('text', '')))
+        late_likes.append(reply.get('likeCount', 0))
+
+# %%
+# 3. Report results
+early_classified = early_genders['F'] + early_genders['M']
+late_classified = late_genders['F'] + late_genders['M']
+
+print(f"\n--- Early vs Late Reply Comparison ---")
+print(f"Early replies (first 25%): {early_classified} classified")
+print(f"  Female: {early_genders['F']/early_classified:.3f}")
+print(f"  Male:   {early_genders['M']/early_classified:.3f}")
+
+print(f"Late replies (last 25%):  {late_classified} classified")
+print(f"  Female: {late_genders['F']/late_classified:.3f}")
+print(f"  Male:   {late_genders['M']/late_classified:.3f}")
+
+print(f"\nAvg reply length - Early: {sum(early_lengths)/len(early_lengths):.1f} chars, Late: {sum(late_lengths)/len(late_lengths):.1f} chars")
+print(f"Avg likes - Early: {sum(early_likes)/len(early_likes):.2f}, Late: {sum(late_likes)/len(late_likes):.2f}")
+
 # %%
