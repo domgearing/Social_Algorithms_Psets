@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
-import random
+
 import time
 from bluesky_helpers import(
     load_senators, get_author_feed, get_post_thread, 
-    is_within_hours, save_json, load_name_data, infer_gender
+    is_within_hours, save_json
 )
 
 ## what to do:

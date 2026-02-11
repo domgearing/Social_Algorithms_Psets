@@ -354,15 +354,33 @@ def load_name_data(female_file='female_names.tsv.gz', male_file='male_names.tsv.
     # YOUR CODE HERE
     # =========================================================================
     # 1. Create a data structure to store name -> [female_count, male_count]
+    name_counts = {}
     # 2. Read female_file and add counts (use gzip.open())
+    with gzip.open(female_file, 'rt') as f:
+        next(f)  # Skip header
+        for line in f:
+            name, count, _ = line.strip().split('\t')
+            name = name.lower()
+            if name not in name_counts:
+                name_counts[name] = [0, 0]
+            name_counts[name][0] += int(count)
     # 3. Read male_file and add counts
+    with gzip.open(male_file, 'rt') as f:
+        next(f)  # Skip header
+        for line in f:
+            name, count, _ = line.strip().split('\t')
+            name = name.lower()
+            if name not in name_counts:
+                name_counts[name] = [0, 0]
+            name_counts[name][1] += int(count)
     # 4. Return your data structure
+    return name_counts
     #
     # Example structure you might use:
     #   name_counts = {}  # name -> [female_count, male_count]
     # =========================================================================
 
-    raise NotImplementedError("You need to implement load_name_data()")
+    
 
 
 def infer_gender(display_name, name_data, threshold=0.6):
@@ -405,21 +423,43 @@ def infer_gender(display_name, name_data, threshold=0.6):
     # =========================================================================
     # YOUR CODE HERE
     # =========================================================================
-    # 1. Extract first name from display_name
-    #    - Handle empty strings, titles like "Dr.", "Sen.", etc.
-    #    - Consider: what if it's a username like "gamer_123"?
-    #
-    # 2. Look up the extracted name in name_data
-    #    - Remember to handle case (lowercase?)
-    #    - What if the name isn't found?
-    #
-    # 3. Calculate the proportion female (or male) and compare to threshold
-    #    - female_ratio = female_count / (female_count + male_count)
-    #
-    # 4. Return 'F', 'M', or 'U'
-    # =========================================================================
+    # Handle empty/None input
+    if not display_name or not display_name.strip():
+        return 'U'
 
-    raise NotImplementedError("You need to implement infer_gender()")
+    # Titles/prefixes to skip
+    titles = {'dr', 'mr', 'mrs', 'ms', 'prof', 'sen', 'rep', 'rev', 'jr', 'sr'}
+
+    # Split name and skip titles
+    parts = display_name.strip().split()
+    first_name = None
+    for part in parts:
+        # Remove punctuation (handles "Dr." -> "dr")
+        cleaned = ''.join(c for c in part if c.isalpha()).lower()
+        if cleaned and cleaned not in titles:
+            first_name = cleaned
+            break
+
+    # If we couldn't extract a name, return unknown
+    if not first_name or first_name not in name_data:
+        return 'U'
+
+    female_count, male_count = name_data[first_name]
+    total = female_count + male_count
+
+    if total == 0:
+        return 'U'
+
+    female_ratio = female_count / total
+
+    if female_ratio >= threshold:
+        return 'F'
+    elif (1 - female_ratio) >= threshold:
+        return 'M'
+    else:
+        return 'U'
+
+
 
 
 # ============================================================================
