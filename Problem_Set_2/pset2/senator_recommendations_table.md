@@ -1,0 +1,44 @@
+| Senator                       | Rec 1                                   | Rec 2                          | Rec 3                             |
+|:------------------------------|:----------------------------------------|:-------------------------------|:----------------------------------|
+| baldwin.senate.gov            | fetterman.senate.gov (30)               | durbin.senate.gov (13)         | reed.senate.gov (13)              |
+| murray.senate.gov             | durbin.senate.gov (13)                  | hirono.senate.gov (13)         | reed.senate.gov (13)              |
+| cantwell.senate.gov           | schumer.senate.gov (31)                 | chrismurphyct.bsky.social (25) | shaheen.senate.gov (22)           |
+| markwarner.bsky.social        | heinrich.senate.gov (32)                | murray.senate.gov (32)         | booker.senate.gov (31)            |
+| kaine.senate.gov              | hirono.senate.gov (13)                  | jeff-merkley.bsky.social (5)   | hassan.senate.gov (4)             |
+| sanders.senate.gov            | This senator follows no other senators. | N/A                            | N/A                               |
+| whitehouse.senate.gov         | slotkin.senate.gov (17)                 | jeff-merkley.bsky.social (5)   | hassan.senate.gov (4)             |
+| reed.senate.gov               | kim.senate.gov (17)                     | slotkin.senate.gov (17)        | durbin.senate.gov (13)            |
+| fetterman.senate.gov          | This senator follows no other senators. | N/A                            | N/A                               |
+| wyden.senate.gov              | slotkin.senate.gov (17)                 | hirono.senate.gov (13)         | coons.senate.gov (11)             |
+| jeff-merkley.bsky.social      | smith.senate.gov (33)                   | whitehouse.senate.gov (33)     | wyden.senate.gov (33)             |
+| schumer.senate.gov            | jeff-merkley.bsky.social (5)            | ossoff.bsky.social (1)         | kirstengillibrand.bsky.social (0) |
+| kirstengillibrand.bsky.social | smith.senate.gov (33)                   | whitehouse.senate.gov (33)     | wyden.senate.gov (33)             |
+| lujan.senate.gov              | padilla.senate.gov (32)                 | schatz.bsky.social (32)        | booker.senate.gov (31)            |
+| heinrich.senate.gov           | markwarner.bsky.social (31)             | sanders.senate.gov (24)        | bluntrochester.senate.gov (21)    |
+| kim.senate.gov                | shaheen.senate.gov (22)                 | warnock.senate.gov (18)        | durbin.senate.gov (13)            |
+| booker.senate.gov             | warnock.senate.gov (18)                 | slotkin.senate.gov (17)        | durbin.senate.gov (13)            |
+| shaheen.senate.gov            | alsobrooks.senate.gov (7)               | jeff-merkley.bsky.social (5)   | captmarkkelly.bsky.social (2)     |
+| hassan.senate.gov             | smith.senate.gov (33)                   | whitehouse.senate.gov (33)     | wyden.senate.gov (33)             |
+| smith.senate.gov              | bluntrochester.senate.gov (21)          | durbin.senate.gov (13)         | alsobrooks.senate.gov (7)         |
+| klobuchar.senate.gov          | kim.senate.gov (17)                     | slotkin.senate.gov (17)        | hassan.senate.gov (4)             |
+| slotkin.senate.gov            | duckworth.senate.gov (21)               | klobuchar.senate.gov (21)      | durbin.senate.gov (13)            |
+| peters.senate.gov             | sanders.senate.gov (24)                 | bluntrochester.senate.gov (21) | duckworth.senate.gov (21)         |
+| warren.senate.gov             | sanders.senate.gov (24)                 | bluntrochester.senate.gov (21) | duckworth.senate.gov (21)         |
+| markey.senate.gov             | kim.senate.gov (17)                     | durbin.senate.gov (13)         | hirono.senate.gov (13)            |
+| vanhollen.senate.gov          | warren.senate.gov (31)                  | kaine.senate.gov (30)          | blumenthal.senate.gov (28)        |
+| alsobrooks.senate.gov         | warnock.senate.gov (18)                 | durbin.senate.gov (13)         | reed.senate.gov (13)              |
+| durbin.senate.gov             | kim.senate.gov (17)                     | hirono.senate.gov (13)         | reed.senate.gov (13)              |
+| duckworth.senate.gov          | hirono.senate.gov (13)                  | reed.senate.gov (13)           | coons.senate.gov (11)             |
+| schatz.bsky.social            | vanhollen.senate.gov (31)               | warren.senate.gov (31)         | kaine.senate.gov (30)             |
+| hirono.senate.gov             | baldwin.senate.gov (26)                 | gallego.senate.gov (25)        | schiff.senate.gov (25)            |
+| warnock.senate.gov            | coons.senate.gov (11)                   | jeff-merkley.bsky.social (5)   | captmarkkelly.bsky.social (2)     |
+| ossoff.bsky.social            | smith.senate.gov (33)                   | whitehouse.senate.gov (33)     | wyden.senate.gov (33)             |
+| coons.senate.gov              | fetterman.senate.gov (30)               | baldwin.senate.gov (26)        | chrismurphyct.bsky.social (25)    |
+| bluntrochester.senate.gov     | fetterman.senate.gov (30)               | baldwin.senate.gov (26)        | chrismurphyct.bsky.social (25)    |
+| chrismurphyct.bsky.social     | This senator follows no other senators. | N/A                            | N/A                               |
+| blumenthal.senate.gov         | kim.senate.gov (17)                     | slotkin.senate.gov (17)        | hirono.senate.gov (13)            |
+| bennet.senate.gov             | sanders.senate.gov (24)                 | kim.senate.gov (17)            | slotkin.senate.gov (17)           |
+| schiff.senate.gov             | markey.senate.gov (32)                  | schatz.bsky.social (32)        | bennet.senate.gov (30)            |
+| padilla.senate.gov            | blumenthal.senate.gov (28)              | baldwin.senate.gov (26)        | chrismurphyct.bsky.social (25)    |
+| captmarkkelly.bsky.social     | smith.senate.gov (33)                   | whitehouse.senate.gov (33)     | wyden.senate.gov (33)             |
+| gallego.senate.gov            | baldwin.senate.gov (26)                 | schiff.senate.gov (25)         | lujan.senate.gov (24)             |
