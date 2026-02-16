@@ -5,7 +5,6 @@ from datetime import datetime, timezone, timedelta
 from bluesky_helpers import get_follows, get_author_feed, is_within_hours, save_json
 
 # 1. Load the Senator Data
-# Replace 'senators.csv' with your actual filename
 df = pd.read_csv('/Users/tadcarney/Desktop/s&ds_3350/pset2/senators_bluesky.csv')
 
 def collect_feeds():
