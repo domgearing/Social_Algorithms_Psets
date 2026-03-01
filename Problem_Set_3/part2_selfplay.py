@@ -45,6 +45,10 @@ def generate_answers(player_id, questions, rounds):
                 )
                 answer = normalize_answer(raw)
 
+                # Post-processing to clean up the answer:
+                answer = answer.split("\n")[0]        # take first line only
+                answer = " ".join(answer.split()[:4]) # cap at 4 words
+
                 rows.append({
                     "question_id": q.question_id,
                     "letter": q.letter,
