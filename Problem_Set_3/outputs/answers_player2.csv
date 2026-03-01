@@ -1,0 +1,131 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k,prompt_id
+Q001,A,Animals,0,aardvark,llama3.2:3b,player2,1.0,40,baseline
+Q001,A,Animals,1,aardvark,llama3.2:3b,player2,1.0,40,baseline
+Q002,A,Jobs,0,air traffic controller,llama3.2:3b,player2,1.0,40,baseline
+Q002,A,Jobs,1,accountant,llama3.2:3b,player2,1.0,40,baseline
+Q003,B,Fruits,0,banana,llama3.2:3b,player2,1.0,40,baseline
+Q003,B,Fruits,1,blackberry,llama3.2:3b,player2,1.0,40,baseline
+Q004,B,Things that are red,0,beet,llama3.2:3b,player2,1.0,40,baseline
+Q004,B,Things that are red,1,beet,llama3.2:3b,player2,1.0,40,baseline
+Q005,C,Countries,0,cataloa,llama3.2:3b,player2,1.0,40,baseline
+Q005,C,Countries,1,canada,llama3.2:3b,player2,1.0,40,baseline
+Q006,C,Board games,0,checkers,llama3.2:3b,player2,1.0,40,baseline
+Q006,C,Board games,1,connect four,llama3.2:3b,player2,1.0,40,baseline
+Q007,D,Musical instruments,0,drums,llama3.2:3b,player2,1.0,40,baseline
+Q007,D,Musical instruments,1,drums,llama3.2:3b,player2,1.0,40,baseline
+Q008,D,Things in a bathroom,0,dryer,llama3.2:3b,player2,1.0,40,baseline
+Q008,D,Things in a bathroom,1,drain,llama3.2:3b,player2,1.0,40,baseline
+Q009,E,Sports,0,european cup,llama3.2:3b,player2,1.0,40,baseline
+Q009,E,Sports,1,european football league,llama3.2:3b,player2,1.0,40,baseline
+Q010,E,Movie titles,0,echo,llama3.2:3b,player2,1.0,40,baseline
+Q010,E,Movie titles,1,east is east,llama3.2:3b,player2,1.0,40,baseline
+Q011,F,Fish,0,flathead,llama3.2:3b,player2,1.0,40,baseline
+Q011,F,Fish,1,flatfish,llama3.2:3b,player2,1.0,40,baseline
+Q012,F,Things in a backpack,0,first aid kit,llama3.2:3b,player2,1.0,40,baseline
+Q012,F,Things in a backpack,1,folder,llama3.2:3b,player2,1.0,40,baseline
+Q013,G,U.S. states,0,georgia,llama3.2:3b,player2,1.0,40,baseline
+Q013,G,U.S. states,1,georgia,llama3.2:3b,player2,1.0,40,baseline
+Q014,G,Foods,0,guacamole,llama3.2:3b,player2,1.0,40,baseline
+Q014,G,Foods,1,guacamole,llama3.2:3b,player2,1.0,40,baseline
+Q015,H,Famous scientists,0,henri levenshir,llama3.2:3b,player2,1.0,40,baseline
+Q015,H,Famous scientists,1,hans christian andersen,llama3.2:3b,player2,1.0,40,baseline
+Q016,H,Things at the beach,0,hermit crab,llama3.2:3b,player2,1.0,40,baseline
+Q016,H,Things at the beach,1,hut,llama3.2:3b,player2,1.0,40,baseline
+Q017,I,Cities,0,israel,llama3.2:3b,player2,1.0,40,baseline
+Q017,I,Cities,1,islington,llama3.2:3b,player2,1.0,40,baseline
+Q018,I,Things in a classroom,0,chalkboard,llama3.2:3b,player2,1.0,40,baseline
+Q018,I,Things in a classroom,1,whiteboard,llama3.2:3b,player2,1.0,40,baseline
+Q019,J,Car brands,0,jaguar,llama3.2:3b,player2,1.0,40,baseline
+Q019,J,Car brands,1,jaguar,llama3.2:3b,player2,1.0,40,baseline
+Q020,J,Video game titles,0,journey,llama3.2:3b,player2,1.0,40,baseline
+Q020,J,Video game titles,1,johnny bonnie,llama3.2:3b,player2,1.0,40,baseline
+Q021,K,Superheroes,0,kurt khan,llama3.2:3b,player2,1.0,40,baseline
+Q021,K,Superheroes,1,krypto,llama3.2:3b,player2,1.0,40,baseline
+Q022,K,Things in a grocery store,0,kiwi,llama3.2:3b,player2,1.0,40,baseline
+Q022,K,Things in a grocery store,1,kiwi,llama3.2:3b,player2,1.0,40,baseline
+Q023,L,Dog breeds,0,labrador,llama3.2:3b,player2,1.0,40,baseline
+Q023,L,Dog breeds,1,labrador,llama3.2:3b,player2,1.0,40,baseline
+Q024,L,Books,0,lord of the rings,llama3.2:3b,player2,1.0,40,baseline
+Q024,L,Books,1,lost generation,llama3.2:3b,player2,1.0,40,baseline
+Q025,M,Languages,0,maori,llama3.2:3b,player2,1.0,40,baseline
+Q025,M,Languages,1,malay,llama3.2:3b,player2,1.0,40,baseline
+Q026,M,Clothing items,0,mask,llama3.2:3b,player2,1.0,40,baseline
+Q026,M,Clothing items,1,mink coat,llama3.2:3b,player2,1.0,40,baseline
+Q027,N,Birds,0,night heron,llama3.2:3b,player2,1.0,40,baseline
+Q027,N,Birds,1,nightingale,llama3.2:3b,player2,1.0,40,baseline
+Q028,N,Things in a hospital,0,nurse,llama3.2:3b,player2,1.0,40,baseline
+Q028,N,Things in a hospital,1,nurse,llama3.2:3b,player2,1.0,40,baseline
+Q029,O,Companies,0,ocean electronics,llama3.2:3b,player2,1.0,40,baseline
+Q029,O,Companies,1,oceanographic institute,llama3.2:3b,player2,1.0,40,baseline
+Q030,O,Things in the sky,0,ocean,llama3.2:3b,player2,1.0,40,baseline
+Q030,O,Things in the sky,1,ocean,llama3.2:3b,player2,1.0,40,baseline
+Q031,P,Vegetables,0,peas,llama3.2:3b,player2,1.0,40,baseline
+Q031,P,Vegetables,1,parsnip,llama3.2:3b,player2,1.0,40,baseline
+Q032,P,Historical figures,0,philip,llama3.2:3b,player2,1.0,40,baseline
+Q032,P,Historical figures,1,peter the great,llama3.2:3b,player2,1.0,40,baseline
+Q033,Q,Words in English,0,question,llama3.2:3b,player2,1.0,40,baseline
+Q033,Q,Words in English,1,question,llama3.2:3b,player2,1.0,40,baseline
+Q034,Q,Fictional characters,0,quasimodo,llama3.2:3b,player2,1.0,40,baseline
+Q034,Q,Fictional characters,1,quentin quail,llama3.2:3b,player2,1.0,40,baseline
+Q035,R,Songs,0,rehab,llama3.2:3b,player2,1.0,40,baseline
+Q035,R,Songs,1,romantic,llama3.2:3b,player2,1.0,40,baseline
+Q036,R,Tools,0,ratchet,llama3.2:3b,player2,1.0,40,baseline
+Q036,R,Tools,1,ratchet,llama3.2:3b,player2,1.0,40,baseline
+Q037,S,Animals,0,sheep,llama3.2:3b,player2,1.0,40,baseline
+Q037,S,Animals,1,sheep,llama3.2:3b,player2,1.0,40,baseline
+Q038,S,Things in an office,0,stapler,llama3.2:3b,player2,1.0,40,baseline
+Q038,S,Things in an office,1,"space 
+
+Note: A space is often found in an office, typically as a",llama3.2:3b,player2,1.0,40,baseline
+Q039,T,Countries,0,tunisia,llama3.2:3b,player2,1.0,40,baseline
+Q039,T,Countries,1,turkey,llama3.2:3b,player2,1.0,40,baseline
+Q040,T,TV shows,0,the simpsons,llama3.2:3b,player2,1.0,40,baseline
+Q040,T,TV shows,1,that '70s show,llama3.2:3b,player2,1.0,40,baseline
+Q041,U,U.S. colleges,0,university of utah,llama3.2:3b,player2,1.0,40,baseline
+Q041,U,U.S. colleges,1,ucla,llama3.2:3b,player2,1.0,40,baseline
+Q042,U,Things in a garage,0,u-jack,llama3.2:3b,player2,1.0,40,baseline
+Q042,U,Things in a garage,1,universal jack,llama3.2:3b,player2,1.0,40,baseline
+Q043,V,Jobs,0,veterinarian,llama3.2:3b,player2,1.0,40,baseline
+Q043,V,Jobs,1,veterinarian,llama3.2:3b,player2,1.0,40,baseline
+Q044,V,Things you wear,0,vest,llama3.2:3b,player2,1.0,40,baseline
+Q044,V,Things you wear,1,vest,llama3.2:3b,player2,1.0,40,baseline
+Q045,W,Cities,0,washington,llama3.2:3b,player2,1.0,40,baseline
+Q045,W,Cities,1,warwick,llama3.2:3b,player2,1.0,40,baseline
+Q046,W,Things in a park,0,walkway,llama3.2:3b,player2,1.0,40,baseline
+Q046,W,Things in a park,1,waterfall,llama3.2:3b,player2,1.0,40,baseline
+Q047,X,Brands,0,xerox,llama3.2:3b,player2,1.0,40,baseline
+Q047,X,Brands,1,xerox,llama3.2:3b,player2,1.0,40,baseline
+Q048,X,Words in English,0,excavation,llama3.2:3b,player2,1.0,40,baseline
+Q048,X,Words in English,1,x-ray,llama3.2:3b,player2,1.0,40,baseline
+Q049,Y,Foods,0,yellow squash,llama3.2:3b,player2,1.0,40,baseline
+Q049,Y,Foods,1,yogurt,llama3.2:3b,player2,1.0,40,baseline
+Q050,Y,Things at a party,0,yogurt,llama3.2:3b,player2,1.0,40,baseline
+Q050,Y,Things at a party,1,yogurt cup,llama3.2:3b,player2,1.0,40,baseline
+Q051,Z,Animals,0,zebra,llama3.2:3b,player2,1.0,40,baseline
+Q051,Z,Animals,1,zorse,llama3.2:3b,player2,1.0,40,baseline
+Q052,Z,Things in a zoo,0,zebra,llama3.2:3b,player2,1.0,40,baseline
+Q052,Z,Things in a zoo,1,zebra,llama3.2:3b,player2,1.0,40,baseline
+Q053,A,Things in a kitchen,0,artichoke,llama3.2:3b,player2,1.0,40,baseline
+Q053,A,Things in a kitchen,1,appliance,llama3.2:3b,player2,1.0,40,baseline
+Q054,B,Singers,0,beyoncé,llama3.2:3b,player2,1.0,40,baseline
+Q054,B,Singers,1,britney spears,llama3.2:3b,player2,1.0,40,baseline
+Q055,C,Desserts,0,croissant,llama3.2:3b,player2,1.0,40,baseline
+Q055,C,Desserts,1,crème brûlée,llama3.2:3b,player2,1.0,40,baseline
+Q056,D,Plants,0,dandelion,llama3.2:3b,player2,1.0,40,baseline
+Q056,D,Plants,1,daisy,llama3.2:3b,player2,1.0,40,baseline
+Q057,E,Companies,0,electric,llama3.2:3b,player2,1.0,40,baseline
+Q057,E,Companies,1,eggs benodet,llama3.2:3b,player2,1.0,40,baseline
+Q058,F,Movie characters,0,frankenstein's monster,llama3.2:3b,player2,1.0,40,baseline
+Q058,F,Movie characters,1,fred flintstone,llama3.2:3b,player2,1.0,40,baseline
+Q059,G,Things in a toolbox,0,glue,llama3.2:3b,player2,1.0,40,baseline
+Q059,G,Things in a toolbox,1,glue stick,llama3.2:3b,player2,1.0,40,baseline
+Q060,H,Countries,0,hong kong,llama3.2:3b,player2,1.0,40,baseline
+Q060,H,Countries,1,hong kong,llama3.2:3b,player2,1.0,40,baseline
+Q061,I,Musical artists,0,i am not sure,llama3.2:3b,player2,1.0,40,baseline
+Q061,I,Musical artists,1,irving,llama3.2:3b,player2,1.0,40,baseline
+Q062,J,Things in a refrigerator,0,juice,llama3.2:3b,player2,1.0,40,baseline
+Q062,J,Things in a refrigerator,1,jelly,llama3.2:3b,player2,1.0,40,baseline
+Q063,K,Cities,0,kansas city,llama3.2:3b,player2,1.0,40,baseline
+Q063,K,Cities,1,kansas city,llama3.2:3b,player2,1.0,40,baseline
+Q064,L,Things in a library,0,loans,llama3.2:3b,player2,1.0,40,baseline
+Q064,L,Things in a library,1,loose pages,llama3.2:3b,player2,1.0,40,baseline
