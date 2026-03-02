@@ -7,6 +7,7 @@ Two-phase workflow (as required by the assignment):
 """
 
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 from assignment3_starter import (
     ollama_generate,
@@ -18,48 +19,59 @@ from assignment3_starter import (
 
 # ── Configuration ──────────────────────────────────────────────
 MODEL = "llama3.2:3b"
-TEMPERATURE = 1.0
-ROUNDS = 2          # number of rounds per question (more = more stable estimates)
+TEMPERATURE = 1.5
+ROUNDS = 10         # number of rounds per question (more = more stable estimates)
 MAX_TOKENS = 16
 TOP_K = 40
+NUM_WORKERS = 8     # number of parallel Ollama calls
 QUESTIONS_CSV = "scattergories_questions.csv"
 OUTPUT_DIR = Path("outputs")
 
 
-# ── Generate answers for one player ───────────────────────────
+# ── Single call (used by each thread) ─────────────────────────
+def generate_one(question, round_idx, player_id):
+    """Generate one answer for one (question, round) pair."""
+    prompt = build_player_prompt(question.letter, question.category)
+    raw = ollama_generate(
+        model=MODEL,
+        prompt=prompt,
+        temperature=TEMPERATURE,
+        top_k=TOP_K,
+        max_tokens=MAX_TOKENS,
+    )
+    answer = normalize_answer(raw)
+    answer = answer.split("\n")[0]        # take first line only
+    answer = " ".join(answer.split()[:4]) # cap at 4 words
+
+    return {
+        "question_id": question.question_id,
+        "letter": question.letter,
+        "category": question.category,
+        "round_idx": round_idx,
+        "answer": answer,
+        "model": MODEL,
+        "player_id": player_id,
+        "temperature": TEMPERATURE,
+        "top_k": TOP_K,
+    }
+
+
+# ── Generate answers for one player (parallel) ───────────────
 def generate_answers(player_id, questions, rounds):
-    rows = []
-    total = len(questions) * rounds
+    """Generate all answers using parallel Ollama calls."""
+    tasks = [(q, r) for q in questions for r in range(rounds)]
+    rows = [None] * len(tasks)  # pre-allocate to preserve order
 
-    with tqdm(total=total, desc=f"Generating {player_id}") as pbar:
-        for q in questions:
-            prompt = build_player_prompt(q.letter, q.category)
+    with ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
+        future_to_idx = {}
+        for idx, (q, r) in enumerate(tasks):
+            future = executor.submit(generate_one, q, r, player_id)
+            future_to_idx[future] = idx
 
-            for round_idx in range(rounds):
-                raw = ollama_generate(
-                    model=MODEL,
-                    prompt=prompt,
-                    temperature=TEMPERATURE,
-                    top_k=TOP_K,
-                    max_tokens=MAX_TOKENS,
-                )
-                answer = normalize_answer(raw)
-
-                # Post-processing to clean up the answer:
-                answer = answer.split("\n")[0]        # take first line only
-                answer = " ".join(answer.split()[:4]) # cap at 4 words
-
-                rows.append({
-                    "question_id": q.question_id,
-                    "letter": q.letter,
-                    "category": q.category,
-                    "round_idx": round_idx,
-                    "answer": answer,
-                    "model": MODEL,
-                    "player_id": player_id,
-                    "temperature": TEMPERATURE,
-                    "top_k": TOP_K,
-                })
+        with tqdm(total=len(tasks), desc=f"Generating {player_id}") as pbar:
+            for future in as_completed(future_to_idx):
+                idx = future_to_idx[future]
+                rows[idx] = future.result()
                 pbar.update(1)
 
     return rows

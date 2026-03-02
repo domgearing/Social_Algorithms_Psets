@@ -252,7 +252,7 @@ def summarize_scores(judged_rows: list[dict], cache: JudgeCache) -> list[dict]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Judge Scattergories answer files.")
     parser.add_argument("answer_files", nargs="+", help="One or more answer CSV files.")
-    parser.add_argument("--model", default="gpt-5-mini", help="OpenAI judge model.")
+    parser.add_argument("--model", default="gpt-4o-mini", help="OpenAI judge model.")
     parser.add_argument(
         "--temperature",
         type=float,
