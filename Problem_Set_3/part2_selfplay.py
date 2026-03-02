@@ -19,7 +19,7 @@ from assignment3_starter import (
 # ── Configuration ──────────────────────────────────────────────
 MODEL = "llama3.2:3b"
 TEMPERATURE = 1.0
-ROUNDS = 10          # number of rounds per question (more = more stable estimates)
+ROUNDS = 2          # number of rounds per question (more = more stable estimates)
 MAX_TOKENS = 16
 TOP_K = 40
 QUESTIONS_CSV = "scattergories_questions.csv"
