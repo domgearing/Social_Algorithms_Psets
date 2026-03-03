@@ -23,7 +23,7 @@ TEMPERATURE = 1.5
 ROUNDS = 10         # number of rounds per question (more = more stable estimates)
 MAX_TOKENS = 16
 TOP_K = 40
-NUM_WORKERS = 8     # number of parallel Ollama calls
+NUM_WORKERS = 8     # number of parallel Ollama calls - for faster generation
 QUESTIONS_CSV = "scattergories_questions.csv"
 OUTPUT_DIR = Path("outputs")
 
