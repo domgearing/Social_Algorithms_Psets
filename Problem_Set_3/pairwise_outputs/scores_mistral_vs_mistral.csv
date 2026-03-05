@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_mistral_7b_selfA,pairwise_outputs/answers_mistral_7b_selfA.csv,128,109,0.8515625,36,0.28125,73,0.5703125,72,0,256
+answers_mistral_7b_selfB,pairwise_outputs/answers_mistral_7b_selfB.csv,128,111,0.8671875,38,0.296875,73,0.5703125,73,0,256

@@ -1,0 +1,641 @@
+question_id,letter,category,round_idx,answer,model,player_id,temperature,top_k
+Q001,A,Animals,0,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,1,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,2,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,3,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,4,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,5,axolotl,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,6,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,7,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,8,aye-aye,llama3.2:3b,player2,1.5,40
+Q001,A,Animals,9,aye-aye,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,0,aerotonomist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,1,acoustic ecologist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,2,aeroponics specialist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,3,aerotrope,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,4,aquarium curator,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,5,aeroponics specialist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,6,aerialist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,7,aerialist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,8,aquatic archaeologist,llama3.2:3b,player2,1.5,40
+Q002,A,Jobs,9,astrobiologist,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,0,boysenberry,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,1,bromeliad,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,2,barberry,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,3,bael fruit,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,4,bertramia,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,5,bilberry,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,6,baobab,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,7,buckwheat fruit,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,8,buddha's hand,llama3.2:3b,player2,1.5,40
+Q003,B,Fruits,9,buddha's hand,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,0,bloodstone beads,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,1,bloodstone,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,2,beech nuts,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,3,bergamot fruit,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,4,bergamot,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,5,bloodroot,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,6,banyan fruit,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,7,burgomaster beetles,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,8,begonia blossoms,llama3.2:3b,player2,1.5,40
+Q004,B,Things that are red,9,bloodstone,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,0,cape verde,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,1,cabo verde,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,2,cayman islands,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,3,comoros,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,4,comoros,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,5,cameroon,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,6,cambodia,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,7,cabo verde,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,8,comoros,llama3.2:3b,player2,1.5,40
+Q005,C,Countries,9,comoros,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,0,cartagena,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,1,cartas,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,2,cartagena,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,3,carcassonne,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,4,chinatown. (alternate game: carcassonne,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,5,cartagena,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,6,carcassonne: hunters and gatherers,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,7,codenames dux,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,8,codenames dusk,llama3.2:3b,player2,1.5,40
+Q006,C,Board games,9,carcassonne,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,0,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,1,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,2,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,3,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,4,daxophone,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,5,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,6,dulcimer,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,7,didgeridoo,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,8,daithyboard,llama3.2:3b,player2,1.5,40
+Q007,D,Musical instruments,9,dulcimer,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,0,drain cleaner dispenser,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,1,deodorizer dispenser,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,2,denture basin,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,3,deodorizer,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,4,denture tray,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,5,dustpan,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,6,dryer,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,7,dermatological light,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,8,drain cleaner,llama3.2:3b,player2,1.5,40
+Q008,D,Things in a bathroom,9,dishwasher filter,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,0,equestrian archery,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,1,equestrian freestyle,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,2,equestrian pentathlon,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,3,equestrian archery,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,4,estafetta,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,5,equestrian archery,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,6,equestrian freestyle,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,7,equestrian cross-country,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,8,escalade,llama3.2:3b,player2,1.5,40
+Q009,E,Sports,9,echelon,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,0,eraserhead,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,1,end of shift,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,2,echelon,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,3,eternity and a day,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,4,eye of god,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,5,eternal sunshine of spotless,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,6,enemy of my enemy,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,7,electric sheep,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,8,eternal sunshine of spotless,llama3.2:3b,player2,1.5,40
+Q010,E,Movie titles,9,electric company,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,0,fairy basslet,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,1,frilled shark,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,2,floaterfish,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,3,frilled shark,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,4,firefish,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,5,flagtail,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,6,franke's fish,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,7,firefish,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,8,fangtooth,llama3.2:3b,player2,1.5,40
+Q011,F,Fish,9,fangtooth,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,0,fire starter,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,1,fur brush,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,2,fire extinguisher,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,3,flotation device,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,4,fire extinguisher,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,5,field guide,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,6,flare pistol,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,7,foldable fan,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,8,faux fur,llama3.2:3b,player2,1.5,40
+Q012,F,Things in a backpack,9,fire extinguisher,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,0,guam,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,1,guam is not a,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,2,guam is not a,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,3,georgia,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,4,georgia,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,5,guam,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,6,"guam (not a state,",llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,7,georgia,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,8,guam is not a,llama3.2:3b,player2,1.5,40
+Q013,G,U.S. states,9,georgia,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,0,gjetost,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,1,gundruk,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,2,gjetost,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,3,gjetost,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,4,gjetost,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,5,guanciale,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,6,guanciale,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,7,guanciale,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,8,guanciale,llama3.2:3b,player2,1.5,40
+Q014,G,Foods,9,guanaja cheese,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,0,henry walter baker,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,1,hilary erskine,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,2,hildegard,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,3,hermann von helmholtz,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,4,haraldus (17th century flemish,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,5,hans berger,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,6,hans bethe,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,7,henrietta lasselle,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,8,harold urey,llama3.2:3b,player2,1.5,40
+Q015,H,Famous scientists,9,hypatia of alexandria,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,0,hornworms,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,1,hagfish slime,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,2,hawaiian monk seal,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,3,hawk's nest,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,4,heron nests,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,5,hagfish,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,6,hydroids,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,7,hydrothermal vents,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,8,hydrofoils,llama3.2:3b,player2,1.5,40
+Q016,H,Things at the beach,9,hydrothermal,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,0,iquitos,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,1,izmit,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,2,ithaca,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,3,ibiza,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,4,itaituba,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,5,ithaca,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,6,itanagar,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,7,itapeti,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,8,ilhamia,llama3.2:3b,player2,1.5,40
+Q017,I,Cities,9,itinjanae,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,0,iodine,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,1,icebox,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,2,ibukwu board,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,3,incubator,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,4,ichnosphere,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,5,incubator,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,6,incubator,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,7,incubators,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,8,illuminated globe,llama3.2:3b,player2,1.5,40
+Q018,I,Things in a classroom,9,infrared thermometer,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,0,jaguar xk120,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,1,jeriton,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,2,jaguarby jaysam,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,3,jaguarette,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,4,jaguarbyjowetts,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,5,jaguar,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,6,jaguaretta,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,7,jaguar jep is not,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,8,jaguarland rover,llama3.2:3b,player2,1.5,40
+Q019,J,Car brands,9,jaguar,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,0,jamestown,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,1,joyless,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,2,judgment downfall,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,3,jet set radio,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,4,jet set radio,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,5,jet set radio,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,6,jet set radio,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,7,jabberwocky,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,8,jagged alliance,llama3.2:3b,player2,1.5,40
+Q020,J,Video game titles,9,jamestown,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,0,kamandi,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,1,kamandi,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,2,knightfall,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,3,kingboxer,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,4,knightsblood,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,5,kid flash,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,6,kid flash,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,7,kinetic,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,8,kamandi,llama3.2:3b,player2,1.5,40
+Q021,K,Superheroes,9,khala dren,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,0,kalamata olives,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,1,kimchi,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,2,kabocha squash,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,3,kimchi,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,4,kimchi,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,5,kalamata olives,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,6,kikkoman mirin,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,7,kokum seeds,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,8,kimchi,llama3.2:3b,player2,1.5,40
+Q022,K,Things in a grocery store,9,knorr bouillon,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,0,ladysmith terrier,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,1,leopardess,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,2,ladino sheepdog,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,3,lungotgris,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,4,lasatian,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,5,limousin,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,6,lagotto romagnolo,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,7,lapin noir,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,8,lapin,llama3.2:3b,player2,1.5,40
+Q023,L,Dog breeds,9,laszlo hungarian,llama3.2:3b,player2,1.5,40
+Q024,L,Books,0,lotica's book,llama3.2:3b,player2,1.5,40
+Q024,L,Books,1,look at this,llama3.2:3b,player2,1.5,40
+Q024,L,Books,2,lost continent,llama3.2:3b,player2,1.5,40
+Q024,L,Books,3,lysistrata,llama3.2:3b,player2,1.5,40
+Q024,L,Books,4,lost river,llama3.2:3b,player2,1.5,40
+Q024,L,Books,5,lost horizon,llama3.2:3b,player2,1.5,40
+Q024,L,Books,6,lost earth,llama3.2:3b,player2,1.5,40
+Q024,L,Books,7,london leavers,llama3.2:3b,player2,1.5,40
+Q024,L,Books,8,lost continent,llama3.2:3b,player2,1.5,40
+Q024,L,Books,9,lilac girls,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,0,mandinka,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,1,māori,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,2,manx,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,3,māori,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,4,maale,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,5,maasai,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,6,māori,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,7,mandinka,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,8,mirandese,llama3.2:3b,player2,1.5,40
+Q025,M,Languages,9,māori,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,0,mantle cape,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,1,mulesing boot,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,2,mao necktie,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,3,mohlhagen,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,4,millet cloak,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,5,mantelet,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,6,mahjong vest,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,7,mongolian fur hat,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,8,milletie,llama3.2:3b,player2,1.5,40
+Q026,M,Clothing items,9,monokini,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,0,numbula penguin,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,1,necky railbird,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,2,northern fulmar,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,3,nene,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,4,nicator,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,5,nicobar pigeon,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,6,noble faced owl,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,7,nicobar pigeon,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,8,night parrot,llama3.2:3b,player2,1.5,40
+Q027,N,Birds,9,nene,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,0,nephrology unit,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,1,neonatal unit,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,2,nanoclaimer,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,3,negative pressure wound therapy,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,4,nanophotonics lab,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,5,nephrotoxin kits,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,6,negative pressure wound,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,7,necropsy room,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,8,neonatal icu,llama3.2:3b,player2,1.5,40
+Q028,N,Things in a hospital,9,nanometer scales device,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,0,ocean conservancy,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,1,ocean spiral,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,2,orofluorides inc,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,3,oroflex systems,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,4,optomen group,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,5,oceanitalia,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,6,opower,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,7,optiver,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,8,orochi labs,llama3.2:3b,player2,1.5,40
+Q029,O,Companies,9,oxitec,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,0,oort cloud,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,1,oort cloud,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,2,ophiuchus clouds,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,3,oberon (moon of uranus,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,4,optical phenomenon,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,5,oil slicks,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,6,orographic clouds,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,7,oort cloud,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,8,oberon belt,llama3.2:3b,player2,1.5,40
+Q030,O,Things in the sky,9,orionids meteor shower doesn't,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,0,peruvian potatoes,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,1,pokeweed,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,2,persimmon,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,3,purslane,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,4,peruvian potatoes,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,5,peruvian potato,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,6,purslane,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,7,persimmon,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,8,persimmon greens,llama3.2:3b,player2,1.5,40
+Q031,P,Vegetables,9,purslane,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,0,polybius,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,1,petipa,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,2,panzirat,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,3,peter abelard,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,4,pocahontas matoaka,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,5,parmenides,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,6,petipa,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,7,phillis wheatley,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,8,phineas gage,llama3.2:3b,player2,1.5,40
+Q032,P,Historical figures,9,pontius pilate,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,0,quixotic,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,1,quokka,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,2,quokka,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,3,quixotic,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,4,quixotic,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,5,quincunx,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,6,quincunx,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,7,quixotic,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,8,quincunx,llama3.2:3b,player2,1.5,40
+Q033,Q,Words in English,9,quixotic,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,0,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,1,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,2,quagmire,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,3,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,4,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,5,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,6,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,7,quasimodo,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,8,qwilleran,llama3.2:3b,player2,1.5,40
+Q034,Q,Fictional characters,9,quasimodo,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,0,riverboats' lullaby,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,1,rivers and roads,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,2,rainy day blues,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,3,rainn man,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,4,rhapsody,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,5,rubyfruit crunch,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,6,"rhapsody in blue"" by",llama3.2:3b,player2,1.5,40
+Q035,R,Songs,7,river of debt,llama3.2:3b,player2,1.5,40
+Q035,R,Songs,8,"riverbed"" by nick drake",llama3.2:3b,player2,1.5,40
+Q035,R,Songs,9,rocket man,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,0,raspaire,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,1,rotoscope,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,2,ramlat,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,3,rhodoid,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,4,radiometer,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,5,rasp hammer,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,6,rigging tool,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,7,ringaner,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,8,rattan ripper,llama3.2:3b,player2,1.5,40
+Q036,R,Tools,9,raspailler,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,0,slothbear,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,1,saola,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,2,salamander lizards,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,3,sunda pangolin,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,4,star-nosed mole,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,5,saola,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,6,saola,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,7,star-nosed mole,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,8,saola,llama3.2:3b,player2,1.5,40
+Q037,S,Animals,9,saola,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,0,slipboard,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,1,snow maker,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,2,snack stash,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,3,smartboard,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,4,slacktivist wall,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,5,scented candles,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,6,snorkel mask,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,7,sand timer,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,8,selenite lamp,llama3.2:3b,player2,1.5,40
+Q038,S,Things in an office,9,swivel chair,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,0,tajikistan,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,1,tuvalu,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,2,tajikistan,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,3,tuvalu,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,4,timor-leste,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,5,tuvalu,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,6,tuvalu,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,7,tajikistan,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,8,timor-leste,llama3.2:3b,player2,1.5,40
+Q039,T,Countries,9,tuvalu,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,0,triad underworld,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,1,the oa,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,2,tenko,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,3,twin peaks,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,4,ten commandments,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,5,trapped deadhouse,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,6,tripping the ripper,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,7,twin peaks' supernatural series,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,8,trailer park boys,llama3.2:3b,player2,1.5,40
+Q040,T,TV shows,9,triumph,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,0,university of idaho,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,1,university of north dakota's,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,2,university of st. thomas,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,3,university of new mexico's,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,4,university of alaska anchorage,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,5,united tribes university,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,6,united tribes university,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,7,utica college,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,8,university of new mexico's,llama3.2:3b,player2,1.5,40
+Q041,U,U.S. colleges,9,university of alaska fairbanks,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,0,ultrasonic cleaner,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,1,upholstery,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,2,upright presser,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,3,umbrella stand,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,4,universal joint,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,5,upholstery machine,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,6,umbrella,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,7,utility meter,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,8,umbilical hydrolase,llama3.2:3b,player2,1.5,40
+Q042,U,Things in a garage,9,universal joint,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,0,valet cemetery keeper,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,1,videotape restorer,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,2,vesiculitis specialist,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,3,vineyard manager,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,4,videographer of art,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,5,velocimorphologist,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,6,velocivoro,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,7,velocigrapher,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,8,virologist,llama3.2:3b,player2,1.5,40
+Q043,V,Jobs,9,velcro designer,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,0,velcro glove,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,1,vestia,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,2,velcro vest,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,3,velcro vest,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,4,vests,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,5,vests,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,6,velcro gloves,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,7,vespadance boots,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,8,velcro vest,llama3.2:3b,player2,1.5,40
+Q044,V,Things you wear,9,viking helmet,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,0,wauchula,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,1,waruganawa,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,2,wodzia,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,3,"wajma, yemen",llama3.2:3b,player2,1.5,40
+Q045,W,Cities,4,"waihi, new zealand",llama3.2:3b,player2,1.5,40
+Q045,W,Cities,5,wuchak,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,6,wigbe,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,7,waushika,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,8,winchester,llama3.2:3b,player2,1.5,40
+Q045,W,Cities,9,wigmorestown,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,0,wind chimes,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,1,wading pool,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,2,weir,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,3,woodwind instrument,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,4,wetland wallows,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,5,wafer thin bridge,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,6,wetland boardwalk,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,7,wind chime,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,8,water feature,llama3.2:3b,player2,1.5,40
+Q046,W,Things in a park,9,wind chimes,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,0,xexagen,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,1,xcel brand,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,2,xero shoes,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,3,xpresion,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,4,xarelto,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,5,xeros shoes,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,6,xylem wear,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,7,xeroxac,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,8,xtep,llama3.2:3b,player2,1.5,40
+Q047,X,Brands,9,xyris,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,0,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,1,xenogamy,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,2,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,3,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,4,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,5,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,6,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,7,xenomorphism,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,8,xanthosis,llama3.2:3b,player2,1.5,40
+Q048,X,Words in English,9,xanthosis,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,0,yacón,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,1,yellowtail sashimi,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,2,yacón syrup,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,3,yellowfin tuna,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,4,yacón,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,5,yellowtail sashimi,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,6,yacón,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,7,yacón,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,8,yellowfin tuna,llama3.2:3b,player2,1.5,40
+Q049,Y,Foods,9,yubari king melon,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,0,yogurt shooters,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,1,yak cheese,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,2,yacoubi (a type of,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,3,yuzu cocktail,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,4,yogurt bar,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,5,yogurt bar,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,6,yam skewers,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,7,yuzu,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,8,yorkshire tea cupcakes,llama3.2:3b,player2,1.5,40
+Q050,Y,Things at a party,9,yuzu sorbet,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,0,zanzibar red colobus monkey,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,1,zebra-tailed lizard,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,2,zanzibar red colobus monkey,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,3,zebra-tailed lizard,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,4,zanzibar red colobus,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,5,zorse,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,6,zanzibar red colobus monkey,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,7,zebra-tailed lizard,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,8,zebra-tailed lizard,llama3.2:3b,player2,1.5,40
+Q051,Z,Animals,9,zanzibar red colobus,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,0,zebras,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,1,zebu cattle,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,2,zebras mongoose,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,3,zorse,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,4,zebu cattle,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,5,zebra turtle,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,6,zebras' mares have a,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,7,zebu cow,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,8,zebra mussel,llama3.2:3b,player2,1.5,40
+Q052,Z,Things in a zoo,9,zebras' stripes,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,0,avocado slicer,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,1,airbrush,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,2,aspic mold,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,3,arak syrup,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,4,avocado masher,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,5,anejo clay cookware,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,6,asian pear peeler,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,7,agave syrup,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,8,anchovy paste,llama3.2:3b,player2,1.5,40
+Q053,A,Things in a kitchen,9,aromatizer,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,0,bonnie tyler,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,1,bjork,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,2,billie eilish,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,3,birda beyonc,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,4,bjork,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,5,basia,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,6,basia,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,7,bela fleck,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,8,betty wright,llama3.2:3b,player2,1.5,40
+Q054,B,Singers,9,bjork,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,0,cream puffs à la,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,1,croquembouche,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,2,cardamom crème brûlée,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,3,crepes suzette,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,4,custard apple crème brûlée,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,5,crema catalana,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,6,crostata,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,7,croquembouche,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,8,cannelés,llama3.2:3b,player2,1.5,40
+Q055,C,Desserts,9,crème brûlée base (cream,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,0,dumb cane,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,1,datura stramonium,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,2,dodonaea viscosa,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,3,duck's-foot,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,4,drimia maritima,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,5,dodecatentia,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,6,dodonum,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,7,dutchman's pipe,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,8,desert rose,llama3.2:3b,player2,1.5,40
+Q056,D,Plants,9,drimys,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,0,empirical software solutions,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,1,eli lilly,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,2,emu plus foods,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,3,everex systems,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,4,etsy,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,5,esanay corporation,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,6,ekster inc,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,7,etsylabs,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,8,exoskeletys,llama3.2:3b,player2,1.5,40
+Q057,E,Companies,9,ethofarmics,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,0,fortitude (2010,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,1,fortunato,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,2,fortunato,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,3,freddy krueger,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,4,father figures' frank,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,5,falkor,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,6,ferngully's fairy,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,7,figaro,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,8,francis baily,llama3.2:3b,player2,1.5,40
+Q058,F,Movie characters,9,father gordeau,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,0,gasket glue,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,1,gearbox,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,2,guttauner,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,3,gutter tool,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,4,gear grinder,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,5,gearbox tool,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,6,gear puller,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,7,gearbox,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,8,gutta plaster,llama3.2:3b,player2,1.5,40
+Q059,G,Things in a toolbox,9,gearpuller,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,0,hungary is not the,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,1,haiti,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,2,haiti,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,3,haiti,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,4,honduras,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,5,hungary,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,6,hunga,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,7,haiti,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,8,honduras,llama3.2:3b,player2,1.5,40
+Q060,H,Countries,9,haiti,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,0,idaho,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,1,iggy pop,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,2,iggy pop,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,3,idil birec,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,4,idiot peach,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,5,iivaara,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,6,iggy pop,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,7,ihsahn,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,8,iiva,llama3.2:3b,player2,1.5,40
+Q061,I,Musical artists,9,iggy pop,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,0,juniper berries,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,1,japanese rice vinegar,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,2,jerky,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,3,jerky,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,4,jalapeño peppers,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,5,jerky,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,6,jarred jalapeños,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,7,jackfruit,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,8,jerky,llama3.2:3b,player2,1.5,40
+Q062,J,Things in a refrigerator,9,juniper berries,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,0,kayseri,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,1,kakching,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,2,kalba,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,3,khartoum,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,4,kupala,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,5,kigali,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,6,kaohsiung,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,7,kamloops,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,8,kochi,llama3.2:3b,player2,1.5,40
+Q063,K,Cities,9,kakslauttanen,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,0,lostrapamone,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,1,lyell atlas,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,2,loch ness archive,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,3,loose-leaf notebooks,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,4,library of congress map,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,5,laser printer,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,6,lost wax casts,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,7,lego set,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,8,lithophone,llama3.2:3b,player2,1.5,40
+Q064,L,Things in a library,9,lamplight archives,llama3.2:3b,player2,1.5,40

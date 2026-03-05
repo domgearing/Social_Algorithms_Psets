@@ -1,0 +1,17 @@
+player_model,opponent_model,avg_score,rounds,match_type
+gemma,gemma,0.4921875,2,self
+gemma,llama,0.609375,1,cross
+gemma,mistral,0.625,1,cross
+gemma,qwen,0.6796875,1,cross
+llama,gemma,0.6171875,1,cross
+llama,llama,0.390625,2,self
+llama,mistral,0.4765625,1,cross
+llama,qwen,0.6015625,1,cross
+mistral,gemma,0.6640625,1,cross
+mistral,llama,0.5078125,1,cross
+mistral,mistral,0.2890625,2,self
+mistral,qwen,0.59375,1,cross
+qwen,gemma,0.6875,1,cross
+qwen,llama,0.6015625,1,cross
+qwen,mistral,0.5625,1,cross
+qwen,qwen,0.40625,2,self

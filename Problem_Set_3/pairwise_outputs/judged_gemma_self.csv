@@ -1,0 +1,257 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q001,A,Animals,0,Alpaca,alpaca,1,0,1,Q001::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q001,A,Animals,1,Aardvark,aardvark,1,0,1,Q001::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q002,A,Jobs,0,Accountant,accountant,1,1,0,Q002::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q002,A,Jobs,1,Accountant,accountant,1,0,1,Q002::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q003,B,Fruits,0,Blackberry,blackberry,1,0,1,Q003::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q003,B,Fruits,1,Blackberry,blackberry,1,1,0,Q003::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q004,B,Things that are red,0,Banana,banana,0,0,0,Q004::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q004,B,Things that are red,1,Barbecue,barbecue,0,0,0,Q004::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q005,C,Countries,0,Cambodia,cambodia,1,0,1,Q005::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q006,C,Board games,0,Clue,clue,1,1,0,Q006::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q006,C,Board games,1,Candyland,candyland,1,0,1,Q006::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,0,1,Q007::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q007,D,Musical instruments,1,Djembe,djembe,1,0,1,Q007::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q008,D,Things in a bathroom,0,Toothbrush,toothbrush,0,0,0,Q008::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q008,D,Things in a bathroom,1,Deodorant,deodorant,1,0,1,Q008::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q009,E,Sports,1,E-sports,e-sports,1,0,1,Q009::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q010,E,Movie titles,0,Edward Scissorhands,edward scissorhands,1,1,0,Q010::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q010,E,Movie titles,1,Edward Scissorhands,edward scissorhands,1,0,1,Q010::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q012,F,Things in a backpack,0,Fanny pack,fanny pack,0,0,0,Q012::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q012,F,Things in a backpack,1,Flashlight,flashlight,1,0,1,Q012::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q014,G,Foods,0,Ginger,ginger,1,0,1,Q014::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q014,G,Foods,1,Ginger,ginger,1,0,1,Q014::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q015,H,Famous scientists,0,Henrietta Swan Leavitt,henrietta swan leavitt,1,0,1,Q015::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q015,H,Famous scientists,1,Helen B. Taylor,helen b. taylor,0,0,0,Q015::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q016,H,Things at the beach,0,Hammer,hammer,0,0,0,Q016::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q016,H,Things at the beach,1,Hobie Cat,hobie cat,1,0,1,Q016::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q018,I,Things in a classroom,0,Instructors' desk,instructors' desk,1,0,1,Q018::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q018,I,Things in a classroom,1,Incense,incense,0,0,0,Q018::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q019,J,Car brands,0,Jaguar,jaguar,1,0,1,Q019::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q019,J,Car brands,1,jaguar,jaguar,1,1,0,Q019::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q020,J,Video game titles,0,Jet Set Radio,jet set radio,1,0,1,Q020::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q020,J,Video game titles,1,Jet Set Radio,jet set radio,1,0,1,Q020::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q021,K,Superheroes,0,Katana,katana,0,0,0,Q021::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q021,K,Superheroes,1,Katana,katana,0,0,0,Q021::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q022,K,Things in a grocery store,0,Kraft mac and cheese,kraft mac and cheese,0,0,0,Q022::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q022,K,Things in a grocery store,1,Kennel food,kennel food,0,0,0,Q022::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q023,L,Dog breeds,0,Labrador,labrador,1,0,1,Q023::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q024,L,Books,0,Little Women,little women,1,1,0,Q024::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,0,1,Q024::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q025,M,Languages,1,Mandarin,mandarin,1,0,1,Q025::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q026,M,Clothing items,0,Mitts,mitts,1,0,1,Q026::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q026,M,Clothing items,1,Maroon skirt,maroon skirt,0,0,0,Q026::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q028,N,Things in a hospital,0,Nurses,nurses,1,0,1,Q028::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q028,N,Things in a hospital,1,Neon lights,neon lights,0,0,0,Q028::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q029,O,Companies,0,Oreo,oreo,0,0,0,Q029::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q029,O,Companies,1,**Oreo**,oreo,0,0,0,Q029::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q030,O,Things in the sky,0,Orion,orion,1,0,1,Q030::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q030,O,Things in the sky,1,Orbit,orbit,1,0,1,Q030::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q031,P,Vegetables,0,Parsnip,parsnip,1,1,0,Q031::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q031,P,Vegetables,1,Parsnip,parsnip,1,1,0,Q031::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q032,P,Historical figures,0,Plato,plato,1,0,1,Q032::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q032,P,Historical figures,1,Paul Revere,paul revere,1,1,0,Q032::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q033,Q,Words in English,0,Quiet,quiet,1,0,1,Q033::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q033,Q,Words in English,1,Quarantine,quarantine,1,0,1,Q033::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q034,Q,Fictional characters,0,Queen of Hearts,queen of hearts,1,0,1,Q034::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q034,Q,Fictional characters,1,Queen of Hearts,queen of hearts,1,1,0,Q034::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q035,R,Songs,0,Ring of Fire,ring of fire,1,1,0,Q035::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q035,R,Songs,1,River Flows in You,river flows in you,1,0,1,Q035::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q036,R,Tools,0,Rake,rake,1,0,1,Q036::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q036,R,Tools,1,Rake,rake,1,0,1,Q036::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q037,S,Animals,0,Salmon,salmon,1,0,1,Q037::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q037,S,Animals,1,Snake,snake,1,0,1,Q037::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q039,T,Countries,0,Thailand,thailand,1,1,0,Q039::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q039,T,Countries,1,Thailand,thailand,1,1,0,Q039::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q040,T,TV shows,0,This is Us,this is us,0,0,0,Q040::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q040,T,TV shows,1,The Twilight Zone,the twilight zone,1,1,0,Q040::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q042,U,Things in a garage,0,Unicycle,unicycle,1,1,0,Q042::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q042,U,Things in a garage,1,U-lock,u-lock,1,0,1,Q042::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q043,V,Jobs,0,Vice President,vice president,1,0,1,Q043::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q044,V,Things you wear,0,Valves,valves,0,0,0,Q044::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q044,V,Things you wear,1,Valves,valves,0,0,0,Q044::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q045,W,Cities,0,"Washington, D.C.","washington, d.c",1,0,1,Q045::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q045,W,Cities,1,Washington,washington,1,0,1,Q045::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q046,W,Things in a park,0,Water fountain,water fountain,1,1,0,Q046::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q046,W,Things in a park,1,Water fountain,water fountain,1,0,1,Q046::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q048,X,Words in English,0,Xerox,xerox,1,0,1,Q048::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q048,X,Words in English,1,Xenial,xenial,1,0,1,Q048::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q049,Y,Foods,0,Yogurt,yogurt,1,0,1,Q049::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q049,Y,Foods,1,Yorkshire pudding,yorkshire pudding,1,0,1,Q049::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q050,Y,Things at a party,0,Yo-yo,yo-yo,0,0,0,Q050::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q050,Y,Things at a party,1,Yoga mats,yoga mats,0,0,0,Q050::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q052,Z,Things in a zoo,1,Zebra,zebra,1,1,0,Q052::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q053,A,Things in a kitchen,0,Apron,apron,1,1,0,Q053::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q053,A,Things in a kitchen,1,Airing rack,airing rack,1,0,1,Q053::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q054,B,Singers,0,Barbra Streisand,barbra streisand,1,0,1,Q054::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q054,B,Singers,1,Barbra Streisand,barbra streisand,1,1,0,Q054::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q055,C,Desserts,0,Chocolate cake,chocolate cake,1,0,1,Q055::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q055,C,Desserts,1,Chocolate Chip Cookie,chocolate chip cookie,1,0,1,Q055::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q056,D,Plants,0,Dandelion,dandelion,1,0,1,Q056::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q056,D,Plants,1,Dandelion,dandelion,1,0,1,Q056::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q057,E,Companies,0,Expedia,expedia,1,0,1,Q057::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q057,E,Companies,1,ESPN,espn,1,0,1,Q057::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q058,F,Movie characters,0,Forrest Gump,forrest gump,1,0,1,Q058::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q058,F,Movie characters,1,Ferris Bueller,ferris bueller,1,0,1,Q058::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q059,G,Things in a toolbox,0,Grease gun,grease gun,1,0,1,Q059::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q059,G,Things in a toolbox,1,Gorilla Glue,gorilla glue,1,0,1,Q059::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q060,H,Countries,0,Haiti,haiti,1,0,1,Q060::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q060,H,Countries,1,Hungary,hungary,1,0,1,Q060::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q061,I,Musical artists,0,Iggy Pop,iggy pop,1,0,1,Q061::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q061,I,Musical artists,1,Imagine Dragons,imagine dragons,0,0,0,Q061::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q062,J,Things in a refrigerator,0,Jelly beans,jelly beans,0,0,0,Q062::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q062,J,Things in a refrigerator,1,Jello,jello,1,0,1,Q062::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q063,K,Cities,0,Kathmandu,kathmandu,1,1,0,Q063::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q063,K,Cities,1,Kuala Lumpur,kuala lumpur,1,0,1,Q063::1
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q064,L,Things in a library,0,Library Lamp,library lamp,0,0,0,Q064::0
+pairwise_outputs/answers_gemma2_2b_selfA.csv,answers_gemma2_2b_selfA,Q064,L,Things in a library,1,Library books,library books,0,0,0,Q064::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q001,A,Animals,0,Aardvark,aardvark,1,0,1,Q001::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q001,A,Animals,1,Alligator,alligator,1,0,1,Q001::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q002,A,Jobs,0,Accountant,accountant,1,1,0,Q002::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q002,A,Jobs,1,Astronaut,astronaut,1,0,1,Q002::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q003,B,Fruits,0,Banana,banana,1,0,1,Q003::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q003,B,Fruits,1,Blackberry,blackberry,1,1,0,Q003::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q004,B,Things that are red,0,Bloody nose,bloody nose,0,0,0,Q004::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q004,B,Things that are red,1,Blueberries,blueberries,0,0,0,Q004::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q005,C,Countries,0,Canada,canada,1,0,1,Q005::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q006,C,Board games,0,Clue,clue,1,1,0,Q006::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q006,C,Board games,1,Carcassonne,carcassonne,1,0,1,Q006::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q007,D,Musical instruments,0,Drums,drums,1,0,1,Q007::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q007,D,Musical instruments,1,Didgeridoo,didgeridoo,1,0,1,Q007::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q008,D,Things in a bathroom,0,Toothbrush,toothbrush,0,0,0,Q008::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q008,D,Things in a bathroom,1,Dashboard,dashboard,0,0,0,Q008::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q009,E,Sports,1,Equestrian,equestrian,1,0,1,Q009::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q010,E,Movie titles,0,Edward Scissorhands,edward scissorhands,1,1,0,Q010::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q010,E,Movie titles,1,E.T.,e.t,1,0,1,Q010::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q012,F,Things in a backpack,0,Fanny pack,fanny pack,0,0,0,Q012::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q012,F,Things in a backpack,1,Flip-flop,flip-flop,1,0,1,Q012::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q014,G,Foods,0,Granola,granola,1,0,1,Q014::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q014,G,Foods,1,Grapefruit,grapefruit,1,0,1,Q014::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q015,H,Famous scientists,0,**Hooke**,hooke,1,0,1,Q015::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q015,H,Famous scientists,1,**Henry Cavendish**,henry cavendish,1,0,1,Q015::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q016,H,Things at the beach,0,Hula hoop,hula hoop,1,0,1,Q016::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q016,H,Things at the beach,1,Hammock,hammock,1,0,1,Q016::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q017,I,Cities,0,Iceland,iceland,0,0,0,Q017::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q018,I,Things in a classroom,0,Inkstick,inkstick,0,0,0,Q018::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q018,I,Things in a classroom,1,Ipad,ipad,1,0,1,Q018::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q019,J,Car brands,0,Jeep,jeep,1,0,1,Q019::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q020,J,Video game titles,0,Just Dance,just dance,1,0,1,Q020::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q020,J,Video game titles,1,Jak and Daxter,jak and daxter,1,0,1,Q020::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q021,K,Superheroes,0,Krrrl,krrrl,0,0,0,Q021::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q021,K,Superheroes,1,Katana,katana,0,0,0,Q021::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q022,K,Things in a grocery store,0,Kernel Corn,kernel corn,1,0,1,Q022::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q022,K,Things in a grocery store,1,Kale Chips,kale chips,1,0,1,Q022::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q023,L,Dog breeds,0,Lhasa Apso,lhasa apso,1,0,1,Q023::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q024,L,Books,0,Little Women,little women,1,1,0,Q024::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q024,L,Books,1,Little Women,little women,1,0,1,Q024::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q025,M,Languages,1,Malay,malay,1,0,1,Q025::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q026,M,Clothing items,0,Maxi Dress,maxi dress,1,0,1,Q026::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q026,M,Clothing items,1,Maxi dress,maxi dress,1,0,1,Q026::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q028,N,Things in a hospital,0,Nightlight,nightlight,0,0,0,Q028::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q028,N,Things in a hospital,1,Nerve Monitor,nerve monitor,1,0,1,Q028::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q029,O,Companies,0,Oreo,oreo,0,0,0,Q029::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q029,O,Companies,1,O'Reilly Auto Parts,o'reilly auto parts,1,0,1,Q029::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q030,O,Things in the sky,0,Orion's belt,orion's belt,0,0,0,Q030::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q030,O,Things in the sky,1,Orion,orion,1,0,1,Q030::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q031,P,Vegetables,0,Parsnip,parsnip,1,1,0,Q031::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q031,P,Vegetables,1,Parsnip,parsnip,1,1,0,Q031::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q032,P,Historical figures,0,Leonardo da Vinci,leonardo da vinci,0,0,0,Q032::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q032,P,Historical figures,1,Paul Revere,paul revere,1,1,0,Q032::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q033,Q,Words in English,0,Quick,quick,1,0,1,Q033::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q033,Q,Words in English,1,Quarrel,quarrel,1,0,1,Q033::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q034,Q,Fictional characters,0,Queen Amidala,queen amidala,1,0,1,Q034::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q034,Q,Fictional characters,1,Queen of Hearts,queen of hearts,1,1,0,Q034::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q035,R,Songs,0,Ring of Fire,ring of fire,1,1,0,Q035::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q035,R,Songs,1,Respect,respect,0,0,0,Q035::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q036,R,Tools,0,Riveter,riveter,1,0,1,Q036::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q036,R,Tools,1,Rubber mallet,rubber mallet,1,0,1,Q036::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q037,S,Animals,0,Seal,seal,1,0,1,Q037::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q037,S,Animals,1,Salamander,salamander,1,0,1,Q037::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q039,T,Countries,0,Thailand,thailand,1,1,0,Q039::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q039,T,Countries,1,Thailand,thailand,1,1,0,Q039::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q040,T,TV shows,0,That 70's Show,that 70's show,1,0,1,Q040::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q040,T,TV shows,1,The Twilight Zone,the twilight zone,1,1,0,Q040::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q042,U,Things in a garage,0,Unicycle,unicycle,1,1,0,Q042::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q042,U,Things in a garage,1,Upholstered Bench,upholstered bench,1,0,1,Q042::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q043,V,Jobs,0,Veterinarian,veterinarian,1,0,1,Q043::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q044,V,Things you wear,0,Velcro,velcro,0,0,0,Q044::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q044,V,Things you wear,1,Velcro Shoes,velcro shoes,1,0,1,Q044::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q045,W,Cities,0,Wellington,wellington,1,0,1,Q045::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q045,W,Cities,1,Warsaw,warsaw,1,0,1,Q045::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q046,W,Things in a park,0,Water fountain,water fountain,1,1,0,Q046::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q046,W,Things in a park,1,Water feature,water feature,1,0,1,Q046::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q048,X,Words in English,0,Xenon,xenon,1,0,1,Q048::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q048,X,Words in English,1,Xenophobia,xenophobia,1,0,1,Q048::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q049,Y,Foods,0,Yuca,yuca,1,0,1,Q049::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q049,Y,Foods,1,Yellow squash,yellow squash,1,0,1,Q049::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q050,Y,Things at a party,0,Yogurt Station,yogurt station,0,0,0,Q050::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q050,Y,Things at a party,1,Yacht party,yacht party,0,0,0,Q050::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q052,Z,Things in a zoo,1,Zebra,zebra,1,1,0,Q052::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q053,A,Things in a kitchen,0,Apron,apron,1,1,0,Q053::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q053,A,Things in a kitchen,1,Apron,apron,1,0,1,Q053::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q054,B,Singers,0,Billie Holiday,billie holiday,1,0,1,Q054::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q054,B,Singers,1,Barbra Streisand,barbra streisand,1,1,0,Q054::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q055,C,Desserts,0,Chocolate Chip Cookie,chocolate chip cookie,1,0,1,Q055::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q055,C,Desserts,1,Cheesecake,cheesecake,1,0,1,Q055::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q056,D,Plants,0,Daffodil,daffodil,1,0,1,Q056::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q056,D,Plants,1,Daffodil,daffodil,1,0,1,Q056::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q057,E,Companies,0,Ericsson,ericsson,1,0,1,Q057::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q057,E,Companies,1,**Etsy**,etsy,1,0,1,Q057::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q058,F,Movie characters,0,Furious Seven,furious seven,0,0,0,Q058::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q058,F,Movie characters,1,Indiana Jones,indiana jones,0,0,0,Q058::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q059,G,Things in a toolbox,0,Gauge,gauge,1,0,1,Q059::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q059,G,Things in a toolbox,1,Grinder,grinder,1,0,1,Q059::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q060,H,Countries,0,Hungary,hungary,1,0,1,Q060::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q060,H,Countries,1,Haiti,haiti,1,0,1,Q060::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q061,I,Musical artists,0,Irene Cara,irene cara,1,0,1,Q061::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q061,I,Musical artists,1,Ingrid Michaelson,ingrid michaelson,1,0,1,Q061::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q062,J,Things in a refrigerator,0,Juice jars,juice jars,0,0,0,Q062::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q062,J,Things in a refrigerator,1,Juice jars,juice jars,0,0,0,Q062::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q063,K,Cities,0,Kathmandu,kathmandu,1,1,0,Q063::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q063,K,Cities,1,Kyoto,kyoto,1,0,1,Q063::1
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q064,L,Things in a library,0,Library Lamp,library lamp,0,0,0,Q064::0
+pairwise_outputs/answers_gemma2_2b_selfB.csv,answers_gemma2_2b_selfB,Q064,L,Things in a library,1,Library books,library books,0,0,0,Q064::1

@@ -1,0 +1,5 @@
+player_id,validity_rate
+answers_gemma2_2b,0.828125
+answers_llama3.2_3b,0.8359375
+answers_mistral_7b,0.8671875
+answers_qwen2.5_7b,0.8359375

@@ -1,4 +1,4 @@
-git #!/usr/bin/env python3
+#!/usr/bin/env python3
 """Run pairwise 2-player competitions across local models.
 
 Usage examples:
