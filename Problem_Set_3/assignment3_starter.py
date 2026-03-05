@@ -56,15 +56,14 @@ def build_fruit_b_prompt() -> str:
     )
 
 
-def build_player_prompt(letter, category):
+def build_player_prompt(letter, category) -> str:
     return (
         "You are playing Scattergories."
         f"Category: {category}\n"
         f"Letter: {letter}\n"
-    f   "Name one {category} that starts with the letter {letter}.\n"
+        f"Name one {category} that starts with the letter {letter}.\n"
         "Reply with ONLY the answer. One or two words max."
     )
-
 
 
 @dataclass

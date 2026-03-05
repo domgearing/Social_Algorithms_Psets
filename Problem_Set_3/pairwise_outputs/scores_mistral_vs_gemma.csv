@@ -1,0 +1,3 @@
+player_id,source_file,total_answers,valid_answers,valid_rate,points,avg_points_per_answer,collisions,collision_rate,distinct_valid_answers,judge_api_calls,judge_cache_hits
+answers_gemma2_2b,pairwise_outputs/answers_gemma2_2b.csv,128,106,0.828125,80,0.625,26,0.203125,84,0,256
+answers_mistral_7b,pairwise_outputs/answers_mistral_7b.csv,128,111,0.8671875,85,0.6640625,26,0.203125,72,0,256

@@ -1,0 +1,257 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q001,A,Animals,0,Albatross,albatross,1,0,1,Q001::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q001,A,Animals,1,Albatross,albatross,1,0,1,Q001::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q002,A,Jobs,0,Actor,actor,1,0,1,Q002::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q002,A,Jobs,1,Actor,actor,1,1,0,Q002::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q003,B,Fruits,0,Banana,banana,1,0,1,Q003::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q003,B,Fruits,1,Banana,banana,1,1,0,Q003::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q004,B,Things that are red,0,Berry,berry,1,1,0,Q004::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q004,B,Things that are red,1,Beet,beet,1,0,1,Q004::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q005,C,Countries,0,Canada,canada,1,0,1,Q005::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q005,C,Countries,1,Cuba,cuba,1,0,1,Q005::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q006,C,Board games,0,Cluefinding,cluefinding,0,0,0,Q006::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q006,C,Board games,1,Chess,chess,1,1,0,Q006::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,1,0,Q007::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q007,D,Musical instruments,1,Didgeridoo,didgeridoo,1,0,1,Q007::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q008,D,Things in a bathroom,0,Dishcloth,dishcloth,1,0,1,Q008::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q008,D,Things in a bathroom,1,Door,door,1,0,1,Q008::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q010,E,Movie titles,0,Election Day,election day,0,0,0,Q010::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q010,E,Movie titles,1,Eyes Wide Shut,eyes wide shut,1,0,1,Q010::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q012,F,Things in a backpack,0,Frisbee,frisbee,1,0,1,Q012::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q012,F,Things in a backpack,1,Fiber,fiber,0,0,0,Q012::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q014,G,Foods,0,Grapefruit,grapefruit,1,1,0,Q014::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q014,G,Foods,1,Grill,grill,0,0,0,Q014::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q015,H,Famous scientists,0,Hawking,hawking,1,0,1,Q015::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q015,H,Famous scientists,1,Hawking,hawking,1,1,0,Q015::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q016,H,Things at the beach,0,Helmet,helmet,0,0,0,Q016::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q016,H,Things at the beach,1,Helmet,helmet,0,0,0,Q016::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q018,I,Things in a classroom,0,Ivy,ivy,0,0,0,Q018::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q018,I,Things in a classroom,1,Ipad,ipad,1,1,0,Q018::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q019,J,Car brands,0,Jeep,jeep,1,1,0,Q019::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q019,J,Car brands,1,Jeep,jeep,1,1,0,Q019::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q020,J,Video game titles,0,Jet Set Radio,jet set radio,1,0,1,Q020::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q020,J,Video game titles,1,Jet Set Radio,jet set radio,1,0,1,Q020::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q021,K,Superheroes,0,Katana,katana,0,0,0,Q021::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q021,K,Superheroes,1,Kraken,kraken,0,0,0,Q021::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q022,K,Things in a grocery store,0,Ketchup,ketchup,1,0,1,Q022::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q022,K,Things in a grocery store,1,Kale,kale,1,1,0,Q022::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q023,L,Dog breeds,0,Labrador Retriever,labrador retriever,1,0,1,Q023::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q023,L,Dog breeds,1,Labrador,labrador,1,0,1,Q023::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q024,L,Books,0,Lord of the Rings,lord of the rings,1,1,0,Q024::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,1,0,Q024::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q025,M,Languages,1,Mandarin,mandarin,1,0,1,Q025::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q026,M,Clothing items,0,Mourinho,mourinho,0,0,0,Q026::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q026,M,Clothing items,1,Mittens,mittens,1,0,1,Q026::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q027,N,Birds,0,Nitrogenous,nitrogenous,0,0,0,Q027::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q028,N,Things in a hospital,0,Nurse,nurse,1,1,0,Q028::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q028,N,Things in a hospital,1,Nurse,nurse,1,1,0,Q028::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q030,O,Things in the sky,0,Orbit,orbit,1,0,1,Q030::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q030,O,Things in the sky,1,Orbit,orbit,1,0,1,Q030::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q031,P,Vegetables,0,"Pepperoni (Note: Pepperoni is a meat product, not a vegetable","pepperoni (note: pepperoni is a meat product, not a vegetable",0,0,0,Q031::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q031,P,Vegetables,1,"Pepperoni (Note: Pepperoni is not a vegetable, but since the","pepperoni (note: pepperoni is not a vegetable, but since the",0,0,0,Q031::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q032,P,Historical figures,0,Pope,pope,0,0,0,Q032::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q032,P,Historical figures,1,Plato,plato,1,0,1,Q032::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q033,Q,Words in English,0,Quack,quack,1,0,1,Q033::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q033,Q,Words in English,1,Quilt,quilt,1,0,1,Q033::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q034,Q,Fictional characters,0,Queenie,queenie,1,0,1,Q034::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q034,Q,Fictional characters,1,Quasimodo,quasimodo,1,0,1,Q034::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q035,R,Songs,0,Rockin' Robin,rockin' robin,1,0,1,Q035::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q035,R,Songs,1,Ramble On,ramble on,1,0,1,Q035::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q036,R,Tools,0,Rake,rake,1,1,0,Q036::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q036,R,Tools,1,Rake,rake,1,1,0,Q036::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q037,S,Animals,0,Squirrel,squirrel,1,0,1,Q037::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q037,S,Animals,1,Squirrel,squirrel,1,0,1,Q037::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q038,S,Things in an office,0,Sofa,sofa,0,0,0,Q038::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q038,S,Things in an office,1,Scanner,scanner,1,0,1,Q038::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q039,T,Countries,0,Tanzania,tanzania,1,0,1,Q039::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q039,T,Countries,1,Tanzania,tanzania,1,1,0,Q039::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q040,T,TV shows,0,Twilight Zone,twilight zone,1,1,0,Q040::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q040,T,TV shows,1,Twilight Zone,twilight zone,1,1,0,Q040::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q042,U,Things in a garage,0,Umbrella,umbrella,0,0,0,Q042::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q042,U,Things in a garage,1,Umbrella,umbrella,0,0,0,Q042::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q043,V,Jobs,0,Vet,vet,1,0,1,Q043::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q043,V,Jobs,1,Veterinarian,veterinarian,1,0,1,Q043::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q044,V,Things you wear,1,Vest,vest,1,0,1,Q044::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q045,W,Cities,1,Washington,washington,1,1,0,Q045::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q046,W,Things in a park,0,Willow,willow,1,0,1,Q046::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q046,W,Things in a park,1,Willow,willow,1,1,0,Q046::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q047,X,Brands,0,Xerox,xerox,1,0,1,Q047::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q047,X,Brands,1,Xbox,xbox,1,1,0,Q047::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q048,X,Words in English,0,Xenon,xenon,1,0,1,Q048::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q049,Y,Foods,0,Yogurt,yogurt,1,0,1,Q049::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q050,Y,Things at a party,0,Yogurt,yogurt,0,0,0,Q050::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q050,Y,Things at a party,1,Yacht,yacht,0,0,0,Q050::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q052,Z,Things in a zoo,0,Zookeepers,zookeepers,0,0,0,Q052::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q052,Z,Things in a zoo,1,Zookeeper,zookeeper,1,1,0,Q052::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q053,A,Things in a kitchen,0,Apple,apple,1,1,0,Q053::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q053,A,Things in a kitchen,1,Apple,apple,1,0,1,Q053::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q054,B,Singers,0,Barbara,barbara,0,0,0,Q054::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q054,B,Singers,1,Britney Spears,britney spears,1,0,1,Q054::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q055,C,Desserts,0,Cake,cake,1,0,1,Q055::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q055,C,Desserts,1,Cookie,cookie,1,0,1,Q055::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q056,D,Plants,0,Daisy,daisy,1,1,0,Q056::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q056,D,Plants,1,Daisy,daisy,1,0,1,Q056::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q057,E,Companies,0,Ebay,ebay,1,1,0,Q057::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q057,E,Companies,1,Ebay,ebay,1,1,0,Q057::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q058,F,Movie characters,0,Fox,fox,0,0,0,Q058::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q058,F,Movie characters,1,Frodo,frodo,1,0,1,Q058::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q059,G,Things in a toolbox,0,Hammer,hammer,1,0,1,Q059::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q059,G,Things in a toolbox,1,Grip,grip,1,0,1,Q059::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q060,H,Countries,1,Haiti,haiti,1,1,0,Q060::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q061,I,Musical artists,0,Israel Nash Jr.,israel nash jr,0,0,0,Q061::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q061,I,Musical artists,1,Ian Dury,ian dury,0,0,0,Q061::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q062,J,Things in a refrigerator,0,Jar,jar,1,0,1,Q062::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q062,J,Things in a refrigerator,1,Juice,juice,1,0,1,Q062::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q063,K,Cities,0,Knoxville,knoxville,1,1,0,Q063::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q063,K,Cities,1,Kashgar,kashgar,1,0,1,Q063::1
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q064,L,Things in a library,0,Library,library,0,0,0,Q064::0
+pairwise_outputs/answers_qwen2.5_7b_selfA.csv,answers_qwen2.5_7b_selfA,Q064,L,Things in a library,1,Librarian,librarian,1,0,1,Q064::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q001,A,Animals,0,Alpaca,alpaca,1,0,1,Q001::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q001,A,Animals,1,Alpaca,alpaca,1,0,1,Q001::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q002,A,Jobs,0,Accountant,accountant,1,0,1,Q002::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q002,A,Jobs,1,Actor,actor,1,1,0,Q002::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q003,B,Fruits,0,Blueberry,blueberry,1,0,1,Q003::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q003,B,Fruits,1,Banana,banana,1,1,0,Q003::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q004,B,Things that are red,0,Berry,berry,1,1,0,Q004::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q004,B,Things that are red,1,Berries,berries,1,0,1,Q004::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q005,C,Countries,0,Costa Rica,costa rica,1,0,1,Q005::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q005,C,Countries,1,Costa Rica,costa rica,1,0,1,Q005::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q006,C,Board games,0,Chess,chess,1,0,1,Q006::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q006,C,Board games,1,Chess,chess,1,1,0,Q006::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q007,D,Musical instruments,0,Didgeridoo,didgeridoo,1,1,0,Q007::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q007,D,Musical instruments,1,Drum,drum,1,0,1,Q007::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q008,D,Things in a bathroom,0,Drape,drape,0,0,0,Q008::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q008,D,Things in a bathroom,1,Dishcloth,dishcloth,1,0,1,Q008::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q009,E,Sports,0,Equestrian,equestrian,1,1,0,Q009::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q009,E,Sports,1,Equestrian,equestrian,1,1,0,Q009::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q010,E,Movie titles,0,Eyes Wide Shut,eyes wide shut,1,0,1,Q010::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q010,E,Movie titles,1,Edward Scissorhands,edward scissorhands,1,0,1,Q010::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q012,F,Things in a backpack,0,Folder,folder,1,0,1,Q012::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q012,F,Things in a backpack,1,Flashlight,flashlight,1,0,1,Q012::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q014,G,Foods,0,Grapefruit,grapefruit,1,1,0,Q014::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q014,G,Foods,1,Grapefruit,grapefruit,1,0,1,Q014::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q015,H,Famous scientists,0,Henrietta,henrietta,0,0,0,Q015::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q015,H,Famous scientists,1,Hawking,hawking,1,1,0,Q015::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q016,H,Things at the beach,0,Hat,hat,1,0,1,Q016::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q016,H,Things at the beach,1,Helmet,helmet,0,0,0,Q016::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q018,I,Things in a classroom,0,Ivy,ivy,0,0,0,Q018::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q018,I,Things in a classroom,1,Ipad,ipad,1,1,0,Q018::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q019,J,Car brands,0,Jeep,jeep,1,1,0,Q019::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q019,J,Car brands,1,Jeep,jeep,1,1,0,Q019::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q020,J,Video game titles,0,Jetsetters,jetsetters,0,0,0,Q020::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q020,J,Video game titles,1,Journey,journey,1,0,1,Q020::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q021,K,Superheroes,0,Kraken,kraken,0,0,0,Q021::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q021,K,Superheroes,1,Kingpin,kingpin,1,0,1,Q021::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q022,K,Things in a grocery store,0,Kale,kale,1,0,1,Q022::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q022,K,Things in a grocery store,1,Kale,kale,1,1,0,Q022::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q023,L,Dog breeds,0,Labrador,labrador,1,0,1,Q023::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q023,L,Dog breeds,1,Labrador Retriever,labrador retriever,1,0,1,Q023::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q024,L,Books,0,Lord of the Rings,lord of the rings,1,1,0,Q024::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q024,L,Books,1,Lord of the Rings,lord of the rings,1,1,0,Q024::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q025,M,Languages,0,Mandarin,mandarin,1,1,0,Q025::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q025,M,Languages,1,Malay,malay,1,0,1,Q025::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q026,M,Clothing items,0,Mittens,mittens,1,0,1,Q026::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q026,M,Clothing items,1,Mourinho,mourinho,0,0,0,Q026::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q027,N,Birds,0,Nightingale,nightingale,1,0,1,Q027::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q028,N,Things in a hospital,0,Nurse,nurse,1,1,0,Q028::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q028,N,Things in a hospital,1,Nurse,nurse,1,1,0,Q028::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q029,O,Companies,0,Oracle,oracle,1,1,0,Q029::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q030,O,Things in the sky,0,Orion,orion,1,0,1,Q030::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q030,O,Things in the sky,1,Orion,orion,1,0,1,Q030::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q031,P,Vegetables,0,"Pepperoni (Note: While not a vegetable, this is the closest common","pepperoni (note: while not a vegetable, this is the closest common",0,0,0,Q031::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q031,P,Vegetables,1,"Pepperoni (Note: Pepperoni is not a vegetable, but since the","pepperoni (note: pepperoni is not a vegetable, but since the",0,0,0,Q031::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q032,P,Historical figures,0,Plato,plato,1,0,1,Q032::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q032,P,Historical figures,1,Pompeius,pompeius,0,0,0,Q032::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q033,Q,Words in English,0,Quaint,quaint,1,0,1,Q033::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q033,Q,Words in English,1,Quark,quark,1,0,1,Q033::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q034,Q,Fictional characters,0,Quagmire,quagmire,1,0,1,Q034::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q034,Q,Fictional characters,1,Quagmire,quagmire,1,0,1,Q034::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q035,R,Songs,0,Rapper's Delight,rapper's delight,0,0,0,Q035::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q035,R,Songs,1,Rockstar,rockstar,1,0,1,Q035::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q036,R,Tools,0,Rake,rake,1,1,0,Q036::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q036,R,Tools,1,Rake,rake,1,1,0,Q036::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q037,S,Animals,0,Snake,snake,1,0,1,Q037::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q037,S,Animals,1,Snake,snake,1,0,1,Q037::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q038,S,Things in an office,0,Scarf,scarf,0,0,0,Q038::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q038,S,Things in an office,1,Sofa,sofa,0,0,0,Q038::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q039,T,Countries,0,Tunisia,tunisia,1,0,1,Q039::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q039,T,Countries,1,Tanzania,tanzania,1,1,0,Q039::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q040,T,TV shows,0,Twilight Zone,twilight zone,1,1,0,Q040::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q040,T,TV shows,1,Twilight Zone,twilight zone,1,1,0,Q040::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q042,U,Things in a garage,0,Umbrella,umbrella,0,0,0,Q042::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q042,U,Things in a garage,1,Uncle Sam hat,uncle sam hat,0,0,0,Q042::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q043,V,Jobs,0,Valet,valet,1,0,1,Q043::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q043,V,Jobs,1,Valet,valet,1,0,1,Q043::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q044,V,Things you wear,1,Veil,veil,1,0,1,Q044::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q045,W,Cities,1,Washington,washington,1,1,0,Q045::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q046,W,Things in a park,0,Wristwatch,wristwatch,0,0,0,Q046::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q046,W,Things in a park,1,Willow,willow,1,1,0,Q046::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q047,X,Brands,0,Xbox,xbox,1,0,1,Q047::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q047,X,Brands,1,Xbox,xbox,1,1,0,Q047::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q048,X,Words in English,0,Xylophone,xylophone,1,0,1,Q048::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q049,Y,Foods,0,Yam,yam,1,0,1,Q049::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q050,Y,Things at a party,0,Yo-yo,yo-yo,0,0,0,Q050::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q050,Y,Things at a party,1,Yakitori,yakitori,1,0,1,Q050::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q052,Z,Things in a zoo,0,Zookeepers,zookeepers,0,0,0,Q052::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q052,Z,Things in a zoo,1,Zookeeper,zookeeper,1,1,0,Q052::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q053,A,Things in a kitchen,0,Apple,apple,1,1,0,Q053::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q053,A,Things in a kitchen,1,Apron,apron,1,0,1,Q053::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q054,B,Singers,0,Britney Spears,britney spears,1,0,1,Q054::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q054,B,Singers,1,Beyoncé,beyonc,0,0,0,Q054::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q055,C,Desserts,0,Churros,churros,1,0,1,Q055::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q055,C,Desserts,1,ChocolateCake,chocolatecake,0,0,0,Q055::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q056,D,Plants,0,Daisy,daisy,1,1,0,Q056::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q056,D,Plants,1,Durian,durian,1,0,1,Q056::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q057,E,Companies,0,Ebay,ebay,1,1,0,Q057::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q057,E,Companies,1,Ebay,ebay,1,1,0,Q057::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q058,F,Movie characters,0,Fred Flintstone,fred flintstone,1,0,1,Q058::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q058,F,Movie characters,1,Flynn,flynn,0,0,0,Q058::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q059,G,Things in a toolbox,0,Grappling hook,grappling hook,0,0,0,Q059::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q059,G,Things in a toolbox,1,Hammer,hammer,1,0,1,Q059::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q060,H,Countries,1,Haiti,haiti,1,1,0,Q060::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q061,I,Musical artists,0,Ian Dury,ian dury,0,0,0,Q061::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q061,I,Musical artists,1,Iron Maiden,iron maiden,1,0,1,Q061::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q062,J,Things in a refrigerator,0,Jelly,jelly,1,0,1,Q062::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q062,J,Things in a refrigerator,1,Jelly,jelly,1,0,1,Q062::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q063,K,Cities,0,Knoxville,knoxville,1,1,0,Q063::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q063,K,Cities,1,Kazan,kazan,1,0,1,Q063::1
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q064,L,Things in a library,0,Lamp,lamp,0,0,0,Q064::0
+pairwise_outputs/answers_qwen2.5_7b_selfB.csv,answers_qwen2.5_7b_selfB,Q064,L,Things in a library,1,Lamp,lamp,0,0,0,Q064::1

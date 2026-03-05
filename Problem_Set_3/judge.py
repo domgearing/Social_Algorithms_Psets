@@ -20,7 +20,6 @@ from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 
-
 OPENAI_CHAT_URL = "https://api.openai.com/v1/chat/completions"
 REQUIRED_COLUMNS = ["question_id", "letter", "category", "round_idx", "answer"]
 

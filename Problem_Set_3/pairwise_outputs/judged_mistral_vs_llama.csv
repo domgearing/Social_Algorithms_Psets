@@ -1,0 +1,280 @@
+source_file,player_id,question_id,letter,category,round_idx,answer_raw,answer_norm,valid,collision,score,round_key
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q001,A,Animals,0,Elephant,elephant,0,0,0,Q001::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q001,A,Animals,1,Aardvark,aardvark,1,0,1,Q001::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q002,A,Jobs,0,Architect,architect,1,0,1,Q002::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q002,A,Jobs,1,Architect,architect,1,0,1,Q002::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q003,B,Fruits,0,Blueberry,blueberry,1,0,1,Q003::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q003,B,Fruits,1,Blueberry,blueberry,1,1,0,Q003::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q004,B,Things that are red,0,Bucket,bucket,0,0,0,Q004::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q004,B,Things that are red,1,"Bucket
+
+(In this game, Scattergories, unique answers","bucket (in this game, scattergories, unique answers",0,0,0,Q004::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q006,C,Board games,0,Clue Mastermind,clue mastermind,0,0,0,Q006::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q006,C,Board games,1,"Clue
+
+The answer is Catan. It's a popular strategy",clue the answer is catan. it's a popular strategy,0,0,0,Q006::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q007,D,Musical instruments,0,Double bass,double bass,1,0,1,Q007::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q007,D,Musical instruments,1,Double bass,double bass,1,0,1,Q007::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q008,D,Things in a bathroom,0,Showerhead,showerhead,1,0,1,Q008::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q008,D,Things in a bathroom,1,Deodorant,deodorant,1,0,1,Q008::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q009,E,Sports,0,Equestrianism,equestrianism,1,0,1,Q009::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q009,E,Sports,1,Equestrianism,equestrianism,1,0,1,Q009::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q010,E,Movie titles,0,Easy Rider,easy rider,1,0,1,Q010::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q010,E,Movie titles,1,Easy Rider,easy rider,1,0,1,Q010::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q012,F,Things in a backpack,0,Flashlight,flashlight,1,0,1,Q012::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q012,F,Things in a backpack,1,Flashlight,flashlight,1,0,1,Q012::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q014,G,Foods,0,Granola,granola,1,0,1,Q014::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q014,G,Foods,1,Granola,granola,1,0,1,Q014::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q015,H,Famous scientists,0,Hawking,hawking,1,0,1,Q015::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q015,H,Famous scientists,1,Hawking,hawking,1,0,1,Q015::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q016,H,Things at the beach,0,Hammock,hammock,1,0,1,Q016::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q016,H,Things at the beach,1,Hammock,hammock,1,1,0,Q016::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q018,I,Things in a classroom,0,Interactive Whiteboard,interactive whiteboard,1,0,1,Q018::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q018,I,Things in a classroom,1,Interactive whiteboard,interactive whiteboard,1,0,1,Q018::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q019,J,Car brands,0,Jaguar,jaguar,1,1,0,Q019::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q020,J,Video game titles,0,Jetpack Joyride,jetpack joyride,1,0,1,Q020::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q020,J,Video game titles,1,"""Jetpack Joyride""",jetpack joyride,1,0,1,Q020::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q021,K,Superheroes,0,"Knights
+Katana
+Kraken
+Kryptonian (",knights katana kraken kryptonian,0,0,0,Q021::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q021,K,Superheroes,1,"Katniss (from the Hunger Games, often considered a superhero due","katniss (from the hunger games, often considered a superhero due",0,0,0,Q021::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q022,K,Things in a grocery store,0,Kiwifruit,kiwifruit,1,0,1,Q022::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q022,K,Things in a grocery store,1,Ketchup,ketchup,1,1,0,Q022::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q023,L,Dog breeds,0,Labrador Retriever,labrador retriever,1,0,1,Q023::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q024,L,Books,0,"""Lord of the Rings""",lord of the rings,1,1,0,Q024::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q024,L,Books,1,"""Lord of the Rings""",lord of the rings,1,1,0,Q024::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q025,M,Languages,0,Mandarin,mandarin,1,0,1,Q025::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q025,M,Languages,1,Mandarin,mandarin,1,0,1,Q025::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q026,M,Clothing items,0,Mittens,mittens,1,0,1,Q026::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q026,M,Clothing items,1,Mittens,mittens,1,0,1,Q026::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q028,N,Things in a hospital,0,Nurse,nurse,1,1,0,Q028::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q028,N,Things in a hospital,1,Nurse,nurse,1,1,0,Q028::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q029,O,Companies,0,"Oculus
+Oxfam
+Oracle
+Old Navy
+Overstock",oculus oxfam oracle old navy overstock,1,0,1,Q029::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q030,O,Things in the sky,0,"Owl
+Orion (constellation)
+Oxygen (not a",owl orion (constellation) oxygen (not a,1,0,1,Q030::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q030,O,Things in the sky,1,"Owl
+Orion (constellation)
+Orbit
+Ozone",owl orion (constellation) orbit ozone,1,0,1,Q030::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q031,P,Vegetables,0,Peppers,peppers,1,0,1,Q031::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q031,P,Vegetables,1,Peppers,peppers,1,0,1,Q031::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q032,P,Historical figures,0,Pericles,pericles,1,0,1,Q032::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q032,P,Historical figures,1,Paul Revere,paul revere,1,0,1,Q032::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q033,Q,Words in English,0,Quilt,quilt,1,0,1,Q033::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q033,Q,Words in English,1,Quilt,quilt,1,0,1,Q033::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q034,Q,Fictional characters,0,Quagmire (Family Guy),quagmire (family guy,1,0,1,Q034::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q034,Q,Fictional characters,1,Quagmire (Family Guy),quagmire (family guy,1,0,1,Q034::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q035,R,Songs,0,Rolling in the Deep (Adele),rolling in the deep (adele,0,0,0,Q035::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q035,R,Songs,1,Rolling in the Deep,rolling in the deep,1,1,0,Q035::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q036,R,Tools,0,Rake,rake,1,0,1,Q036::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q036,R,Tools,1,Rake,rake,1,0,1,Q036::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q037,S,Animals,0,Snow Leopard,snow leopard,1,0,1,Q037::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q037,S,Animals,1,Sea Turtle,sea turtle,1,0,1,Q037::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q039,T,Countries,0,Timor-Leste,timor-leste,1,0,1,Q039::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q039,T,Countries,1,Tunisia,tunisia,1,1,0,Q039::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q040,T,TV shows,0,The Prisoner (UK),the prisoner (uk,1,0,1,Q040::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q040,T,TV shows,1,The Adams Family,the adams family,0,0,0,Q040::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q042,U,Things in a garage,0,Utility cart,utility cart,1,0,1,Q042::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q042,U,Things in a garage,1,Utility Belt,utility belt,0,0,0,Q042::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q043,V,Jobs,0,Veterinarian,veterinarian,1,1,0,Q043::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q044,V,Things you wear,1,Vest,vest,1,1,0,Q044::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q045,W,Cities,1,Washington,washington,1,1,0,Q045::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q046,W,Things in a park,0,Willow (tree),willow (tree,1,0,1,Q046::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q046,W,Things in a park,1,Waterfall,waterfall,1,0,1,Q046::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q048,X,Words in English,0,Xylophone,xylophone,1,1,0,Q048::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q050,Y,Things at a party,0,Yumballs,yumballs,0,0,0,Q050::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q050,Y,Things at a party,1,Yacht,yacht,0,0,0,Q050::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q052,Z,Things in a zoo,1,Zebra,zebra,1,0,1,Q052::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q053,A,Things in a kitchen,0,Apron,apron,1,1,0,Q053::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q053,A,Things in a kitchen,1,Appliance,appliance,1,0,1,Q053::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q054,B,Singers,0,"Billie
+Eilish",billie eilish,1,0,1,Q054::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q054,B,Singers,1,"Billie
+
+Eilish
+
+(Assuming you meant one popular",billie eilish (assuming you meant one popular,1,0,1,Q054::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q055,C,Desserts,0,Chocolate Cake,chocolate cake,1,0,1,Q055::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q055,C,Desserts,1,Cake,cake,1,0,1,Q055::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q056,D,Plants,0,Daisy,daisy,1,0,1,Q056::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q056,D,Plants,1,Daisy,daisy,1,0,1,Q056::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q057,E,Companies,0,"Eastman
+Elon Musk's Companies
+Esso",eastman elon musk's companies esso,0,0,0,Q057::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q057,E,Companies,1,Eastman Kodak,eastman kodak,1,0,1,Q057::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q058,F,Movie characters,0,Forrest Gump,forrest gump,1,0,1,Q058::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q058,F,Movie characters,1,Forrest Gump,forrest gump,1,1,0,Q058::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q059,G,Things in a toolbox,0,Hammer (G-clamp optional),hammer (g-clamp optional,1,0,1,Q059::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q059,G,Things in a toolbox,1,Hammer,hammer,1,0,1,Q059::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q060,H,Countries,1,Holland (Netherlands),holland (netherlands,0,0,0,Q060::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q061,I,Musical artists,0,Imogen Heap,imogen heap,1,0,1,Q061::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q061,I,Musical artists,1,Imogen Heap,imogen heap,1,0,1,Q061::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q062,J,Things in a refrigerator,0,Juice,juice,1,1,0,Q062::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q062,J,Things in a refrigerator,1,Juice,juice,1,1,0,Q062::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q063,K,Cities,0,Kyoto,kyoto,1,0,1,Q063::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q063,K,Cities,1,Kansas City,kansas city,1,1,0,Q063::1
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q064,L,Things in a library,0,Library Ladder,library ladder,1,0,1,Q064::0
+pairwise_outputs/answers_mistral_7b.csv,answers_mistral_7b,Q064,L,Things in a library,1,Library lamp,library lamp,0,0,0,Q064::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q001,A,Animals,0,Aardvark,aardvark,1,0,1,Q001::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q001,A,Animals,1,Alligator,alligator,1,0,1,Q001::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q002,A,Jobs,0,Accountant.,accountant,1,0,1,Q002::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q002,A,Jobs,1,Accountant,accountant,1,0,1,Q002::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q003,B,Fruits,0,Boysenberry,boysenberry,1,0,1,Q003::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q003,B,Fruits,1,Blueberry,blueberry,1,1,0,Q003::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q004,B,Things that are red,0,Burgundy,burgundy,0,0,0,Q004::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q004,B,Things that are red,1,Bricks,bricks,1,0,1,Q004::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q005,C,Countries,0,Canada,canada,1,1,0,Q005::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q005,C,Countries,1,Canada,canada,1,1,0,Q005::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q006,C,Board games,0,Clue,clue,1,0,1,Q006::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q006,C,Board games,1,Cranium,cranium,1,0,1,Q006::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q007,D,Musical instruments,0,Drums,drums,1,0,1,Q007::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q007,D,Musical instruments,1,Drums,drums,1,0,1,Q007::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q008,D,Things in a bathroom,0,Drain.,drain,1,0,1,Q008::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q008,D,Things in a bathroom,1,Drain,drain,1,0,1,Q008::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q009,E,Sports,0,Equestrian,equestrian,1,0,1,Q009::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q009,E,Sports,1,Esports,esports,1,0,1,Q009::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q010,E,Movie titles,0,Eternal Sunshine of the Spotless Mind,eternal sunshine of the spotless mind,0,0,0,Q010::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q010,E,Movie titles,1,Eternal Sunshine,eternal sunshine,0,0,0,Q010::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q011,F,Fish,0,Flounder,flounder,1,1,0,Q011::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q011,F,Fish,1,Flounder,flounder,1,1,0,Q011::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q012,F,Things in a backpack,0,Foldable,foldable,0,0,0,Q012::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q012,F,Things in a backpack,1,Folder,folder,1,0,1,Q012::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q013,G,U.S. states,0,Georgia,georgia,1,1,0,Q013::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q013,G,U.S. states,1,Georgia,georgia,1,1,0,Q013::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q014,G,Foods,0,Garlic,garlic,1,0,1,Q014::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q014,G,Foods,1,Garlic,garlic,1,0,1,Q014::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q015,H,Famous scientists,0,Hans Bethe,hans bethe,1,0,1,Q015::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q015,H,Famous scientists,1,Harlow,harlow,0,0,0,Q015::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q016,H,Things at the beach,0,Harbour,harbour,0,0,0,Q016::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q016,H,Things at the beach,1,Hammock,hammock,1,1,0,Q016::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q017,I,Cities,0,Istanbul,istanbul,0,0,0,Q017::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q017,I,Cities,1,Istanbul,istanbul,0,0,0,Q017::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q018,I,Things in a classroom,0,Ibuprofen,ibuprofen,0,0,0,Q018::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q018,I,Things in a classroom,1,Inkwell,inkwell,1,0,1,Q018::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q019,J,Car brands,0,Jaguar,jaguar,1,1,0,Q019::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q019,J,Car brands,1,Jaguar,jaguar,1,1,0,Q019::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q020,J,Video game titles,0,Juicer,juicer,0,0,0,Q020::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q020,J,Video game titles,1,Jade Empire,jade empire,1,0,1,Q020::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q021,K,Superheroes,0,King Kong,king kong,0,0,0,Q021::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q021,K,Superheroes,1,Krypton,krypton,0,0,0,Q021::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q022,K,Things in a grocery store,0,Ketchup.,ketchup,1,0,1,Q022::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q022,K,Things in a grocery store,1,Ketchup,ketchup,1,1,0,Q022::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q023,L,Dog breeds,0,Labrador,labrador,1,0,1,Q023::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q023,L,Dog breeds,1,Labrador,labrador,1,1,0,Q023::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q024,L,Books,0,Lord of the Rings,lord of the rings,1,1,0,Q024::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q024,L,Books,1,Lord of the Rings.,lord of the rings,1,1,0,Q024::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q025,M,Languages,0,Malagasy,malagasy,1,0,1,Q025::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q025,M,Languages,1,Malayalam,malayalam,1,0,1,Q025::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q026,M,Clothing items,0,Mitten,mitten,1,0,1,Q026::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q026,M,Clothing items,1,Muleses,muleses,0,0,0,Q026::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q027,N,Birds,0,Nightingale,nightingale,1,1,0,Q027::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q027,N,Birds,1,Nightingale,nightingale,1,1,0,Q027::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q028,N,Things in a hospital,0,Nurse,nurse,1,1,0,Q028::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q028,N,Things in a hospital,1,Nurse,nurse,1,1,0,Q028::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q029,O,Companies,0,Oxfam,oxfam,1,0,1,Q029::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q029,O,Companies,1,Oracle,oracle,1,1,0,Q029::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q030,O,Things in the sky,0,Orion,orion,1,0,1,Q030::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q030,O,Things in the sky,1,Ozone,ozone,0,0,0,Q030::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q031,P,Vegetables,0,Parsnip,parsnip,1,0,1,Q031::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q031,P,Vegetables,1,Parsnip,parsnip,1,0,1,Q031::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q032,P,Historical figures,0,Peter the Great,peter the great,1,0,1,Q032::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q032,P,Historical figures,1,Peter the Great,peter the great,1,0,1,Q032::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q033,Q,Words in English,0,Quiet,quiet,1,0,1,Q033::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q033,Q,Words in English,1,Question,question,1,0,1,Q033::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q034,Q,Fictional characters,0,Qbert,qbert,1,0,1,Q034::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q034,Q,Fictional characters,1,Quasimodo,quasimodo,1,0,1,Q034::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q035,R,Songs,0,Rocket Man,rocket man,1,0,1,Q035::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q035,R,Songs,1,Rolling in the Deep.,rolling in the deep,1,1,0,Q035::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q036,R,Tools,0,Router,router,1,0,1,Q036::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q036,R,Tools,1,Ratchet,ratchet,1,0,1,Q036::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q037,S,Animals,0,Squirrel,squirrel,1,0,1,Q037::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q037,S,Animals,1,Salamander,salamander,1,0,1,Q037::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q038,S,Things in an office,0,Stapler,stapler,1,1,0,Q038::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q038,S,Things in an office,1,Stapler,stapler,1,1,0,Q038::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q039,T,Countries,0,Turkey,turkey,1,0,1,Q039::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q039,T,Countries,1,Tunisia,tunisia,1,1,0,Q039::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q040,T,TV shows,0,The Twilight Zone,the twilight zone,1,0,1,Q040::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q040,T,TV shows,1,The Twilight Zone,the twilight zone,1,0,1,Q040::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q041,U,U.S. colleges,0,University of Utah,university of utah,1,1,0,Q041::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q041,U,U.S. colleges,1,University of Utah,university of utah,1,1,0,Q041::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q042,U,Things in a garage,0,Upholstery tools,upholstery tools,1,0,1,Q042::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q042,U,Things in a garage,1,Utility cart,utility cart,1,0,1,Q042::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q043,V,Jobs,0,Veterinarian,veterinarian,1,1,0,Q043::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q043,V,Jobs,1,Veterinarian,veterinarian,1,1,0,Q043::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q044,V,Things you wear,0,Vest,vest,1,1,0,Q044::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q044,V,Things you wear,1,Vest,vest,1,1,0,Q044::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q045,W,Cities,0,Washington,washington,1,1,0,Q045::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q045,W,Cities,1,Washington,washington,1,1,0,Q045::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q046,W,Things in a park,0,Walkway,walkway,1,0,1,Q046::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q046,W,Things in a park,1,Walking path,walking path,1,0,1,Q046::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q047,X,Brands,0,Xerox,xerox,1,1,0,Q047::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q047,X,Brands,1,Xerox,xerox,1,1,0,Q047::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q048,X,Words in English,0,Xylophone,xylophone,1,1,0,Q048::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q048,X,Words in English,1,Xylophone,xylophone,1,1,0,Q048::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q049,Y,Foods,0,Yogurt,yogurt,1,1,0,Q049::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q049,Y,Foods,1,Yogurt,yogurt,1,1,0,Q049::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q050,Y,Things at a party,0,Yellow punch,yellow punch,1,0,1,Q050::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q050,Y,Things at a party,1,Yorkshire pudding,yorkshire pudding,0,0,0,Q050::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q051,Z,Animals,0,Zebra,zebra,1,1,0,Q051::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q051,Z,Animals,1,Zebra,zebra,1,1,0,Q051::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q052,Z,Things in a zoo,0,Zebra,zebra,1,1,0,Q052::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q052,Z,Things in a zoo,1,Zebras.,zebras,1,0,1,Q052::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q053,A,Things in a kitchen,0,Apron,apron,1,1,0,Q053::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q053,A,Things in a kitchen,1,Aluminum,aluminum,1,0,1,Q053::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q054,B,Singers,0,Beyoncé,beyonc,0,0,0,Q054::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q054,B,Singers,1,Beyoncé,beyonc,0,0,0,Q054::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q055,C,Desserts,0,Crème Brûlée,crème brûlée,1,0,1,Q055::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q055,C,Desserts,1,Crème Brûlée,crème brûlée,1,0,1,Q055::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q056,D,Plants,0,Dandelion,dandelion,1,0,1,Q056::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q056,D,Plants,1,Dahlia,dahlia,1,0,1,Q056::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q057,E,Companies,0,Electronic Arts,electronic arts,1,0,1,Q057::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q057,E,Companies,1,Eclipse,eclipse,0,0,0,Q057::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q058,F,Movie characters,0,Frodo,frodo,1,0,1,Q058::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q058,F,Movie characters,1,Forrest Gump,forrest gump,1,1,0,Q058::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q059,G,Things in a toolbox,0,Glue gun.,glue gun,1,0,1,Q059::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q059,G,Things in a toolbox,1,Gripset,gripset,0,0,0,Q059::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q060,H,Countries,0,Haiti,haiti,1,1,0,Q060::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q060,H,Countries,1,Hungary,hungary,1,0,1,Q060::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q061,I,Musical artists,0,Ice Cube,ice cube,0,0,0,Q061::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q061,I,Musical artists,1,Ice Cube,ice cube,0,0,0,Q061::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q062,J,Things in a refrigerator,0,Juice,juice,1,1,0,Q062::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q062,J,Things in a refrigerator,1,Juice,juice,1,1,0,Q062::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q063,K,Cities,0,Kansas City,kansas city,1,0,1,Q063::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q063,K,Cities,1,Kansas City,kansas city,1,1,0,Q063::1
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q064,L,Things in a library,0,Lending desk,lending desk,1,0,1,Q064::0
+pairwise_outputs/answers_llama3.2_3b.csv,answers_llama3.2_3b,Q064,L,Things in a library,1,Librarian,librarian,1,0,1,Q064::1
